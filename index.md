@@ -5,3 +5,5 @@
 ![alt text](GrimvaleLogo.png "Logo Title Text 1")
 
 ![alt text](Brimrock.jpg "Logo Title Text 1")
+
+![alt text](HammerfallMineEntrance.jpg "Logo Title Text 1")
