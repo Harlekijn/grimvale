@@ -11,3 +11,9 @@
 ![alt text](Graviton.jpg "Logo Title Text 1")
 
 ![alt text](NelsonHoratio.jpg "Logo Title Text 1")
+
+![alt text](./Bugbear_Chief.jpeg "Logo Title Text 1")
+
+![alt text](./BugbearChief2.jpeg "Logo Title Text 1")
+
+![alt text](./bugbear.jpeg "Logo Title Text 1")
