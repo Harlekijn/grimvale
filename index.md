@@ -28,4 +28,6 @@
 
 ![alt text](./QaiMorningstar.png "Logo Title Text 1")
 
-![alt text](./SacredGuardianStatue.webp "Logo Title Text 1")
+![alt text](./SacredGuardianStatue.jpeg "Logo Title Text 1")
+
+![alt text](./Grave_Circumstances.webp "Logo Title Text 1")
