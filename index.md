@@ -27,3 +27,5 @@
 ![alt text](./ImkoZombies.png "Logo Title Text 1")
 
 ![alt text](./QaiMorningstar.png "Logo Title Text 1")
+
+![alt text](./SacredGuardianStatue.webp "Logo Title Text 1")
