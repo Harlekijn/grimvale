@@ -31,3 +31,5 @@
 ![alt text](./SacredGuardianStatue.jpeg "Logo Title Text 1")
 
 ![alt text](./Grave_Circumstances.webp "Logo Title Text 1")
+
+![alt text](./Skeleton%20Mage_bg.png "Logo Title Text 1")
