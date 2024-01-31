@@ -1,2 +1,0 @@
-# grimvale
-Grimvale book
