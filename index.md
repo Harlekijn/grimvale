@@ -1,23 +1,23 @@
 # Index
 
-![alt text](./book/cover_art.jpg "Logo Title Text 1")
+![alt text](./book/Brimrock.jpg "Brimrock")
 
-![alt text](./book/GrimvaleLogo.png "Logo Title Text 1")
+![alt text](./book/BugbearChief.jpg "Bugbear Chief")
 
-![alt text](./book/Brimrock.jpg "Logo Title Text 1")
+![alt text](./book/CoverArt.jpg "Grimvale Cover Art")
 
-![alt text](./book/HammerfallMineEntrance.jpg "Logo Title Text 1")
+![alt text](./book/Graviton.jpg "Graviton")
 
-![alt text](./book/Graviton.jpg "Logo Title Text 1")
+![alt text](./book/GrimvaleLogo.png "Grimvale Logo")
 
-![alt text](./book/NelsonHoratio.jpeg "Logo Title Text 1")
+![alt text](./book/HammerfallMineEntrance.jpg "Entrance to Hammerfall Mine")
 
-![alt text](./book/BugbearChief2.jpeg "Logo Title Text 1")
+![alt text](./book/JasminQai.jpg "Jasmin Qai")
 
-![alt text](./book/JasminQai.jpeg "Logo Title Text 1")
+![alt text](./book/NelsonHoratio.jpg "Nelson Horatio")
 
-![alt text](./book/QaiMorningstar.png "Logo Title Text 1")
+![alt text](./book/QaiMorningstar.png "Qai Morningstar")
 
-![alt text](./book/SacredGuardianStatue.jpeg "Logo Title Text 1")
+![alt text](./book/SacredGuardianStatue.jpeg "Sacred Guardian Statue")
 
-![alt text](./book/Skeleton%20Mage_bg.png "Logo Title Text 1")
+![alt text](./book/SkeletonMage.png "Skeleton Mage")
