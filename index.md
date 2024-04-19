@@ -18,6 +18,6 @@
 
 ![alt text](./book/QaiMorningstar.png "Qai Morningstar")
 
-![alt text](./book/SacredGuardianStatue.jpeg "Sacred Guardian Statue")
+![alt text](./book/SacredGuardianStatue.jpg "Sacred Guardian Statue")
 
 ![alt text](./book/SkeletonMage.png "Skeleton Mage")
