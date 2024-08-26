@@ -11760,13 +11760,13 @@
       "Version": 11,
       "blockId": "54b4c664-030b-4da3-8d5a-f4bbbf105acb",
       "center": {
-        "x": 17.3088226,
-        "y": 15.9824753
+        "x": 12.5134773,
+        "y": 16.6609573
       },
-      "height": 7.80435276,
+      "height": 5.187197,
       "fixedHeight": true,
       "scale": 2.54175,
-      "rotation": -382.5,
+      "rotation": -585.0,
       "modifierValues": {},
       "randSeed": 341947337,
       "placedWithCollisionsEnabled": false,
