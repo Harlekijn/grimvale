@@ -1,0 +1,19 @@
+*Jullie staan bij de ingang van [[Velnoya#Het gesmolten goud|Het Gesmolten Goud]], [[Velnoya|Velnoya's]] beroemde fonduepub, bekend om zijn enorme ketel gloeiendhete kaas, de verhalen zeggen dat de keten nog groter is dan een Ancient Dragon) en het geluid van vrolijkheid zweeft door de smaragdgroene deuren, die open zijn gegooid in de geest van gastvrijheid en om de straat te vullen met de verleidelijke geur van vers gesmolten kaas. Boven deze herberg torent het meest majestueuze gebouw van de stad uit, een bibliotheek die bekendstaat als [[Velnoya#Het Scholarium]], het glazen koepeldak van het Scholarium glinstert in het zonlicht.* 
+
+*Zelfs hier op de hoogste heuvel in de stad hangt, blijft de mist zwakjes om je enkels hangen voordat het over de geplaveide straten naar beneden stroomt en de houten huizen beneden overspoelt alvorens het het moeras in golft. Vanaf het hoogste punt in Velnoya zie je de randen van het onheilspellende moeras en in de verte zie je de gigantische bomen van[[Het Zilverwoud]]. Je blik op de mistige moeras en het drukke stadje wordt onderbroken als de kar van een verkoper van windgongen aan de overkant van de straat in een oorverdovend lawaai uitbarst terwijl hout, metaal en glas in paniek rinkelen. Je draait je om, half verwachtend een onhandige toerist te zien die in de klokkenvitrine is gevallen, maar in plaats daarvan zie je niets meer dan de verwarde winkelier, een sproeterige halfling met olijfkleurige huid die met een verbijsterde uitdrukking op haar gezicht naar haar waren staart. Als je twee en twee bij elkaar optelt, voel je het. De grond begint onder je voeten te trillen en met een maagverdraaiende kreun begin je het begin van een scheur te zien tussen de netjes voor je uitgelijnde kasseien.*
+
+De spelers rollen een Perception Check. Bij een success zien ze het volgende:
+
+- Bij welke score dan ook: Het uithangbord van de herberg met daarop de tekst: "_Het gesmolten goed: Fondoe het gewoon"_ drijgt te vallen en bovenop een dorpeling te vallen.
+- Bij een 12 of hoger: Stadswachten komen uit de nabij gelegen straten en proberen dorpelingen in veiligheid te brengen
+- Bij een 13 of hoger: De koepen van het Scholarium gaat open en er komt een luchtschip uit. Op de boeg van het luchtschip staat de naam: Imperius.
+
+Een Minor Fire Elemental en een Minor Earth Elemental stappen uit de scheur die zich voor jullie vormen. Roll for initiative.
+
+- De eerste twee rondes van het gevecht is de movement van de spelers gehalveerd omdat de aardbeving nog bezig is.
+- Ronde 1: Initiative count 20: De verkoper van de windgongen zakt over de rand van de scheur.
+- Ronde 2: Initiative count 20: _"Jullie horen geschreeuw vanuit de herberg.  Met een luide klap valt de gigantische ketel met daarin tonnen gesmolten kaas van de haak en rolt om. Een vloedgolf van Gruyere en Emmentaler komt jullie tegemoet."_ De kaas komt tot 10ft buiten de herberg. De spelers zitten klem tussen de kaas aan de ene kant en de elementals aan de andere kant.
+- Ronde 3: Initiative count 20: De kaas is nu 10 ft verder. De koopman glipt met 1 hand los en kan zich nog maar net vasthouden. Als hij niet snel geholpen wordt zal hij in de kloof vallen.
+- Ronde 4 en verder: Initiative 20: De kaas drijft de spelers steeds dichter bij de kloof en de elementals. Als de spelers door de kaas geraakt worden krijgen ze 2d4 fire dmg.
+
+Als de laatste elemental dood is komt een touw uit de lucht vallen. Jullie kijken omhoog en zien de Imperius boven jullie zweven. Er hangt een figuur uit die naar jullie schreeuwt en gebaart om het touw in te klimmen. Het klimmen verijst een DC 12 Athletics check. Als het niet lukt kunnen ze zich de volgende beurt vastmaken aan het touw en worden ze opgehezen.

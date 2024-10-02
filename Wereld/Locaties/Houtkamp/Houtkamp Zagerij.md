@@ -1,0 +1,5 @@
+De levendige houtzagerij is een van de centrale plekken in [[Houtkamp]]. Hier wordt het hout dat in het [[Zilverwoud]] wordt gekapt, verwerkt tot planken en balken.
+
+De zagerij is een van de oudste gebouwen in Houtkamp en de stad heeft zich in de loop van de tijd om de zagerij heen gevormd. De zagerij lag vroeger binnen de muren van de stad, maar dit zorgde voor een ruimtegebrek toen de stad eenmaal verder groeide en daarom is de muur verplaatst tot net naast de zagerij. De zagerij licht ook naast de [[Zilverstroom Rivier]] en een klein dok en steiger , zodat het hout makkelijk vervoerd kan worden. De rivier zorgt ook voor de kracht die nodig is voor de zaag in de zagerij. Een gigantisch waterrad in de snel stromende rivier zorgt ervoor dat de zagerij efficient kan blijven werken.
+
+Het werk in de zagerij wordt geleid door [[Logar Doornvoet]], de dwerg zaagmeester.

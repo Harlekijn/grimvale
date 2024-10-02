@@ -1,0 +1,407 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Grimvale Calendar",
+      "description": "Calendar of the world of Eberron.",
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": false,
+        "firstWeekDay": 0,
+        "incrementDay": false,
+        "displayMoons": true,
+        "overflow": false,
+        "padDays": 2,
+        "padMonths": 2,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sul",
+            "id": "ID_598a7bd9b8b9"
+          },
+          {
+            "type": "day",
+            "name": "Mol",
+            "id": "ID_69088ac8f818"
+          },
+          {
+            "type": "day",
+            "name": "Zol",
+            "id": "ID_a8c85a98f8fa"
+          },
+          {
+            "type": "day",
+            "name": "Wir",
+            "id": "ID_fa4b687aaba9"
+          },
+          {
+            "type": "day",
+            "name": "Zor",
+            "id": "ID_58e9a82a6bc8"
+          },
+          {
+            "type": "day",
+            "name": "Far",
+            "id": "ID_9a18cb889ada"
+          },
+          {
+            "type": "day",
+            "name": "Sar",
+            "id": "ID_3b9bfa38c979"
+          }
+        ],
+        "months": [
+          {
+            "name": "Zarantyr",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_7a8afb09aa6a"
+          },
+          {
+            "name": "Olarune",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_386b188b2a89"
+          },
+          {
+            "name": "Therendor",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_599a0ad859c8"
+          },
+          {
+            "name": "Eyre",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_98a95869e90b"
+          },
+          {
+            "name": "Dravago",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_eb5a194bcbf8"
+          },
+          {
+            "name": "Nymm",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_bb596aa9ca5b"
+          },
+          {
+            "name": "Lharvion",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_fb1bb9dabb88"
+          },
+          {
+            "name": "Barrakas",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_8bcb19c8f90a"
+          },
+          {
+            "name": "Rhaan",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_0a09eb5b7b9b"
+          },
+          {
+            "name": "Sypheros",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_3b98ab1a29e8"
+          },
+          {
+            "name": "Aryth",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_899b59faaba9"
+          },
+          {
+            "name": "Vult",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_8a286b78aac9"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Nymm",
+            "cycle": 28,
+            "offset": -14,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_a8b88988a94a"
+          },
+          {
+            "name": "Sypheros",
+            "cycle": 35,
+            "offset": -11,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_5ba80b4b096a"
+          },
+          {
+            "name": "Therendor",
+            "cycle": 42,
+            "offset": 21,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_c999085a499b"
+          },
+          {
+            "name": "Rhaan",
+            "cycle": 49,
+            "offset": 9,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_39f91ab8a85a"
+          },
+          {
+            "name": "Olarune",
+            "cycle": 56,
+            "offset": 27,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_2ada8b99788b"
+          },
+          {
+            "name": "Eyre",
+            "cycle": 63,
+            "offset": 10,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_49285b79d988"
+          },
+          {
+            "name": "Vult",
+            "cycle": 70,
+            "offset": 6,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_eaebb94a9acb"
+          },
+          {
+            "name": "Zarantyr",
+            "cycle": 77,
+            "offset": 31,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_98d86aabcbb9"
+          },
+          {
+            "name": "Aryth",
+            "cycle": 84,
+            "offset": 41,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_d989b809d97b"
+          },
+          {
+            "name": "Dravago",
+            "cycle": 91,
+            "offset": 31,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_1a293959eaab"
+          },
+          {
+            "name": "Lharvion",
+            "cycle": 98,
+            "offset": 34,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_cbf919491a5b"
+          },
+          {
+            "name": "Barrakas",
+            "cycle": 105,
+            "offset": -11,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_4a1a2a6b589b"
+          }
+        ],
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_299b9bcb0a09",
+            "type": "era",
+            "name": "Ante Vale",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 864
+            }
+          },
+          {
+            "id": "ID_3bc88a494979",
+            "type": "era",
+            "name": "Post Vale",
+            "description": "",
+            "format": "{{era_name}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 0
+            }
+          }
+        ]
+      },
+      "current": {
+        "day": 20,
+        "month": 9,
+        "year": 864
+      },
+      "events": [
+        {
+          "name": "Winter Solstice",
+          "description": "The longest night of the year.",
+          "id": "824463",
+          "note": null,
+          "date": {
+            "day": 14,
+            "year": [
+              null,
+              null
+            ],
+            "month": 0
+          },
+          "type": "Recurring",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The spring equinox is when the day and the night are equally as long, and are getting longer.",
+          "id": "824489",
+          "note": null,
+          "date": {
+            "day": 14,
+            "month": 3,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "type": "Recurring",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Summer Solstice",
+          "description": "\tAt the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+          "id": "824490",
+          "note": null,
+          "date": {
+            "day": 14,
+            "month": 6,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "type": "Recurring",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "The autumn equinox is when the day and the night are equally as long, and are getting shorter.",
+          "id": "824491",
+          "note": null,
+          "date": {
+            "day": 14,
+            "month": 9,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "type": "Recurring",
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          }
+        }
+      ],
+      "id": "ID_eb49794b1ab9",
+      "categories": []
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_eb49794b1ab9",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": null,
+  "paths": []
+}

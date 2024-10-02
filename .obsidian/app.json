@@ -1,0 +1,8 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "userIgnoreFilters": [
+    "images/"
+  ],
+  "promptDelete": false
+}

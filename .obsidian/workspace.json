@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "214381c3d9854190",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a2012e3fc41b8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b09535bf1a3d6f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Locaties/De Eindeloze Vlakte.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "50a3df9ddb3a1866",
+    "type": "split",
+    "children": [
+      {
+        "id": "c92db14b8e557acf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bcf2d4f1af06443",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d83973cf956c8690",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Veenradendam",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c39cf40e3393b02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5
+  },
+  "right": {
+    "id": "e7fea0ef17ecb790",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8c381e6c78ccf69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be8c138e5948a8a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Wereld/Locaties/De Eindeloze Vlakte.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8ce9f032560faf88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Wereld/Locaties/De Eindeloze Vlakte.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74a4feb318d78b4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f65f346b8d542a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Wereld/Locaties/De Eindeloze Vlakte.md"
+              }
+            }
+          },
+          {
+            "id": "bc76b3ab29657152",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_eb49794b1ab9",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 20,
+                    "month": 9,
+                    "year": 864
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_2a2928bae87a"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "b09535bf1a3d6f31",
+  "lastOpenFiles": [
+    "Wereld/Locaties/Veenradendam/Velnoya.md",
+    "Avonturen/2. De scheur en de spits/Fondue.md",
+    "2024-10-02.md",
+    "Untitled.canvas",
+    "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
+    "Graviton.md",
+    "Aureon.md",
+    "Wereld/Locaties/Veenradendam/Untitled.md",
+    "Wereld/Locaties/De Eindeloze Vlakte.md",
+    "Wereld/Organisaties/Siuleo Sierra Clan.md",
+    "De.md",
+    "Wereld/Locaties/Houtkamp/Houtkamp.md",
+    "Avonturen/1. Hakken in Houtkamp/0. Proloog.md",
+    "Wereld/Locaties/Veenradendam",
+    "Sessies/Eerstvolgende sessie.md",
+    "Avonturen/2. De scheur en de spits",
+    "Sessies/1 - Welkom in de Grimvale.md",
+    "Wereld/Personages/NPCs/Aric Thorne.md",
+    "Wereld/Personages/NPCs/Jorah Silverveer.md",
+    "Grunk Grimsmith.md",
+    "Avonturen/1. Hakken in Houtkamp/2.5 Terug in Houtkamp.md",
+    "2024-10-01.md",
+    "Wereld/Personages/PCs/Echo.md",
+    "Wereld/Personages/PCs/Myrmex.md",
+    "Wereld/Personages/PCs/Koragh.md",
+    "Sessies",
+    "Avonturen/1. Hakken in Houtkamp/Loot.md",
+    "Wereld/Personages/NPCs/Vader Eadric.md",
+    "Wereld/Personages/NPCs/Sylvara Fluisterwind.md",
+    "Wereld/Personages/PCs",
+    "Wereld/Personages/NPCs",
+    "Wereld/Personages/Goden",
+    "Wereld/Locaties/Houtkamp",
+    "Wereld/Organisaties",
+    "Wereld/Personages",
+    "Wereld/Locaties",
+    "public/quartz/static/og-image.png",
+    "public/quartz/static/icon.png",
+    "public/docs/images/quartz-layout-tablet.png",
+    "public/docs/images/quartz-layout-mobile.png",
+    "public/docs/images/quartz-layout-desktop.png",
+    "public/docs/images/quartz transform pipeline.png",
+    "public/docs/images/github-quick-setup.png",
+    "public/docs/images/github-init-repo-options.png",
+    "public/docs/images/giscus-results.png",
+    "public/docs/images/giscus-repo.png"
+  ]
+}

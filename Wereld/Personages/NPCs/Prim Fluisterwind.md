@@ -1,0 +1,2 @@
+Prim de oom van [[Sylvara Fluisterwind]]. Hij is een karavaanbewaker en bestuurder in haar bedrijf. Prim is lang en fors, maar niet al te slim. Hij spreekt niet veel en antwoordt meestal met grommen en zuchten. Hij is een sterke en imposante figuur die in staat is de meeste bedreigingen voor de karavaan alleen met zijn aanwezigheid af te schrikken. Hij is in feite een iets slimmere Hodor uit Game of Thrones.
+

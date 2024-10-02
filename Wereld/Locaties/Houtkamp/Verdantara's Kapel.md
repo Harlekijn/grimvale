@@ -1,0 +1,1 @@
+De kapel in [[Houtkamp]] is gewijd aan [[Verdantara]], de Beschermer van het [[Zilverwoud]]. De inwoners van Houtkamp gebruiken deze kapel om tot Verdantara te bidden en om bescherming te vragen tegen de gevaren van het bos. De kapel fungeert ook als school voor de weinige kinderen die in Houtkamp wonen. De lokale priester, [[Vader Eadric]], is tevens de schoolmeester.

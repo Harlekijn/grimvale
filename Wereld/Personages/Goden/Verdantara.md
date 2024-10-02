@@ -1,0 +1,3 @@
+Verdantara is een wijze en zorgzame godheid, verantwoordelijk voor de groei en bloei van alle planten, van het kleinste grassprietje tot de oudste en meest imposante bomen. Volgers van Verdantara beschikken vaak over een encyclopedische kennis van flora, hun toepassingen en hun onderlinge afhankelijkheid binnen de ecosystemen waarin ze leven. 
+
+Verdantara doordrenkt planten met levenschenkende energieën, bevordert groei en weerstand tegen ziekten en verval. Zijn volgelingen maken vaak gebruik van zijn kracht om overvloedige gewassen te verbouwen en het land te genezen door middel van herbebossingsprojecten.
