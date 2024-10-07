@@ -1,0 +1,39 @@
+>De scheur in de grond aan de voet van de obelisk laat wat daglicht door in een driehoekige kamer die eindigt in een donkere en smalle doorgang. Een muffe, doodse lucht doordringt deze tunnel en stroomt zachtjes langs je heen, naar buiten door de scheur, wat een onbehaaglijke bries creëert die de geur van ontbinding met zich meedraagt. Vanaf deze afstand kun je zien dat een instorting het grootste deel van de gang heeft bedolven, waardoor de weg geblokkeerd is door puin. Direct links van je is een toegangsboog naar een tweede gang die leidt naar een pikzwarte duisternis. Langs de boog, gegraveerd in sierlijk schrift waarvan elke dwerg zou vertellen dat het onmogelijk is geweest om in steen te beitelen, staat de zin:
+>*"Zij die bang zijn voor het licht van de waarheid zullen door haar worden geslagen".*
+
+De weg door de gang is geblokkeerd door tonnen steen. Het zou dagen duren om die weg te halen, tenzij de spelers daar een andere manier voor hebben.
+
+De spelers moeten bedenken dat ze de donkere gang in moeten. Zodra ze die gang instappen lees de volgende tekst:
+
+>Zodra je de pikzwarte gang in stapt, verschijnt er ineens een enkele dansende flam voor je. De vlam danst langs de muur de gang in van muurtoorts naar muurtoorts en steekt ze 1 voor 1 aan. Langzaam zie je meer en meer van de hal, die toch al gauw 200 ft lang is, met elke 20ft een toorts.  Als de laatste toorts is aangestoken danst de vlam nog even door, alvorens te doven. De toortsen zijn duidelijk magisch, aangezien ze de gang met niet meer dan een dim-light vervullen. Het licht van de toortsen onthult dat er allemaal vormen in de marmeren muur van de gang zitten.
+
+Met een succesvolle DC 10 Investigation check zien de spelers dat de vormen in de muur allemaal oude, prachtig versierde wapens zijn. Het zijn ook allemaal verschillende wapens, zwaarden, bijlen, een zweep, een goedendag, een hellebaard en nog veel meer. De wapens kunnen met een DC25 strength check uit de muur getrokken worden.  
+Zodra 1 van de spelers een van de wapens aanraakt, verschijnt er een kopie van dat wapen in zijn hand. De kopie is echter geheel gemaakt van schaduw.
+
+Als alle spelers eenmaal een stukje in de gang gevorderd zijn, lees je het volgende voor:
+
+>*Echo, jij merkt dat terwijl jullie je verder door de gang bewegen jullie schaduwen zich niet helemaal gelijk met jullie bewegingen lijken te bewegen. Je ziet dit alleen vanuit je ooghoeken, maar als je rechtstreeks naar de schaduwen kijkt lijkt alles normaal.*
+
+Als 1 van de spelers een schaduwwapen vast heeft valt op dat de schaduwen dat niet hebben.
+
+Als iemand de schaduwen inspecteert, lees dan de volgende tekst:
+
+>Als je je direct op de schaduwen focust, lijken het gewone schaduwen, alleen, hoe gek het ook klinkt zou je zweren dat het lijkt of die ene schaduw naar je lacht. Op het moment dat dat je opvalt springt de schaduw ineens op je af. Roll for initiative!
+
+In het gevecht met de schaduwen geldt het volgende:
+
+- De schaduwen hebben dezelfde hit-points als de spelers van wie ze een kopie zijn.
+- De schaduwen kunnen een kopie van alle wapens die de spelers zichtbaar op zich dragen gebruiken. Als het wapen niet in een schaduw te zien zou zijn, kunnen ze het niet gebruiken.
+- Mocht er een familiar, of summon zijn, en die geven een schaduw af, dan is daar ook een kopie van.
+- De Schaduw krijgers zijn resistant to slashing, piercing en bludgeoning en fire dmg.
+- De schaduwen verdwijnen onmiddellijk als:
+    - De hal vel of een deel daarvan waar de schaduw zich bevindt, verlicht wordt waardoor er geen schaduwen meer zijn, dit kan bijvoorbeeld door een light spell of door het opsteken van een fakkel
+    - De schaduw geraakt wordt door een schaduw wapen
+    - Het licht in de hal gedoofd wordt (dus de muurtoortsen gedoofd worden)
+    - De als een schaduw verslagen is, wordt het weer een gewone schaduw. De schaduw komt weer tot level na 3 beurten.
+    - Aan het einde van de hal is een deur die alleen open gaat als alle spelers hun ogen sluiten. Boven de deur staat:  
+        *I can help you to rest*  
+        *Or to block out the sun*  
+        *But unless you're a cyclops*  
+        *You'll need more than one*
+    - Zodra alle spelers hun ogen dicht hebben horen ze de deur open gaan en verdwijnen de schaduwen. Als spelers hun ogen open doen voordat ze door de deur gaan valt de deur onmiddellijk dicht en na 3 beurten komen de schaduwen weer terug

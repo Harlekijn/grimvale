@@ -1,0 +1,63 @@
+>Het dek van de zeppelin is een duizelingwekkend samenspel van fijn tikkende machines en zacht gloeiende kristallen die magie focussen. Een loopbrug snijdt door de wirwar van metalen tandwielen en leidt naar een grote koepel. De stuurmechanismen zoemen zachtjes terwijl het schip zich door de lucht beweegt. Op het dek, aan weerszijden van de loopbrug staan bureaus bezaaid met perkamenten en boeken over alles, van sterrenkaarten tot studies over de dichtheid van edelstenen en de gedetailleerde levenscyclus van de zeldzame amberglaskever.
+>Terwijl je om je heen kijkt en de omgeving in je opneemt kijkt de halfling die je aan boord heeft geholpen je glimlachend aan.  Ze heeft wilde wenkbrauwen die zitten verborgen achter dikke brillenglazen die onder warrig bruin haar vandaan piepen. 
+>"*Hallo! Ik ben Lorita Sancham, het huidige hoofd van de Orde van het Oker Oog. De stadsbewoners noemen ons de Esoterische Maatschappij voor Magische Studies. Dit is ons schip, de Imperius. Zin in fondue?*"
+
+Als de spelers over de railing van het schip kijken zien ze dat de dorpelingen door de stadswachten in veiligheid zijn gebracht en dat de vloedgolf van kaas langzaam de scheur inloopt. Ze zullen ook zien dat er overal in Veenradendam schade is, maar dat de scheur bij de herberg de enige is, en er verder geen monsters in de stad te zien zijn.
+
+Laat ze een Perception check rollen. Bij 12 of hoger zien ze in het moeras een Obelisk staan. De obelisk is gemaakt van een donker blauw, bijna zwart gesteente met gouden tekens erop.
+
+>Lorita zegt: *"Bedankt voor jullie hulp bij het verdedigen van onze stad, jullie lijken wel door de goden gezonden, als je in dat soort dingen gelooft tenminste. Ons prachtige dorp wordt al een tijdje geteisterd door aardschokken, maar dit was toch wel met afstand de ergste. Tot nu toe bleef het bij hooguit een scheurtje in het pleisterwerk hier en daar. Onze order doet onderzoek naar de oorzaak van de schokken, en we hebben een sterk vermoeden waar het vandaan komt. Zijn jullie eigenlijk bekend met de Order van Het Oker Oog?"*
+>*"Onze orde is een van de ordes binnen het Gilde der Alchemisten. [[Veenradendam]] is een belangrijke plek voor het gilde omdat het [[Aldfaen]] moeras een belangrijke bron is van zowel turf als van ingredienten voor de alchemie. Deze ingredienten worden gewonnen uit de vaak giftige dieren en planten van het Aldfaen. Om die reden is een van de grootste vestigingen van het Gilde hier in Veenradendam. Over de jaren werd de Gilde-bibliotheek, het [[Scholarium]] hier een van de belangrijkste plekken voor onderzoek in de Grimvale. Magiers, tovenaars, heksen en warlocks uit de hele Grimvale kwamen naar Veenradendam om te onderzoeken en te experimenteren en iedereen kreeg toegang tot de bibliotheek zolang ze maar beloofden te delen wat ze leerden."*
+>Lorita neemt een slok van haar wijn voor ze verder gaat: 
+>*"Terwijl magiërs van alle achtergronden vreedzaam samenleefden, studeerden en ideeën en theorieën vrij uitwisselden, bloeide de studie van de magische kunsten. Maar niet iedereen kwam op het Scholarium af met goede bedoelingen. [[Lord Tiresome Belovaar]], een hoog aangeschreven lid van het Gilde, die verantwoordelijk was voor begrafenisrituelen en het begraven van belangrijke overleden magiërs, gebruikte delen van de bibliotheek om godslasterlijke experimenten uit te voeren op de lichamen van hen die hij moest begraven. Toen de walgelijke aard van zijn onderzoek aan het licht kwam, werd besloten dat er drastische maatregelen genomen moesten worden. Vrije en open toegang tot het Scholarium werd ingetrokken, hele vleugels en observatoria werden dicht gemetseld, en er werd een spoedvergadering belegd om een orde op te richten met een dubbele missie: Ten eerste om een einde te maken aan de ketterij van Belovaar en hem onschadelijk te maken voor de burgers van de stad, en ten tweede om de machtigste magische geheimen te bewaken voor hen die als onwaardig werden beschouwd."*
+>*"Lord Belovaar werd door de orde verslagen en hij werd weggestopt in een diepe crypte die werd beveiligd met een magisch zegel. Dit zegel is de pilaar die je verderop kan zien, de pilaar van Belovaar. De crypte zit vol met vallen en puzzels om er voor te zorgen dat Belovaar nooit zal kunnen ontsnappen."*
+> *"In de decennia sinds Lord Belovaar was verslagen en onder de Spire was begraven, vond de stad dat de reputatie van de obelisk slecht was voor de reputatie van het dorp. Daarom werd deze opnieuw gepresenteerd als een puur esthetisch object. Dit briljante marketingplan werkte, en de ware aard van de obelisk raakte in de loop der tijd vergeten."*
+> *"Helaas betekent dit dat de Orde zo snel en discreet mogelijk de meldingen van bevingen en vreemde lichten 's nachts in de regio moet onderzoeken. De Orde heeft echter een ernstig personeelstekort, en de lokale leden zijn druk bezig te zorgen dat de stad niet verder wordt getroffen door de aardbevingen, het gloednieuwe meer van hete kaas of erger."*
+
+Met een succesvolle DC12 Insight check kunnen de spelers ontdekken dat Lorita niet alles vertelt, met een DC 15 persuasion check kunnen ze haar overtuigen tot het vertellen van het volgende:  
+
+>*"Mijn moeder was een van de bewaarders van de bibliotheek in het Scholarium... ze hield de administratie bij van alle boeken en hun respectieve locaties. Ik groeide op tussen die stoffige stapels, spelend in mijn eentje tussen die oude boeken, bouwend aan forten van onbetaalbare delen. Alles wat ik nu weet, heb ik van haar geleerd. Ik wist al vroeg dat ik dit zou worden,” Lorita gebaart naar haar bureau en de stapels perkament om haar heen met een zucht van berusting. "Dit is mijn erfenis. Deze positie. Deze plicht. Dit is mijn boetedoening. Want het was onder de onzorgvuldige blik van mijn voorouder dat Belovaar de kennis verkreeg die hij nodig had om zijn ketterse rituelen uit te voeren. Weken, misschien wel maanden, was hij op zoek naar boeken vol duistere magie en nog duisterdere geschiedenissen. Mijn... mijn over-overgrootvader deed niets om hem tegen te houden. Nu betalen we allemaal de prijs voor zijn nalatigheid. Niet alleen mijn orde als geheel, maar ook ik persoonlijk. Belovaar's vervloekte bestaan verzegeld houden... nou ja, het is het minste wat ik kan doen om een beetje eer terug te brengen naar mijn familie."*
+
+Lorita gaat verder met het vragen van de spelers of ze willen helpen.
+
+>*"Ik zie dat jullie onderdeel van de Scharlaken Brigade zijn, en ik wil jullie opnieuw inhuren om te helpen. Ik hoop dat jullie samen met mij het gebied rond de Spire willen onderzoeken. Mijn hoop is dat dit allemaal te maken heeft met de ondergrondse vallen en beschermingen van de Orde—misschien werkt er een niet goed, maar als het iets ernstigers is, zullen we elk lid van onze Orde uit het hele rijk moeten oproepen, wat enorme kosten met zich mee zou brengen. Dus ik moet zeker zijn. Ik betaal jullie 500gp en bied jullie toegang tot ons magisch arsenaal. Weliswaar in bruikleen, natuurlijk. We zijn er bijna. Ik hoop dat jullie snel beslissen."*
+
+Maak in het opvolgende gesprek een notitie van wie het meest actief was in het gesprek met Lorita.
+
+De spelers kunnen ieder 1 de volgende items kiezen uit het arsenaal van Lorita, die nogmaals duidelijk maakt dat de items in bruikleen zijn:
+
+- +1 Clockwork Greataxe
+- +1 Shield of Radience
+- Stone of Puzzles
+- Goggles of Night
+- Cloak of Protection
+- Staff of Healing
+
+Als de spelers de items hebben uitgekozen vertel dan het volgende:  
+>Terwijl jullie met Lorita praten zien jullie door de ramen van de passagierscabine dat jullie het dorp verlaten en het moeras in zweven. De Obelisk wordt groter naarmate jullie dichterbij komen. Hoewel het moeras over het algemeen een erg groen moeras is,  is er een kale plek rond de obelisk. Het lijkt of de vegetatie weg schuwt en niet in de buurt van de Obelisk durft te groeien. Het groene moeras is hier veranderd in een rotte, met korstmossen bedekt moeras, waar de obelisk oprijst alsof hij in het hart van de aarde zelf is geslagen, een wond waaruit het land niet is hersteld. 
+>"*We noemen deze plek de Korst*", zegt Lorita. "*De natuur zelf deinst terug voor Belovaar's resten. De magie die werd gebruikt om hem op te sluiten, heeft de aarde zelf verwond. Zie je hoe de grond lijkt te bloeden? Maar toch kan het land helen. Ooit. Het kost alleen tijd. Misschien is het dwaas dat ik nog steeds hoop dat onder deze littekens nieuwe, vruchtbare grond zal verschijnen. Goed, we gaan naar beneden.*"
+
+Lorita laat een touw zakken en zegt jullie naar beneden te klimmen en het touw ergens vast te maken zodat de Zeppelin geankerd is. Lorita zal de zeppelin op zijn plek houden tot het geankerd is en dan de spelers vergezellen. 
+
+Terwijl jullie langs het touw afdalen, steekt er een wind op. Jullie zien dat er een storm nadert en recht op jullie af komt. Het touw begint heen en weer te zwaaien, maar het lukt jullie veilig op de grond te komen. Lorita schreeuwt vanuit de Imperius dat jullie het touw aan de obelisk kunnen vastmaken. Terwijl jullie daar mee bezig zijn begint het te onweren en vallen de eerste regendruppels. Het vastmaken van het touw wordt bemoeilijkt door de wind en de sompige grond van het moeras dat een bloedrode kleur heeft. Het begint harder en harder te waaien en jullie Scharlaken brigade capes wapperen hevig in de wind.
+
+Roll een DC 12 strenght check en een DC 10 slight of hand check om te kijken of het lukt het touw vast te maken
+
+>*Terwijl je het zware touw vastmaakt aan de Obelisk, lijkt die te glinsteren met een gestaag opbouwende gloed. Er is een felle lichtflits vanuit de wolken boven je, bliksem schiet langs de hemel, kronkelt langs de Imperius en slaat met een luide knal in op de Obelisk. Donder rommelt terwijl de energie door de obelisk stroomt en in de grond onder je verdwijnt. De hele structuur begint te schudden, en een grote kloof, vergelijkbaar met die je tegenkwam tijdens de aardbeving, begint zich te vormen terwijl de losse aarde onder je verschuift. Een vuur schiet langs het anker touw omhoog richting de Imperius.*  
+
+Als de spelers nog bezig zijn met het vastmaken dan krijgt iedere speler die het touw nog aan raakt 1d6 lightning dmg en valt prone. Ze laten ook het touw los.
+
+>*Lorita begint naar jullie te schreeuwen, maar door de harde wind kan je niet verstaan wat ze zegt. Ondertussen kruipt het vuur snel omhoog richting de Imperius.*   
+*Terwijl Lorita blijft schreeuwen naar je, begint ze te wijzen, en al snel zie je waar ze je aandacht op probeert te vestigen: de scheuren in de grond bloeden—dikke, slijmerige klodders bloed. De klodders worden steeds groter en lijken de zwaartekracht te tarten terwijl ze zich naar de lucht uitstrekken. Het lijkt alsof minstens één van hen... een gezicht heeft?*
+
+Roll for Initiative
+
+Tijdens het gevecht:
+
+- 3 Blood Oozes komen uit de scheuren in de grond en vallen de spelers aan.
+- De blood oozes hebben moeite om zich richting de obelisk te bewegen, alsof de obelisk ze weg duwt en op afstand houdt. De blood oozes moven op half speed richting de obelisk en kunnen niet binnen 10 ft komen.
+- Op turn order 20 van Turn 3 breekt het touw van de Imperius en wordt het door de sterke wind weggeblazen. Op dit moment komen er ook nog 3 oozes uit de scheuren wat verder bij de obelisk vandaan.  
+    *Het touw dat de zeppelin aan de obelisk vastmaakt, knapt, en je hoort Lorita roepen: "Ik kom terug voor jullie! Er zijn er meer! Schiet op! In de Obelisk! Ik kom naar jullie toe, dat beloof ik! Maar jullie moeten jezelf beschermen!" Terwijl deze woorden Lorita’s lippen verlaten, duwt een windvlaag door de ballon die de zeppelin in de lucht houdt, en je ziet hoe de hele Imperius in de wolken wordt meegevoerd. Een walgelijke glorp kondigt de komst aan van nog meer slijmen, die langzaam op je af komen stromen.*  
+    
+- Iedere volgende oneven Turn op turn order 20 komen er nog 3 oozes te voorschijn.
+- Als de spelers bij de scheur het dichtst bij de obelisk in de buurt komen, merken ze dat er frisse lucht uit omhoog waait en het lijkt alsof ze via een scheur aan de voet van de obelisk, de ruimtes onder de obelisk in kunnen.
