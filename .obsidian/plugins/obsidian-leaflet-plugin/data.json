@@ -3,7 +3,7 @@
     {
       "id": "Grimvale_Map",
       "locked": true,
-      "lastAccessed": 1727768174534,
+      "lastAccessed": 1728906667845,
       "markers": [
         {
           "id": "ID_1bf959c9899a",
@@ -21,12 +21,80 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbab5b5b5859",
+          "type": "default",
+          "loc": [
+            581.375,
+            1660.5
+          ],
+          "link": "Houtkamp",
+          "layer": "GrimvaleMap.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8f84b8b1bb8",
+          "type": "default",
+          "loc": [
+            856.571477059854,
+            1749.735730046112
+          ],
+          "link": "Laau-maa",
+          "layer": "GrimvaleMap.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ca7a5b4bdbd8",
+          "type": "default",
+          "loc": [
+            458.6875,
+            2123.25
+          ],
+          "link": "Velnoya",
+          "layer": "GrimvaleMap.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d8a87b895b68",
+          "type": "default",
+          "loc": [
+            318.72838161983634,
+            2082.4294705943826
+          ],
+          "link": "Het Aldfaen Moeras",
+          "layer": "GrimvaleMap.jpg",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Wereld/Kaart van de Grimvale.md"
+        "Kaart van de Grimvale.md"
       ]
     }
   ],

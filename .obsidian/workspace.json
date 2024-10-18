@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a2012e3fc41b8c",
+        "id": "ccc552ca391121b7",
         "type": "tabs",
         "children": [
           {
-            "id": "b09535bf1a3d6f31",
+            "id": "7195b40e8063f8b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overige/Nog uitwerken.md",
+                "file": "Sessies/Eerstvolgende sessie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "561096312a487597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a10aaf75795617a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Veenradendam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overige/Nog uitwerken.md",
+                "file": "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overige/Nog uitwerken.md",
+                "file": "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overige/Nog uitwerken.md"
+                "file": "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md"
               }
             }
           },
@@ -150,8 +175,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,54 +193,54 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "b09535bf1a3d6f31",
+  "active": "0bcf2d4f1af06443",
   "lastOpenFiles": [
-    "_maps/GrimvaleMap.jpg",
-    "Overige/Nog uitwerken.md",
-    "Avonturen/2. De scheur en de spits/6 - De Nasleep.md",
-    "Avonturen/2. De scheur en de spits/2-Aan boord van de Imperius.md",
-    "Avonturen/2. De scheur en de spits/5 - Belovaars Grafkamer.md",
-    "Pasted image 20241004174337.png",
-    "_images/Belovaar.jpeg",
-    "Avonturen/2. De scheur en de spits/4 - Het Maanmeer.md",
-    "Avonturen/2. De scheur en de spits/1 - Fondue.md",
-    "Avonturen/2. De scheur en de spits/3 - Onder de obelisk.md",
-    "Wereld/Locaties/De Eindeloze Vlakte.md",
-    "Wereld/Locaties/Veenradendam/Velnoya.md",
-    "2024-10-02.md",
-    "Untitled.canvas",
-    "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
-    "Graviton.md",
-    "Aureon.md",
-    "Wereld/Locaties/Veenradendam/Untitled.md",
-    "Wereld/Organisaties/Siuleo Sierra Clan.md",
-    "De.md",
-    "Wereld/Locaties/Houtkamp/Houtkamp.md",
-    "Avonturen/1. Hakken in Houtkamp/0. Proloog.md",
-    "Wereld/Locaties/Veenradendam",
-    "Sessies/Eerstvolgende sessie.md",
-    "Avonturen/2. De scheur en de spits",
-    "Sessies/1 - Welkom in de Grimvale.md",
-    "Wereld/Personages/NPCs/Aric Thorne.md",
-    "Wereld/Personages/NPCs/Jorah Silverveer.md",
-    "Grunk Grimsmith.md",
+    "Avonturen/1. Hakken in Houtkamp/3.1 Onderweg naar de goblin hideout.md",
     "Avonturen/1. Hakken in Houtkamp/2.5 Terug in Houtkamp.md",
-    "2024-10-01.md",
+    "Wereld/Personages/NPCs/Logar Doornvoet.md",
+    "Sessies/Eerstvolgende sessie.md",
+    "Wereld/Personages/PCs/Echo.md",
+    "Wereld/Locaties/Houtkamp/Houtkamp Zagerij.md",
+    "Wereld/Locaties/Houtkamp/Houtkamp.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Wereld/Personages/NPCs/Jorah Silverveer.md",
+    "Wereld/Locaties/Houtkamp/De Dansende Bijl.md",
+    "Wereld/Locaties/Laau-Maa/Laau-maa.md",
+    "Wereld/Locaties/Laau-Maa",
+    "Vuurnevel.md",
+    "Leikroon.md",
+    "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
+    "_images/ScharlakenBrigadeLogoBlack.png",
+    "Avonturen/1.5 Van Houtkamp naar Velnoya/Van Houtkamp naar Velnoya.md",
+    "Wereld/Personages/PCs/Koragh.md",
+    "Wereld/Personages/PCs/Myrmex.md",
+    "Kaart van de Grimvale.md",
+    "Het Aldfaen Moeras.md",
+    "Wereld/Locaties/Velnoya/Velnoya.md",
+    "Wereld/Locaties/De Eindeloze Vlakte.md",
+    "Avonturen/1.5 Van Houtkamp naar Velnoya",
+    "Overige/Nog uitwerken.md",
+    "Overige/Hoofd Plot.md",
+    "Avonturen/2. De scheur en de spits/4 - De val van de Titaan.md",
+    "De Echilibru.md",
+    "Avonturen/2. De scheur en de spits/7 - Het Maanmeer.md",
+    "_vtt backups/Adventures in the Grimvale-2024-10-13.abovevtt",
+    "Wereld/Hemocraft",
+    "Wereld/Organisaties/Het Gilde Der Alchemisten",
+    "_images/Dunil.jpg.sb-e5517825-FII9YN",
+    "_images/Dunil.jpg",
+    "_images/Ochre Skeleton.jpg",
+    "_images/Ochre Skeleton.webp",
+    "_images/Ochre Shadow.png",
+    "_images/Ochre Flesh Golem.png",
+    "_images/Ochre Zombie.jpg",
+    "_images/Ochre Zombie.webp",
+    "Untitled.canvas",
+    "Pasted image 20241004174337.png",
+    "_images/Belovaar.jpg",
+    "Wereld/Locaties/Velnoya",
+    "Avonturen/2. De scheur en de spits",
     "Sessies",
-    "Wereld/Personages/PCs",
-    "Wereld/Personages/NPCs",
-    "Wereld/Personages/Goden",
-    "Wereld/Locaties/Houtkamp",
-    "Wereld/Organisaties",
-    "Wereld/Personages",
-    "Wereld/Locaties",
-    "public/quartz/static/og-image.png",
-    "public/quartz/static/icon.png",
-    "public/docs/images/quartz-layout-tablet.png",
-    "public/docs/images/quartz-layout-mobile.png",
-    "public/docs/images/quartz-layout-desktop.png",
-    "public/docs/images/quartz transform pipeline.png",
-    "public/docs/images/github-quick-setup.png",
-    "public/docs/images/github-init-repo-options.png"
+    "Wereld/Personages/PCs"
   ]
 }

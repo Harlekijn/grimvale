@@ -10,6 +10,7 @@ Laugatasi e le Gata is de naam die de oorspronkelijke bewoners van de grimvale, 
 | Hard       | Just after sundown of just before sunset | Net als de spelers hun kamp willen gaan maken, net nadat de zon onder is, komt er een mist op. In de mist zit een [Vampiric Mist](https://www.dndbeyond.com/monsters/2560946-vampiric-mist). Als de spelers er voor kiezen de mist te inspecteren kunnen ze met een DC 15 Perception / Investigation check zien dat het creature in de mist zit. Zicht binnen de mist is beperkt tot melee range   |
 
 
+
 ## CR 3 - 6
 
 | Difficulty | Timing   | Encounter                                                                                                                                                                                                                                                                                                                                                                                                                 |

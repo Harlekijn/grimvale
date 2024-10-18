@@ -1,0 +1,25 @@
+>Jullie stappen een volledig donkere gang binnen. Zodra jullie allemaal in de gang staan, valt de deur achter jullie dicht. Aan het einde van de gang, zo'n 50ft verder, zien jullie de gloed van een vuur.
+
+Als de spelers de kamer binnen komen:
+
+>Jullie stappen de kamer binnen en zien gelijk het gigantische beeld van een gepantserde titaan van zo'n 50ft hoog. De titaan heeft in een hand een houten knots en in de andere hand een  brandende fakkel. De titaan draagt een helm met een vizier dat open staat. De ogen lijken jullie te volgen als jullie de kamer binnen stappen.
+>De kamer is verder gevuld met kapotte banken en het dak lijkt hier en daar wat ingestort.
+>Aan de overkant zie je een dichte deur die de uitgang van de kamer lijkt te zijn. 
+
+
+Zodra de spelers in de kamer voorbij de ingang komen activeert de titaan. Elke keer als een speler zijn beurt eindigt in de kamer roll dan 1d4 om te zien wat de titaan doet:
+1) De titaan zwaait met zijn toorts naar de speler. De speler met een DC 15 DEX saving throw doen. De titaan doet 3d6 fire dmg die wordt gehalveerd als de saving throw succesvol is.
+2) De titaan zwaait met zijn knots. De speler moet een DC 15 DEX saving throw doen. De speler krijgt 2d10 bludgeoning dmg  en valt prone. Bij een succesvolle save wordt de schade gehalveerd en valt de speler niet prone.
+3) De titaan stampt op de grond. De speler moet een DC 15 DEX Saving throw doen en krijgt 4d4 bludgeoning dmg die wordt gehalveerd bij een succesvolle save. De plaats waar de titaan stampt en in een 5ft radius daaromheen wordt difficult terrain
+4) Staart naar de speler met een verdovende blik. De speler moet een DC 15 wisdom saving throw doen of wordt voor 1 minuut gestunned. De speler mag de save aan het einde van iedere volgende beurt herhalen. De saving throw vindt plaats voordat de Titan opnieuw rolt om te bepalen wat er gebeurt. Zodra de speler schade krijgt eindigt de stun. Spelers kunnen elkaar ook met een action wakker schudden.
+
+Als de spelers bij de deur aan de andere kant komen kunnen ze het volgende zien / opmerken:
+- Boven de deur staat het volgende raadsel:
+  Een kasteel gemaakt van steen
+  Duurt twintig jaar om af te geraken
+  Hoeveel stenen heb ik nodig
+  Om het karwei af te maken?
+- Op de deur staat een haastig ge-etste tekening van de titaan. Met een DC 13 Investigation check kan een speler zien dat het vuur op de ets uit is.
+
+De deur kan geopend worden door de toorts van de titaan uit te doen of door het raadsel op te lossen.
+De spelers kunnen proberen de titaan te beklimmen en het vizier dicht doen. Dit zorgt ervoor dat de spelers met advantage mogen rollen op alle attacks van de titan en dat de verdovende blik van de titaan helemaal niet meer werkt.

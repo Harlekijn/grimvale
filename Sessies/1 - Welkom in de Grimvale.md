@@ -16,3 +16,5 @@
 # Belangrijke gebeurtenissen
 - De spelers hebben 1 van de goblins knock out geslagen, die kan nu verhoord worden
 - Echo is 1 keer bewusteloos geweest. 
+- De spelers zijn lvl 2 geworden
+- 

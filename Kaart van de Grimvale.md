@@ -5,7 +5,7 @@ lock: true
 ### If true, view of map will recenter as you zoom out.  
 recenter: true  
 ### If true, disables mouse scroll for zomming in and out of a map. Button controls still work.  
-noScrollZoom: true  
+noScrollZoom: false  
 image: GrimvaleMap.jpg
 ### Map Pixel Height x 1 / (Pixels between Bar Scale / 100)  
 ### Map Pixel Width x 1 / (Pixels between Bar Scale / 100)  
@@ -18,7 +18,7 @@ width: 100%
 lat: 907.53  
 long: 1402.74  
 ### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
-minZoom: -1.5  
+minZoom: -2  
 ### Max zoom is 18.  
 maxZoom: 1.5  
 ### Hover mouse over the Reset Zoom icon to see your current zoom level.  
@@ -30,3 +30,4 @@ unit: miles
 scale: 1  
 darkMode: false  
 ```
+

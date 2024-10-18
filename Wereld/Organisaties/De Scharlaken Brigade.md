@@ -1,4 +1,4 @@
-De Scharlaken Brigade, een gerenommeerd premiejagergilde in de Grimvale. Door de uiterst waardevolle Graviton kristallen zijn er een hoop machtige facties in de Grimvale neergestreken. gecombineerd met het hoge aantal gevaarlijke monsters in de vale zorgt dit  er voor dat er altijd ruim voldoende werk is voor de premiejagers. 
+	De Scharlaken Brigade, een gerenommeerd premiejagergilde in de Grimvale. Door de uiterst waardevolle Graviton kristallen zijn er een hoop machtige facties in de Grimvale neergestreken. gecombineerd met het hoge aantal gevaarlijke monsters in de vale zorgt dit  er voor dat er altijd ruim voldoende werk is voor de premiejagers. 
 
 Dit gilde bestaat uit een diverse groep van bekwame jagers, huurlingen en probleemoplossers die premies en contracten aannemen om monsters te jagen, bedreigingen te neutraliseren en verschillende problemen op te lossen voor degenen die bereid zijn royaal te betalen voor hun expertise.
 
@@ -6,3 +6,43 @@ Met een strikt neutraliteitsbeleid in de politieke machtsstrijd om de controle o
 
 Leden van de Scharlaken Brigade:
 [[Jorah Silverveer]] - [[Houtkamp]]
+[[Kurak Schildsteen]] - [[Laau-maa]] - Gepensioneerd
+
+
+# Organisatie
+Verschillende niveau's van teams
+De organisatie wordt geleid door een dagelijks bestuur. Dit zijn geen premiejagers maar pure bestuurders die het beleid van de Brigade uitvoeren.
+Boven het dagelijks bestuur staat De Scharlaken Raed, gevormd door de leden van de 5 oudste / beste / sterkste premiejager teams. De teams van de Raed worden aangesteld voor zolang ze actief zijn en worden gekozen door alle volwaardige leden van de Brigade.
+
+De leden van de brigade stemmen per team, waarbij ieder team 1 stem heeft. 
+Leden van de brigade kunnen dus alleen stemmen als ze onderdeel zijn van een team. Een team heeft tussen de 2 en 10 leden, waarbij teams gemiddeld 5 leden hebben.
+Leden kunnen uit teams gaan en aan teams toegevoegd worden met goedkeuring van het dagelijks bestuur.
+Alleen teams mogen premies aannemen.
+De status van een lid is gekoppeld aan het team waar ze in zitten, verlaten ze het team, verliezen ze de status.
+## Rangen
+### Aspirant
+Aspirant teams zijn teams waarvan de leden nog geen volwaardig lid zijn van de brigade. Aspiranten moeten eerst een aantal missies uitvoeren om zich te bewijzen waarna zee tot volwaardig lid gepromoveerd worden.
+Aspiranten dragen een badge van de brigade met een rode buitenrand en een zwarte binnenkant.
+
+De aspiranten krijgen 50% van de beloning die uitgeloofd is en kunnen niet hun eigen opdrachten kiezen.
+
+### Adjudanten
+De adjudanten van de brigade zijn de leden van het dagelijks bestuur. Ze nemen de opdrachten aan zorgen voor de betalingen en het innen van de beloningen. Ze zorgen er ook voor dat de Brigade huizen gerund worden.
+
+Adjudanten dragen een volledig zwarte badge van de brigade.
+
+### Brigadier
+Beginnende teams. Hebben stemrecht en mogen zelf de bounties uitkiezen. Worden meestal gevraagd voor de simpelere klussen. Er zijn verschillende teams die deze rang nooit uitkomen of dat ook willen, omdat het veelal ongevaarlijke klussen zijn die toch redelijk goed betalen. Brigadier teams houden 70% van de beloningen en mogen hun eigen opdrachten kiezen. Als ze te lang geen opdracht aannemen, kunnen ze er een toegewezen kregen.
+Brigadiers dragen een badge van de brigade met een rode buitenrand en een zilvere binnenkant.
+
+### Officier
+De leden van de ervaren teams die de gevaarlijkere en meer gevoelige opdrachten aannemen zijn officieren. Een team kan promoveren naar officier status op voorspraak van het dagelijks bestuur.
+Officier teams mogen 80% van de beloning houden.
+Officiers dragen een badge van de brigade met een rode buitenrand en een gouden binnenkant.
+
+### Elite
+De creme de la creme van de brigade. De elite teams zijn onderdeel van de Scharlaken Raed. Op dit moment zitten er 5 teams in de Raed.
+
+Elite leden dragen een volledig rode badge van de brigade.
+
+Elite teams geven een vrijwillige bijdrage aan de Brigade, maar traditioneel gezien betalen ze 25% terug.
