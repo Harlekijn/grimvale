@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessies/Eerstvolgende sessie.md",
+                "file": "Wereld/Personages/NPCs/Grunk Grimsmith.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
+                "file": "Sessies/Eerstvolgende sessie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d47f4c4f777ea01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "De Scharlaken Citadel.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Grunk Grimsmith",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
+                "file": "De Scharlaken Citadel.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
+                "file": "De Scharlaken Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md"
+                "file": "De Scharlaken Citadel.md"
               }
             }
           },
@@ -193,19 +205,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0bcf2d4f1af06443",
+  "active": "8d47f4c4f777ea01",
   "lastOpenFiles": [
+    "Sessies/Eerstvolgende sessie.md",
+    "De Scharlaken Citadel.md",
+    "Wereld/Locaties/Laau-Maa/Laau-maa.md",
+    "Sessies/2 - Stappen in het bos.md",
+    "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
+    "Wereld/Personages/NPCs/Grunk Grimsmith.md",
+    "Sessies/1 - Welkom in de Grimvale.md",
+    "Grunk Grimsmith.md",
     "Avonturen/1. Hakken in Houtkamp/3.1 Onderweg naar de goblin hideout.md",
     "Avonturen/1. Hakken in Houtkamp/2.5 Terug in Houtkamp.md",
     "Wereld/Personages/NPCs/Logar Doornvoet.md",
-    "Sessies/Eerstvolgende sessie.md",
     "Wereld/Personages/PCs/Echo.md",
     "Wereld/Locaties/Houtkamp/Houtkamp Zagerij.md",
     "Wereld/Locaties/Houtkamp/Houtkamp.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Wereld/Personages/NPCs/Jorah Silverveer.md",
     "Wereld/Locaties/Houtkamp/De Dansende Bijl.md",
-    "Wereld/Locaties/Laau-Maa/Laau-maa.md",
     "Wereld/Locaties/Laau-Maa",
     "Vuurnevel.md",
     "Leikroon.md",
@@ -217,13 +236,7 @@
     "Kaart van de Grimvale.md",
     "Het Aldfaen Moeras.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
-    "Wereld/Locaties/De Eindeloze Vlakte.md",
     "Avonturen/1.5 Van Houtkamp naar Velnoya",
-    "Overige/Nog uitwerken.md",
-    "Overige/Hoofd Plot.md",
-    "Avonturen/2. De scheur en de spits/4 - De val van de Titaan.md",
-    "De Echilibru.md",
-    "Avonturen/2. De scheur en de spits/7 - Het Maanmeer.md",
     "_vtt backups/Adventures in the Grimvale-2024-10-13.abovevtt",
     "Wereld/Hemocraft",
     "Wereld/Organisaties/Het Gilde Der Alchemisten",
@@ -240,7 +253,6 @@
     "_images/Belovaar.jpg",
     "Wereld/Locaties/Velnoya",
     "Avonturen/2. De scheur en de spits",
-    "Sessies",
-    "Wereld/Personages/PCs"
+    "Sessies"
   ]
 }

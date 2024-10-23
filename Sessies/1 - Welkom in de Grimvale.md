@@ -4,14 +4,17 @@
 [[Echo]]
 
 # Wat is er gebeurt
-- Introductie: Het verhaal begon op de weg van [[Laau-maa]] naar [[Houtkamp]]. De spelers hadden zich bij een handelskaravaan gevoegd als bewakers.
-	- De handelskaravaan wordt geleid door [[Sylvara Fluisterwind]] en haar ietwat simpele ook [[Prim Fluisterwind]]
-	- De spelers zijn onderweg naar Houtkamp om zich bij [[De Scharlaken Brigade]] aan te sluiten
-- Eenmaal bij Houtkamp zien de spelers dat het dorp wordt aangevallen door een bende goblins die zich de [[Dogslicers]] noemt.
-	- De spelers hebben het dorp verdedigt en 1 goblin gevangen weten te nemen. De gevangen goblin was Stumpbiter. Ze is knock out afgevoerd
-	- De spelers komen er na het gevecht achter dat [[Jorah Silverveer]] gevangen is genomen samen met enkele andere burgers. 
-- [[Grunk Grimsmith]] vraagt de spelers om de overige dorpelingen te bevrijden tegen een beloning. De spelers doen dit. Ze gaan gelijk door het bos achter de goblins aan en vinden ze in een grot. Ze bevrijden de dorpelingen en brengen ze veilig thuis
-- Terug in Houtkamp krijgen de spelers hun beloning en worden ze uitgenodigd voor de uitvaartceremonie van de overleden stadswachten. Jorah wordt naar zijn kamer gebracht om te herstellen.
+- Introductie: Het verhaal begon op de weg van [[Laau-maa]] naar [[Houtkamp]]. Jullie hadden jullie bij een handelskaravaan gevoegd als bewakers.
+	- De handelskaravaan werdt geleid door [[Sylvara Fluisterwind]] en haar ietwat simpele oom [[Prim Fluisterwind]]. Twee firbolgs.
+	- Jullie waren onderweg naar Houtkamp om je bij [[De Scharlaken Brigade]] aan te sluiten.
+- Eenmaal bij Houtkamp zien jullie dat het dorp wordt aangevallen door een bende goblins die zich de [[Dogslicers]] noemt.
+	- Jullie hebben het dorp verdedigd en 1 van die goblins die de leiding over de aanval leek te hebben gevangen weten te nemen doordat Myrmex deze knock out sloeg in plaats van dood. Deze goblin is knock out afgevoerd.
+	- Jullie hoorden na het gevecht dat een aantal goblins heeft weten te ontsnappen en dat er enkele dorpelingen ontvoerd zijn, waaronder [[Jorah Silverveer]], de lokale vertegenwoordiger van de Scharlaken Brigade.
+- [[Grunk Grimsmith| Grunk Grimsmith]], de hoofd houthakker en het dopshoofd, heeft jullie gevraagd om de ontvoerde dorpelingen te bevrijden en heeft daarvoor een beloning uitgeloofd. Jullie doen dit en gaan gelijk achter de goblins aan zodat jullie ze nog kunnen achterhalen voordat ze zich bij de rest voegen in hun schuilplaats.
+- Jullie vinden de goblins in een grot en weten ze te doden en de dorpelingen te bevrijden. Koragh wil handen, scalp, oren, ogen en tanden van iedere goblin meenemen als bewijs van het aantal goblins dat jullie hebben gedood, maar Echo en Myrmex overtuigen hem dat dat misschien een beetje overdadig is. Koragh neemt nu alleen de scalp van ieder goblin mee.
+- Terug in Houtkamp krijgen jullie je beloning, nadat Koragh Grunk Grimsmith pusht om nu te betalen en hem misschien wel een beetje beledigd, en worden jullie uitgenodigd voor de uitvaartceremonie van de overleden stadswachten. Jorah wordt naar zijn kamer gebracht om te herstellen.
+- Jullie hebben wat downtime en in die downtime vind Myrmex een hobby, namelijk het snijden van houten figuurtjes.
+- Jullie zijn geleveled naar lvl 2.
 
 # Belangrijke gebeurtenissen
 - De spelers hebben 1 van de goblins knock out geslagen, die kan nu verhoord worden

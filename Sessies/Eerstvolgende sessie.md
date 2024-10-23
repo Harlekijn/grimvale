@@ -3,41 +3,34 @@
 [[Myrmex]]
 [[Echo]]
 
-# Samenvatting vorige sessies
-- Introductie: Het verhaal begon op de weg van [[Laau-maa]] naar [[Houtkamp]]. Jullie hadden jullie bij een handelskaravaan gevoegd als bewakers.
-	- De handelskaravaan werdt geleid door [[Sylvara Fluisterwind]] en haar ietwat simpele oom [[Prim Fluisterwind]]. Twee firbolgs.
-	- Jullie waren onderweg naar Houtkamp om je bij [[De Scharlaken Brigade]] aan te sluiten.
-- Eenmaal bij Houtkamp zien jullie dat het dorp wordt aangevallen door een bende goblins die zich de [[Dogslicers]] noemt.
-	- Jullie hebben het dorp verdedigd en 1 van die goblins die de leiding over de aanval leek te hebben gevangen weten te nemen doordat Myrmex deze knock out sloeg in plaats van dood. Deze goblin is knock out afgevoerd.
-	- Jullie hoorden na het gevecht dat een aantal goblins heeft weten te ontsnappen en dat er enkele dorpelingen ontvoerd zijn, waaronder [[Jorah Silverveer]], de lokale vertegenwoordiger van de Scharlaken Brigade.
-- [[Grunk Grimsmith]], de hoofd houthakker en het dopshoofd, heeft jullie gevraagd om de ontvoerde dorpelingen te bevrijden en heeft daarvoor een beloning uitgeloofd. Jullie doen dit en gaan gelijk achter de goblins aan zodat jullie ze nog kunnen achterhalen voordat ze zich bij de rest voegen in hun schuilplaats.
-- Jullie vinden de goblins in een grot en weten ze te doden en de dorpelingen te bevrijden. Koragh wil handen, scalp, oren, ogen en tanden van iedere goblin meenemen als bewijs van het aantal goblins dat jullie hebben gedood, maar Echo en Myrmex overtuigen hem dat dat misschien een beetje overdadig is. Koragh neemt nu alleen de scalp van ieder goblin mee.
-- Terug in Houtkamp krijgen jullie je beloning, nadat Koragh Grunk Grimsmith pusht om nu te betalen en hem misschien wel een beetje beledigd, en worden jullie uitgenodigd voor de uitvaartceremonie van de overleden stadswachten. Jorah wordt naar zijn kamer gebracht om te herstellen.
-- Jullie hebben wat downtime en in die downtime vind Myrmex een hobby, namelijk het snijden van houten figuurtjes.
-- Jullie zijn geleveled naar lvl 2.
+# Wat is er gebeurt
+- We gingen verder in Houtkamp, waar jullie in de ochtend terug waren gekomen met de ontvoerde bewoners.
+- Jullie hebben met [[Jorah Silverveer]] gesproken over het toetreden tot [[De Scharlaken Brigade]]. Hij heeft aangegeven dat om lid te worden van de brigade, je een sponsor binnen de brigade nodig hebt en dat hij graag die rol wil vervullen. Hij heeft ook uitgelegd dat jullie daarna aspirant leden kunnen worden.
+- Jorah heeft verteld dat hij zelf geen actief lid is van de brigade
+- Jullie wilde de gevangen goblin ondervragen, maar kwamen toen [[Grunk Grimsmith]] tegen die net klaar was met het ondervragen van de goblin samen met Aric Thorne. Ze hebben informatie van de goblin losgepeuterd over waar de overige goblins zich schuil houden
+- Grunk heeft een opdracht aan de Scharlaken Brigade uitgeloofd om de overige goblins uit de weg te ruimen
+- Jullie hebben een afscheidsceremonie en bijbehorend feest meegemaakt. Tijdens het feest zijn jullie door Jorah benaderd om de goblin missie met hem aan te gaan.
+- Echo heeft een droom gehad over zijn verleden.
+- De volgende ochtend zijn jullie op pad gegaan naar de goblin hideout, en na enkele keer het spoor te zijn kwijtgeraakt en een paar monsters te zijn tegen gekomen zijn jullie bij het fort aangekomen.
+- Jullie hebben een rondje om fort gemaakt en gevonden dat er geen achteringang is. Jullie hebben wel twee ingangen in de houten muur gevonden, een aan de noord kant en een aan de zuid kant. De ingang aan de noord kant lijkt iets minder goed bewaakt
 
-## Belangrijke gebeurtenissen
-- De spelers hebben 1 van de goblins knock out geslagen, die kan nu verhoord worden
-- Echo is 1 keer bewusteloos geweest. 
-- De spelers zijn lvl 2 geworden
+
 
 # Openstaande Verhaal lijnen
-- Houtkamp Goblins
-	- De spelers zijn net terug van het redden van de dorpelingen: [[2.0 Reddingsmissie]]
-	- De spelers zijn door [[Grunk Grimsmith]] gevraagd om de uitvaartceremonie en de aansluitende herdenkingsbijeenkomst bij te wonen als eregasten. 
-	- [[Grunk Grimsmith]] heeft een bounty bij de [[De Scharlaken Brigade]] uitgezet voor het opsporen en uitschakelen van de overige goblins.
-	- Één van de goblins is gevangen genomen. Die kunnen de spelers ondervragen om de locatie van de schuilplaats te achterhalen.
-- Inauguratie [[De Scharlaken Brigade]]
-	- De spelers willen zich bij de scharlaken brigade voegen en zullen met [[Jorah Silverveer]] moeten praten over hoe ze dat kunnen doen.
+- Scharlaken Brigade:
+	- Jullie hebben een missie aangenomen om aan Jorah Silverveer te laten zien dat jullie waardige leden zijn voor de Brigade
+	- Jorah is mee om jullie te observeren (en wraak te nemen op de goblins)
+- Goblin jacht:
+	- Jullie zijn aangekomen bij de goblin lair en staan klaar om aan te vallen.
 
 
 # Doelen / Informatie
-- [[Echo]] heeft de eerste droom over zijn verleden
-- [[Myrmex]] merkt dat een van de platen op zijn been nu niet langer een gewone kopere plaat is, maar dat de plaat nu van hetzelfde materiaal is als je binnenwerk. Op de plaat staan nu ook enkele runen die er eerst niet waren.
-- De spelers moeten richting het fort om de goblins te verslaan
-- De spelers moeten richting [[Velnoya]] voor de volgende missie. Ze hebben daar 2 routes voor
-	- Via Laau-Maa, duurt langer maar is veiliger
-	- Over de Eindeloze Steppe, sneller maar gevaarlijker.
+- Het gevecht met de goblins
+- Terugtocht en aankomst in Houtkamp
+	- In houtkamp krijgen de spelers hun beloning
+	- Jorah stuurt ze naar het hoofdkwartier van de scharlaken brigade in [[De Scharlaken Citadel]] met een aanbevelingsbrief, daar zullen de spelers hun aspirant lidstatus krijgen. Van daar worden ze doorgestuurd naar Velnoya.
+- Op weg naar [[Laau-maa]] gebeurt er niets bijzonders. De reis is twee dagen.
+- Op weg naar [[Velnoya]] komen ze een random plains encounter tegen. van Laau-Maa naar Velnoya is 3 dagen lopen.
 
 
 # NPCs
@@ -65,7 +58,3 @@
 	- Stem: Gewoon, maar wel met een zachte g
 	- Houding: Erg opgelucht en dankbaar. Wil dat alles weer naar het gewone gaat
 	- Uiterlijk: Prototype priester. Kale plek op zijn hoofd en priester robes.
-- [[Sylvara Fluisterwind]]: Firbolg / Vrouwelijk
-	- Stem: Zwoel en sensueel
-	- Houding: Wil zo snel mogelijk weer weg
-	- Uiterlijk: Roze / bruin haar, koeiensnuit.
