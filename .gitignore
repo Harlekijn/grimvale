@@ -1,2 +1,4 @@
 /xcf
 .DS_Store
+node_modules
+grimvale-llm

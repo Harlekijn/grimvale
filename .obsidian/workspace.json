@@ -16,7 +16,9 @@
                 "file": "Wereld/Personages/NPCs/Grunk Grimsmith.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Grunk Grimsmith"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Sessies/Eerstvolgende sessie.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Eerstvolgende sessie"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "De Scharlaken Citadel.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "De Scharlaken Citadel"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "De Scharlaken Brigade"
             }
           }
         ],
@@ -76,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -91,7 +101,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -99,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -130,7 +144,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for De Scharlaken Citadel"
             }
           },
           {
@@ -142,7 +158,9 @@
                 "file": "De Scharlaken Citadel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from De Scharlaken Citadel"
             }
           },
           {
@@ -153,7 +171,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -163,7 +183,9 @@
               "type": "outline",
               "state": {
                 "file": "De Scharlaken Citadel.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of De Scharlaken Citadel"
             }
           },
           {
@@ -184,7 +206,9 @@
                   "displayMoons": true
                 },
                 "id": "ID_2a2928bae87a"
-              }
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           }
         ]
@@ -207,52 +231,52 @@
   },
   "active": "8d47f4c4f777ea01",
   "lastOpenFiles": [
-    "Sessies/Eerstvolgende sessie.md",
-    "De Scharlaken Citadel.md",
-    "Wereld/Locaties/Laau-Maa/Laau-maa.md",
-    "Sessies/2 - Stappen in het bos.md",
-    "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
-    "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
-    "Wereld/Personages/NPCs/Grunk Grimsmith.md",
-    "Sessies/1 - Welkom in de Grimvale.md",
-    "Grunk Grimsmith.md",
-    "Avonturen/1. Hakken in Houtkamp/3.1 Onderweg naar de goblin hideout.md",
-    "Avonturen/1. Hakken in Houtkamp/2.5 Terug in Houtkamp.md",
-    "Wereld/Personages/NPCs/Logar Doornvoet.md",
-    "Wereld/Personages/PCs/Echo.md",
-    "Wereld/Locaties/Houtkamp/Houtkamp Zagerij.md",
-    "Wereld/Locaties/Houtkamp/Houtkamp.md",
-    "Wereld/Organisaties/De Scharlaken Brigade.md",
-    "Wereld/Personages/NPCs/Jorah Silverveer.md",
-    "Wereld/Locaties/Houtkamp/De Dansende Bijl.md",
-    "Wereld/Locaties/Laau-Maa",
-    "Vuurnevel.md",
-    "Leikroon.md",
-    "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
-    "_images/ScharlakenBrigadeLogoBlack.png",
-    "Avonturen/1.5 Van Houtkamp naar Velnoya/Van Houtkamp naar Velnoya.md",
-    "Wereld/Personages/PCs/Koragh.md",
-    "Wereld/Personages/PCs/Myrmex.md",
-    "Kaart van de Grimvale.md",
-    "Het Aldfaen Moeras.md",
-    "Wereld/Locaties/Velnoya/Velnoya.md",
-    "Avonturen/1.5 Van Houtkamp naar Velnoya",
-    "_vtt backups/Adventures in the Grimvale-2024-10-13.abovevtt",
-    "Wereld/Hemocraft",
-    "Wereld/Organisaties/Het Gilde Der Alchemisten",
-    "_images/Dunil.jpg.sb-e5517825-FII9YN",
-    "_images/Dunil.jpg",
-    "_images/Ochre Skeleton.jpg",
-    "_images/Ochre Skeleton.webp",
-    "_images/Ochre Shadow.png",
-    "_images/Ochre Flesh Golem.png",
-    "_images/Ochre Zombie.jpg",
-    "_images/Ochre Zombie.webp",
-    "Untitled.canvas",
-    "Pasted image 20241004174337.png",
-    "_images/Belovaar.jpg",
-    "Wereld/Locaties/Velnoya",
-    "Avonturen/2. De scheur en de spits",
-    "Sessies"
+    "_maps/Laau-Maa LowRes.jpg",
+    "_maps/Laau-Maa.jpg",
+    "_images/Dorwin Nampla.jpg",
+    "grimvale-llm/init.sql",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/sequential.h",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/parameterlist.h",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/functional.h",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/parameterdict.h",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/named_any.h",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/any_module_holder.h",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/modulelist.h",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/moduledict.h",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/any_value.h",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/legacy/tools/tool_spec/load_and_search/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/tools/tool_spec/load_and_search/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/agent/react/templates/system_header_template.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/rocket.b75b17d2b0a063c6cea230d1a9d77f1e.svg",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/logo.83ae4f2fb87e38be7cbb8a5d2beb64d2.svg",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/flake-2.e3f07d06933dd0e84c24.png",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/flake-1.8077dc154e0bf900aa73.png",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/flake-0.beded754e8024c73d9d2.png",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/fireworks.0906f02ea43f1018a6d2.gif",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/checkmark.29851c8e9e6ef0c3d6c1e4efe3c1bb9e.svg",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/pyarrow/tests/data/orc/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/xml/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/unstructured/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/paged_csv/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/rtf/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/pymu_pdf/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/image_deplot/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/legacy/indices/tree/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/legacy/indices/list/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/legacy/indices/keyword_table/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/indices/tree/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/indices/list/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/indices/keyword_table/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torchgen/packaged/autograd/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/scipy/fft/_pocketfft/LICENSE.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/altair/jupyter/js/README.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/soupsieve-2.6.dist-info/licenses/LICENSE.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/numpy/random/LICENSE.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/narwhals-1.10.0.dist-info/licenses/LICENSE.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/huggingface_hub/templates/datasetcard_template.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/huggingface_hub/templates/modelcard_template.md",
+    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/httpx-0.27.2.dist-info/licenses/LICENSE.md",
+    "Untitled.canvas"
   ]
 }
