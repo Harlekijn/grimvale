@@ -30,6 +30,8 @@
 	- In houtkamp krijgen de spelers hun beloning
 	- Jorah stuurt ze naar het hoofdkwartier van de scharlaken brigade in [[De Scharlaken Citadel]] met een aanbevelingsbrief, daar zullen de spelers hun aspirant lidstatus krijgen. Van daar worden ze doorgestuurd naar Velnoya.
 - Op weg naar [[Laau-maa]] gebeurt er niets bijzonders. De reis is twee dagen.
+- In Laau Maa en bij de Scharlaken Citadel kunnen de volgende dingen gebeuren:
+	- Ze kunnen inkopen doen. Gebruik de [[D&D Shop Catalog, V-2.0.2-Refresh.pdf]] voor de aankoop van verschillende zaken.
 - Op weg naar [[Velnoya]] komen ze een random plains encounter tegen. van Laau-Maa naar Velnoya is 3 dagen lopen.
 
 

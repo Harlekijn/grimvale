@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "De Scharlaken Citadel.md",
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/Aanmelden bij de Scharlaken Brigade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De Scharlaken Citadel"
+              "title": "Aanmelden bij de Scharlaken Brigade"
+            }
+          },
+          {
+            "id": "5874cddee6a073ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Locaties/Laau-Maa/Laau-maa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laau-maa"
             }
           },
           {
@@ -55,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
+                "file": "Wereld/Locaties/Laau-Maa/De Scharlaken Citadel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De Scharlaken Brigade"
+              "title": "De Scharlaken Citadel"
             }
           }
         ],
@@ -136,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "De Scharlaken Citadel.md",
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/Aanmelden bij de Scharlaken Brigade.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for De Scharlaken Citadel"
+              "title": "Backlinks for Aanmelden bij de Scharlaken Brigade"
             }
           },
           {
@@ -155,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "De Scharlaken Citadel.md",
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/Aanmelden bij de Scharlaken Brigade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from De Scharlaken Citadel"
+              "title": "Outgoing links from Aanmelden bij de Scharlaken Brigade"
             }
           },
           {
@@ -182,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "De Scharlaken Citadel.md"
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/Aanmelden bij de Scharlaken Brigade.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of De Scharlaken Citadel"
+              "title": "Outline of Aanmelden bij de Scharlaken Brigade"
             }
           },
           {
@@ -231,6 +245,26 @@
   },
   "active": "8d47f4c4f777ea01",
   "lastOpenFiles": [
+    "_maps/Scharlaken Citadel.jpg",
+    "Wereld/Locaties/Laau-Maa/De Scharlaken Citadel.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Sessies/Eerstvolgende sessie.md",
+    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/Aanmelden bij de Scharlaken Brigade.md",
+    "Wereld/Locaties/Laau-Maa/Laau-maa.md",
+    "Wereld/Locaties/De Eindeloze Vlakte.md",
+    "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
+    "Avonturen/1. Hakken in Houtkamp/Loot.md",
+    "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
+    "Wereld/Locaties/Laau-Maa/De Slapende Uil.md",
+    "De Grimvale Mijnbouw Cooperatie.md",
+    "Galindra.md",
+    "Wereld/Personages/Goden/Verdantara.md",
+    "Overige/Nog uitwerken.md",
+    "Overige/Random NPCs.md",
+    "Pasted image 20241024131833.png",
+    "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "_images/Steel Defender.jpeg",
+    "Overige/Hoofd Plot.md",
     "_maps/Laau-Maa LowRes.jpg",
     "_maps/Laau-Maa.jpg",
     "_images/Dorwin Nampla.jpg",
@@ -243,7 +277,6 @@
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/any_module_holder.h",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/modulelist.h",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/moduledict.h",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/any_value.h",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/legacy/tools/tool_spec/load_and_search/README.md",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/tools/tool_spec/load_and_search/README.md",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/agent/react/templates/system_header_template.md",
@@ -252,31 +285,12 @@
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/flake-2.e3f07d06933dd0e84c24.png",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/flake-1.8077dc154e0bf900aa73.png",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/flake-0.beded754e8024c73d9d2.png",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/fireworks.0906f02ea43f1018a6d2.gif",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/checkmark.29851c8e9e6ef0c3d6c1e4efe3c1bb9e.svg",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/pyarrow/tests/data/orc/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/networkx/drawing/tests/baseline/test_house_with_colors.png",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/xml/README.md",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/unstructured/README.md",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/paged_csv/README.md",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/rtf/README.md",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/pymu_pdf/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/readers/file/image_deplot/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/legacy/indices/tree/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/legacy/indices/list/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/legacy/indices/keyword_table/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/indices/tree/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/indices/list/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/llama_index/core/indices/keyword_table/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torchgen/packaged/autograd/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/scipy/fft/_pocketfft/LICENSE.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/altair/jupyter/js/README.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/soupsieve-2.6.dist-info/licenses/LICENSE.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/numpy/random/LICENSE.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/narwhals-1.10.0.dist-info/licenses/LICENSE.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/huggingface_hub/templates/datasetcard_template.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/huggingface_hub/templates/modelcard_template.md",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/httpx-0.27.2.dist-info/licenses/LICENSE.md",
     "Untitled.canvas"
   ]
 }
