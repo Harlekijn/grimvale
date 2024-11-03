@@ -167,19 +167,9 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
-          },
-          {
-            "id": "bef056de532305df",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
