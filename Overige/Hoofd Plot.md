@@ -8,6 +8,10 @@ De geheime cult van blood mages heeft aan het begin van de campaign 2 doelen.
 	- De Grimvale Mijnbouw Compagnie
 - Het oproepen van krachtige en intelligente demonen. De demonen worden op magische wijze gebonden, of worden overtuigd door de belofte van het tot leven wekken van Malaxar zonder dat ze weten dat ze daarvoor geofferd worden.
 
+
+
+
+
 **Introductie in het verhaal:**
 De eerste keer dat het hoofd plot impact op de spelers heeft is in de missie waar ze achter de Lizard cult aan moeten. Deze Lizard Cult heeft een demon opgeroepen en ze zijn bezig d.m.v. bloed rituelen offers te brengen aan de demon om hem sterker te maken. De spelers weten dit te onderbreken, maar de demon weet te ontsnappen.
 
@@ -20,6 +24,13 @@ Een van de leden van de Orde van het Oker Oog heeft de cult geholpen met het opr
 De maker van Myrmex heeft de aanval overleefd en is een van de leiders van de cult, hij is een blood lich
 
 [[Echo]] - Echo was gestuurd als leider van de mages die de creator van Myrmex moest stoppen. Als Malaxar zou tot leven gewekt zou worden, zou dit een ernstige verstoring voor de balans zijn en een overwinning voor Chaos.
+
+
+### Ideëen
+Onder de Scharlaken Citadel bevind zich een tempel aan [[Zephyros de Windvader]].
+Zephyros heeft zich nooit helemaal teruggetrokken van de wereld tijdens de Katabasis omdat hij een oogje in het zeil wil bewaren en de balans in de wereld wilde veilig stellen. Een van zijn manieren om balans te bewaken is de scharlaken brigade.
+Alleen de Elite teams van de scharlaken brigade weten van het bestaan van Zephyros, die ook echt fysiek aanwezig is in te tempel.
+Zodra de spelers achter het plot om Malaxar tot leven te wekken komen en dit bij de brigade bekent wordt, zullen ze aan Zephyros voorgesteld worden.
 
 
 ### Links / Notes

@@ -7,6 +7,19 @@ Met een strikt neutraliteitsbeleid in de politieke machtsstrijd om de controle o
 Leden van de Scharlaken Brigade:
 [[Jorah Silverveer]] - [[Houtkamp]]
 [[Kurak Schildsteen]] - [[Laau-maa]] - Gepensioneerd
+[[Gregor Zwartschil]] - [[Laau-maa]] - Lid van het bestuur
+
+##### Random names
+- **Eldric Koudstaal** - Dwerg
+- **Talia Maanveer** - Half-Elf
+- **Glimmer Pijpschroef** - Gnome
+- **Velka Vonkenhand** - Mens
+- **Shiro Zilverspriet** - Tabaxi
+- **Kaela Zonnestraal** - Elf
+- **Gregor Zwartschil** - Half-Orc
+- **Fiona Winddrager** - Firbolg
+- **Elora Schaduwwortel** - Elf
+- **Barrik IJzerwang** - Dwerg
 
 
 # Organisatie

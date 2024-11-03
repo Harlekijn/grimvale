@@ -23,3 +23,17 @@ De spelers weten niet waar de citadel is en kunnen de richting vragen. Als ze da
 *"Rechts van het pand lopen de trappen verder naar boven, waar jullie een eenvoudig pand zien staan gemaakt van de zelfde donkergrijze en rode bakstenen en een zelfde rode leistenen dak. Meer trappen leiden verder naar boven waarlangs er meer standbeelden en pilaren staan. Alles wat jullie zien is netjes onderhouden en brandschoon."*
 
 *"Overal zien jullie mensen lopen die duidelijk bij de Scharlaken brigade horen. Mannen en vrouwen in rode outfits, tabberds. Hier en daar zien jullie iemand met lederen pantser of een maliënkolder. Deze mensen dragen een rode cape, vastgemaakt met een gesp met het logo van de brigade."*
+
+
+### In het administratiekantoor
+- De spelers moeten de brief afgeven aan de clerk die ze helpt. Die zal hen naar een van de leden van het bestuur brengen. Het administratiekantoor waar de spelers binnen komen is dat van een ouderwetse bank. Er zijn loketten waar de spelers zich moeten aanmelden. Bij het loket zien ze een bordje staan met de naam **Talia Maanveer**. Talia is een Half-Elf adjudant van de brigade. Ze draagt een rode tuniek met een zwarte badge van de brigade. Ze zal de brief van de spelers aannemen en ze vervolgens begeleiden naar [[Gregor Zwartschil]] voor verdere afhandeling.
+- Talia overhandigt de brief aan Gregor en de spelers zullen worden toegelaten nadat ze een veelvoud aan documenten hebben gelezen en getekend. Gregor gaat er vanuit dat de spelers met al die documenten bekend zijn, en begint te zuchten en te klagen als dat niet zo is.
+	- Een vrijwaringsbrief waarin staat dat de brigade niet verantwoordelijk is voor schade, te ondertekenen door de spelers
+	- Een brigade contract waarin de voorwaarden van het lidmaatschap staan, te ondertekenen door de spelers
+	- De gedragscode en regelement van de brigade, krijgen de spelers mee.
+	- Een team oprichting document, te ondertekenen door de spelers
+	- Een team lidmaatschap document, te ondertekenen door de spelers
+- Als de spelers nog geen naam hebben, kunnen ze de volgende dag terug komen. In dat geval neemt Talia ze mee naar de aspiranten barakken waar ze kunnen overnachten.
+- Als alles successvol afgerond is worden de spelers toegelaten tot de brigade en krijgen ze een badge en een cape
+- Ze krijgen ook gelijk hun eerste opdracht, namelijk om de onrust in [[Het Aldfaen Moeras]] te onderzoeken. De spelers moeten daarvoor naar [[Velnoya]].
+
