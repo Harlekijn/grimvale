@@ -4,14 +4,40 @@ Dit gilde bestaat uit een diverse groep van bekwame jagers, huurlingen en proble
 
 Met een strikt neutraliteitsbeleid in de politieke machtsstrijd om de controle over de Grimvale, richt de Scharlaken Brigade zich op haar primaire missie: gerechtigheid brengen en een vorm van orde handhaven te midden van de chaos. De leden van het gilde zijn net zo divers als de regio zelf, met leden afkomstig uit alle hoeken van de wereld die een schat aan ervaring en vaardigheden meebrengen.
 
-Leden van de Scharlaken Brigade:
-[[Jorah Silverveer]] - [[Houtkamp]]
-[[Kurak Schildsteen]] - [[Laau-maa]] - Gepensioneerd
-[[Gregor Zwartschil]] - [[Laau-maa]] - Lid van het bestuur
+## Leden van de Scharlaken Brigade:
+### [[Jorah Silverveer]]
+**Ras:** Mens
+**Stem:** Gewone Stem
+**Locatie:** [[Houtkamp]]
+**Class:** Rogue Mastermind
+**Uiterlijk**: Golvend peper en zout haar en met baard en snor. Meest bijzondere uiterlijke kenmerk is een ooglap. Draagt niet de gebruikelijke tuniek van een adjudant, maar de cape van een brigadier. Draagt gewoonlijk een lederen pantser.
 
-##### Random names
+### [[Kurak Schildsteen]]
+**Ras:** Tortle
+**Stem:** Diep en langzaam pratend.
+**Locatie:** [[Laau-maa#De Viool en de trom|De Viool en de Trom]]
+**Class:** Monk - Way of the Open Hand
+**Uiterlijk**: Gerimpeld met vele lidtekens op zijn pantser. Draagt gewone kleding waar zijn schild overheen past.
+
+
+### [[Gregor Zwartschil]]
+
+**Ras**: Half-Orc. 
+**Stem:** Diep en donker
+**Locatie:** [[Laau-maa]] - Scharlaken brigade administratie kantoor 
+**Uiterlijk**: Zwart krullend haar, flinke slagtanden, die versierd zijn met graveringen. Lang en slank, ranke vingers die duidelijk meer gewend zijn aan de veer en inkt dan aan het zwaard. Draagt de rode tuniek van een adjudant van de brigade met op zijn borst de zwarte pin met het logo van de brigade. Ziet er perfect en smetteloos uit, maar zonder enige ijdelheid. 
+
+### [[Talia Maanveer]]
+
+**Ras:** Half-Elf
+**Stem:** Gewone Stem voor vrouw
+**Locatie:** [[Scharlaken Citadel]] - administratie kantoor
+**Class:** -
+**Uiterlijk**: Een erg gewoon uitziende jonge vrouw. Bruin haar in een vlecht met bruine ogen. Vriendelijk en behulpzaam. Draagt de kenmerkende tuniek van de brigade adjudanten. Tuniek is iets te groot voor haar.
+
+
+### Random names
 - **Eldric Koudstaal** - Dwerg
-- **Talia Maanveer** - Half-Elf
 - **Glimmer Pijpschroef** - Gnome
 - **Velka Vonkenhand** - Mens
 - **Shiro Zilverspriet** - Tabaxi
@@ -43,6 +69,8 @@ De aspiranten krijgen 50% van de beloning die uitgeloofd is en kunnen niet hun e
 De adjudanten van de brigade zijn de leden van het dagelijks bestuur. Ze nemen de opdrachten aan zorgen voor de betalingen en het innen van de beloningen. Ze zorgen er ook voor dat de Brigade huizen gerund worden.
 
 Adjudanten dragen een volledig zwarte badge van de brigade.
+
+
 
 ### Brigadier
 Beginnende teams. Hebben stemrecht en mogen zelf de bounties uitkiezen. Worden meestal gevraagd voor de simpelere klussen. Er zijn verschillende teams die deze rang nooit uitkomen of dat ook willen, omdat het veelal ongevaarlijke klussen zijn die toch redelijk goed betalen. Brigadier teams houden 70% van de beloningen en mogen hun eigen opdrachten kiezen. Als ze te lang geen opdracht aannemen, kunnen ze er een toegewezen kregen.

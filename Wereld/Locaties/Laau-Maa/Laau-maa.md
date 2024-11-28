@@ -20,7 +20,11 @@ De volgende goden hebben een plek aan hen geweid:
 [[Verdantara]] - De Kathedraal van Verdantara ligt in het noord-westen. Het is de grootste heilige plek van de stad. Verdantara is ook de meest aanbeden god van de stad. De kerk ligt temidden van een prachtig plantsoen.
 [[Galindra]] - De kerk van Galindra ligt in het noorde van de stad in een prachtig park. Het is een elegant en toch bescheiden pand. Het is een kleine kerk, maar wel erg mooi versierd met fresco's van taferelen met dieren en mosters.
 [[Terranar]] - Moskee van Terranar. De moskee van terranar is na de Kathedraal van Verdantara het grootste gebedshuis van Laau-Maa. Het heeft een gigantische rode koepel. Als god van rievieren en het land wordt Terranar aanboden door zowel boeren als matrozen.
-[[Ania]] - De Tempel van Ania ligt vlak bij de rivier. De godin van licht en warmte heeft hier een bescheiden tempel 
+
+### Tempel van Sint Ikro
+Aan de rivier in Laau-Maa ligt de Tempel van Sint Ikro. In deze tempel bevind zich een groep monniken van De Orde van de Verlichte Vuist, een orde binnen de kerk van [[Ania]]. De tempel is gewijd aan een van de oud leden van de Orde: Sint Ikro, die ligt begraven in de begraafplaats van Laau-Maa.  
+Het is een bescheiden tempel, met gebeds en trainings faciliteiten voor een klein aantal monikken. 
+
 [[Aurielis]] - De Tempel van Aurielis ligt in het zuid-oosten van de stad. Aurielis is de godin van het hiernamaals en de overgang van level en dood. Haar tempel ligt dan ook temidden van de begraafplaats en wordt omringd met mausoleums van de rijken en graven van de armen.
 
 
@@ -41,10 +45,14 @@ Er zijn twee barakken van de stadswacht. Een in het noord-oosten en een in het n
 
 ## Social Hubs
 Herbergen:
-**De gouden handelaar**: Nabij de waag is dit een luxe herberg die vooral de rijke kooplieden huist.
-**De Viool en de trom**: Een middenklasse herberg. Goed, maar wel erg groot.
-[[De Slapende Uil]]: Een prima herberg tegen een redelijke prijs. Staat bekend om zijn goede BBQ.
-**De lekkende Schuit**: Kan bijna geen herberg genoemd worden. Heeft een paar kamers die vooral gebruikt worden om klanten in te leggen die te dronken zijn om naar huis te gaan. Er zijn stallen die beter zijn. Wel levendig en gezellig. Veel havenarbeiders een zeelieden.
+###### De gouden handelaar
+Nabij de waag is dit een luxe herberg die vooral de rijke kooplieden huist.
+###### De Viool en de trom
+Een middenklasse herberg. Goed, maar wel erg groot.
+###### [[De Slapende Uil]]
+Een prima herberg tegen een redelijke prijs. Staat bekend om zijn goede BBQ.
+###### De lekkende Schuit
+Kan bijna geen herberg genoemd worden. Heeft een paar kamers die vooral gebruikt worden om klanten in te leggen die te dronken zijn om naar huis te gaan. Er zijn stallen die beter zijn. Wel levendig en gezellig. Veel havenarbeiders een zeelieden.
 
 
 Markt

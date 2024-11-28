@@ -1,8 +1,4 @@
-Race: Mens
-Class: Rogue
-Leeftijd: Middelbaar
-Haar: peper en zout, snor, baard
-Bijzonderheden: Ooglap
+![[De Scharlaken Brigade#Jorah Silverveer]]
 
 Jorah Silverveer, een sluwe en berekenende menselijke rogue, komt uit de bruisende stad [[Vuurnevel]]. Geboren in een familie van eenvoudige kooplieden, toonde Jorah al vroeg een talent voor misleiding en bedrog, waarbij hij zijn verstand gebruikte om zich door de gevaarlijke onderwereld van de stad te manoeuvreren. Naarmate hij ouder werd, verfijnde Jorah zijn vaardigheden als meester in sluipen, vingervlugheid en sluwe strategieën, wat hem uiteindelijk een prestigieuze positie opleverde als vertegenwoordiger van [[De Scharlaken Brigade]] in [[Houtkamp]].
 

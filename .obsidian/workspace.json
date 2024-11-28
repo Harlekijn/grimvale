@@ -13,12 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wereld/Locaties/De Eindeloze Vlakte.md",
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De Eindeloze Vlakte"
+              "title": "3. De tombe van Sint Ikro"
+            }
+          },
+          {
+            "id": "d029f75b4f774408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Encounter Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encounter Template"
+            }
+          },
+          {
+            "id": "4f542a140ab5291d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. De tombe van Sint Ikro"
+            }
+          },
+          {
+            "id": "5f55a33d11faef65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Locaties/Laau-Maa/Laau-maa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laau-maa"
+            }
+          },
+          {
+            "id": "013cac8ed3d13138",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Personages/Goden/Ania.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ania"
+            }
+          },
+          {
+            "id": "7bcd30b3b8101731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "De Scharlaken Brigade"
+            }
+          },
+          {
+            "id": "43ac61d9ae4d45bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Locaties/Laau-Maa/Laau-maa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Laau-maa"
             }
           }
         ]
@@ -93,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 4. Terug in Houtkamp"
+              "title": "Backlinks for 3. De tombe van Sint Ikro"
             }
           },
           {
@@ -139,10 +223,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md"
+                "file": "Avonturen/3. De Scharlaken Ballotage/De Scharlaken Ballotage.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Terug in Houtkamp"
+              "title": "Outline of De Scharlaken Ballotage"
             }
           },
           {
@@ -153,6 +237,11 @@
               "state": {
                 "calendar": "ID_eb49794b1ab9",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 7,
+                    "month": 9,
+                    "year": 864
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 20,
@@ -162,14 +251,34 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_2a2928bae87a"
+                "id": "ID_2a2928bae87a",
+                "child": "ID_b828296a0a28"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "a118b40f20feef04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "439ed550464086f4",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_eb49794b1ab9",
+                "id": "ID_b828296a0a28",
+                "parent": "ID_2a2928bae87a"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,58 +293,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "copilot:Copilot Chat": false,
       "calendarium:Open Calendarium": false
     }
   },
   "active": "1d8e0a63c0bfe333",
   "lastOpenFiles": [
-    "_maps/Moon Pool.dd2vtt",
+    "_maps/De Viool en de Trom.dd2vtt",
+    "_maps/De Viool en de Trom_autosave.dam",
+    "_maps/De Viool en de Trom.dam",
+    "Wereld/Hemocraft/Hemocraft Spells.md",
+    "_templates/Encounter Template.md",
+    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/2. Aanmelden bij de Scharlaken Brigade.md",
+    "Wereld/Organisaties/De Orde van de Verlichte Vuist.md",
+    "Wereld/Personages/Goden/Ania.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Wereld/Locaties/Laau-Maa/Laau-maa.md",
-    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/Reis naar en aankomst in Laau-Maa.md",
-    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/Aanmelden bij de Scharlaken Brigade.md",
+    "Wereld/Personages/NPCs/Jorah Silverveer.md",
+    "Kurak Schildsteen.md",
+    "Wereld/Locaties/Laau-Maa/De Scharlaken Citadel.md",
+    "Wereld/Locaties/Laau-Maa/De Slapende Uil.md",
+    "Wereld/Personages/NPCs/Gregor Zwartschil.md",
+    "_templates/NPC template.md",
+    "Overige/Nog uitwerken.md",
+    "_templates",
+    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/1. Reis naar en aankomst in Laau-Maa.md",
+    "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
+    "_tools/Actually Scary Zombies for 5e _ GM Binder.pdf",
+    "Pasted image 20241108143924.png",
+    "Pasted image 20241108141934.png",
+    "Pasted image 20241108141850.png",
+    "Wereld/Personages/PCs/Myrmex.md",
+    "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
+    "Terranar.md",
+    "Wereld/Personages/Goden/Verdantara.md",
+    "Avonturen/3. De Scharlaken Ballotage",
+    "_maps/Velnoya-scheur.dam",
+    "Wereld/Locaties/Velnoya/Velnoya.md",
+    "Wereld/Locaties/De Eindeloze Vlakte.md",
+    "_maps/Moon Pool.dd2vtt",
     "Avonturen/1. Hakken in Houtkamp/Loot.md",
     "Sessies/Volgende Sessie.md",
     "Avonturen/1. Hakken in Houtkamp/0. Proloog.md",
-    "Avonturen/1. Hakken in Houtkamp/1. Aanval op Houtkamp.md",
-    "Sessies/3 - Gesloopte Goblins.md",
-    "Sessies/1 - Welkom in de Grimvale.md",
-    "Sessies/2 - Stappen in het bos.md",
-    "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
-    "Avonturen/1. Hakken in Houtkamp/3.2 Aanval op de Goblins.md",
-    "Overige/Hoofd Plot.md",
-    "Gregor Zwartschil.md",
-    "Wereld/Personages/NPCs/Grunk Grimsmith.md",
-    "Wereld/Locaties/Velnoya/Velnoya.md",
-    "Wereld/Organisaties/De Scharlaken Brigade.md",
-    "Wereld/Locaties/Velnoya/Het Scholarium.md",
-    "Aldfaen.md",
-    "Zephyros de Windvader.md",
-    "Overige/Nog uitwerken.md",
-    "Wereld/Locaties/Laau-Maa/De Scharlaken Citadel.md",
     "_maps/Scharlaken Citadel.jpg",
-    "Wereld/Locaties/De Eindeloze Vlakte.md",
-    "Wereld/Locaties/Laau-Maa/De Slapende Uil.md",
-    "De Grimvale Mijnbouw Cooperatie.md",
     "Pasted image 20241024131833.png",
-    "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "_images/Steel Defender.jpeg",
     "_maps/Laau-Maa LowRes.jpg",
     "_maps/Laau-Maa.jpg",
     "_images/Dorwin Nampla.jpg",
     "grimvale-llm/init.sql",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/sequential.h",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/parameterlist.h",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/functional.h",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/parameterdict.h",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/named_any.h",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/any_module_holder.h",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/modulelist.h",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/moduledict.h",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/rocket.b75b17d2b0a063c6cea230d1a9d77f1e.svg",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/logo.83ae4f2fb87e38be7cbb8a5d2beb64d2.svg",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/flake-2.e3f07d06933dd0e84c24.png",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/flake-1.8077dc154e0bf900aa73.png",
     "Untitled.canvas"
   ]
 }
