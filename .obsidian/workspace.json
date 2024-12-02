@@ -91,8 +91,7 @@
               "title": "Ania"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,86 +210,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avonturen/3. De Scharlaken Ballotage/De Scharlaken Ballotage.md"
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of De Scharlaken Ballotage"
-            }
-          },
-          {
-            "id": "bc76b3ab29657152",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_eb49794b1ab9",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 20,
-                    "month": 9,
-                    "year": 864
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 20,
-                    "month": 9,
-                    "year": 864
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_2a2928bae87a",
-                "child": "ID_b828296a0a28"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "afc7cd42558ef0cb",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_eb49794b1ab9",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 20,
-                    "month": 9,
-                    "year": 864
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_6be82a483b48"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "33f149a1f26e447a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "d56dcfcf2f409aa4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat Conversation View"
+              "title": "Outline of 3. De tombe van Sint Ikro"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       },
       {
         "id": "a118b40f20feef04",
@@ -331,14 +258,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "013cac8ed3d13138",
+  "active": "9f65f346b8d542a9",
   "lastOpenFiles": [
+    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+    "Wereld/Personages/Goden/Ania.md",
+    "_maps/Crypt.jpg",
+    "_maps/Crypt.dam",
     "_maps/Graveyard.mp4",
     "_maps/Graveyard.dd2vtt",
     "_maps/Graveyard_autosave.dam",
     "_maps/Graveyard.dam",
     "smart-chats/UNTITLED CHAT 2024-12-01 15 46 31.md",
-    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Wereld/Locaties/Laau-Maa/Laau-maa.md",
     "smart-chats/UNTITLED CHAT 2024-12-01 11 06 17.md",
@@ -352,7 +282,6 @@
     "_templates/Encounter Template.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/2. Aanmelden bij de Scharlaken Brigade.md",
     "Wereld/Organisaties/De Orde van de Verlichte Vuist.md",
-    "Wereld/Personages/Goden/Ania.md",
     "Wereld/Personages/NPCs/Jorah Silverveer.md",
     "Kurak Schildsteen.md",
     "Wereld/Locaties/Laau-Maa/De Scharlaken Citadel.md",
@@ -363,12 +292,10 @@
     "_templates",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/1. Reis naar en aankomst in Laau-Maa.md",
     "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
-    "_tools/Actually Scary Zombies for 5e _ GM Binder.pdf",
     "Pasted image 20241108143924.png",
     "Pasted image 20241108141934.png",
     "Pasted image 20241108141850.png",
     "Wereld/Personages/PCs/Myrmex.md",
-    "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Terranar.md",
     "Wereld/Personages/Goden/Verdantara.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
@@ -378,7 +305,6 @@
     "_maps/Laau-Maa LowRes.jpg",
     "_maps/Laau-Maa.jpg",
     "_images/Dorwin Nampla.jpg",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/rocket.b75b17d2b0a063c6cea230d1a9d77f1e.svg",
     "Untitled.canvas"
   ]
 }
