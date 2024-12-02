@@ -3,3 +3,11 @@
 node_modules
 grimvale-llm
 .obsidian/
+*_autosave.*
+
+
+# Ignore Smart Environment folder
+.smart-env
+# Ignore chats
+smart-chats
+.DS_Store

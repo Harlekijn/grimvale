@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "3f960a2ccfc6689f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Personages/PCs/Koragh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Koragh"
+            }
+          },
+          {
             "id": "d029f75b4f774408",
             "type": "leaf",
             "state": {
@@ -76,36 +90,9 @@
               "icon": "lucide-file",
               "title": "Ania"
             }
-          },
-          {
-            "id": "7bcd30b3b8101731",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "De Scharlaken Brigade"
-            }
-          },
-          {
-            "id": "43ac61d9ae4d45bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Locaties/Laau-Maa/Laau-maa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Laau-maa"
-            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,6 +157,7 @@
       {
         "id": "e8c381e6c78ccf69",
         "type": "tabs",
+        "dimension": 79.25311203319502,
         "children": [
           {
             "id": "be8c138e5948a8a6",
@@ -177,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+                "file": "Wereld/Personages/Goden/Ania.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. De tombe van Sint Ikro"
+              "title": "Backlinks for Ania"
             }
           },
           {
@@ -238,7 +226,7 @@
                 "calendar": "ID_eb49794b1ab9",
                 "ephemeral": {
                   "viewing": {
-                    "day": 7,
+                    "day": 20,
                     "month": 9,
                     "year": 864
                   },
@@ -257,12 +245,57 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "afc7cd42558ef0cb",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_eb49794b1ab9",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 20,
+                    "month": 9,
+                    "year": 864
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_6be82a483b48"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "33f149a1f26e447a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d56dcfcf2f409aa4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat Conversation View"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "a118b40f20feef04",
         "type": "tabs",
+        "dimension": 20.74688796680498,
         "children": [
           {
             "id": "439ed550464086f4",
@@ -293,22 +326,33 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1d8e0a63c0bfe333",
+  "active": "013cac8ed3d13138",
   "lastOpenFiles": [
+    "_maps/Graveyard.mp4",
+    "_maps/Graveyard.dd2vtt",
+    "_maps/Graveyard_autosave.dam",
+    "_maps/Graveyard.dam",
+    "smart-chats/UNTITLED CHAT 2024-12-01 15 46 31.md",
+    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Wereld/Locaties/Laau-Maa/Laau-maa.md",
+    "smart-chats/UNTITLED CHAT 2024-12-01 11 06 17.md",
+    "smart-chats",
+    "Wereld/Personages/PCs/Koragh.md",
+    "Overige/Hoofd Plot.md",
     "_maps/De Viool en de Trom.dd2vtt",
     "_maps/De Viool en de Trom_autosave.dam",
     "_maps/De Viool en de Trom.dam",
     "Wereld/Hemocraft/Hemocraft Spells.md",
     "_templates/Encounter Template.md",
-    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/2. Aanmelden bij de Scharlaken Brigade.md",
     "Wereld/Organisaties/De Orde van de Verlichte Vuist.md",
     "Wereld/Personages/Goden/Ania.md",
-    "Wereld/Organisaties/De Scharlaken Brigade.md",
-    "Wereld/Locaties/Laau-Maa/Laau-maa.md",
     "Wereld/Personages/NPCs/Jorah Silverveer.md",
     "Kurak Schildsteen.md",
     "Wereld/Locaties/Laau-Maa/De Scharlaken Citadel.md",
@@ -327,22 +371,13 @@
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "Terranar.md",
     "Wereld/Personages/Goden/Verdantara.md",
-    "Avonturen/3. De Scharlaken Ballotage",
-    "_maps/Velnoya-scheur.dam",
     "Wereld/Locaties/Velnoya/Velnoya.md",
-    "Wereld/Locaties/De Eindeloze Vlakte.md",
-    "_maps/Moon Pool.dd2vtt",
-    "Avonturen/1. Hakken in Houtkamp/Loot.md",
-    "Sessies/Volgende Sessie.md",
-    "Avonturen/1. Hakken in Houtkamp/0. Proloog.md",
     "_maps/Scharlaken Citadel.jpg",
     "Pasted image 20241024131833.png",
     "_images/Steel Defender.jpeg",
     "_maps/Laau-Maa LowRes.jpg",
     "_maps/Laau-Maa.jpg",
     "_images/Dorwin Nampla.jpg",
-    "grimvale-llm/init.sql",
-    "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/torch/include/torch/csrc/api/include/torch/nn/modules/container/sequential.h",
     "grimvale-llm/grimvale-venv/lib/python3.12/site-packages/streamlit/static/static/media/rocket.b75b17d2b0a063c6cea230d1a9d77f1e.svg",
     "Untitled.canvas"
   ]
