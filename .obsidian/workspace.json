@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "edab46239235676e",
+        "id": "a521efa52d9f3876",
         "type": "tabs",
         "children": [
           {
-            "id": "1d8e0a63c0bfe333",
+            "id": "6cb733293d546c04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,76 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "3. De tombe van Sint Ikro"
-            }
-          },
-          {
-            "id": "3f960a2ccfc6689f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Personages/PCs/Koragh.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Koragh"
-            }
-          },
-          {
-            "id": "d029f75b4f774408",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/Encounter Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Encounter Template"
-            }
-          },
-          {
-            "id": "4f542a140ab5291d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. De tombe van Sint Ikro"
-            }
-          },
-          {
-            "id": "5f55a33d11faef65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Locaties/Laau-Maa/Laau-maa.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Laau-maa"
-            }
-          },
-          {
-            "id": "013cac8ed3d13138",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Personages/Goden/Ania.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ania"
             }
           }
         ]
@@ -156,7 +86,6 @@
       {
         "id": "e8c381e6c78ccf69",
         "type": "tabs",
-        "dimension": 79.25311203319502,
         "children": [
           {
             "id": "be8c138e5948a8a6",
@@ -205,7 +134,7 @@
             }
           },
           {
-            "id": "9f65f346b8d542a9",
+            "id": "48cf441bb1d7788c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -217,28 +146,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "a118b40f20feef04",
-        "type": "tabs",
-        "dimension": 20.74688796680498,
-        "children": [
-          {
-            "id": "439ed550464086f4",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_eb49794b1ab9",
-                "id": "ID_b828296a0a28",
-                "parent": "ID_2a2928bae87a"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -258,14 +166,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1d8e0a63c0bfe333",
+  "active": "6cb733293d546c04",
   "lastOpenFiles": [
+    "Pasted image 20241024131833.png",
+    "Pasted image 20241108141850.png",
+    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+    "smart-chats/UNTITLED CHAT 2024-12-04 11 45 58.md",
+    "smart-chats/UNTITLED CHAT 2024-12-02 08 12 18.md",
     "_vtt backups/Adventures in the Grimvale-2024-12-3.abovevtt",
     "_maps/Crypt.dd2vtt",
     "_maps/Crypt interior.dd2vtt",
     "_maps/Crypt interior_autosave.dam",
     "_maps/Crypt interior.dam",
-    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Wereld/Personages/Goden/Ania.md",
     "_maps/Crypt.jpg",
     "_maps/Crypt.dam",
@@ -277,7 +189,6 @@
     "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Wereld/Locaties/Laau-Maa/Laau-maa.md",
     "smart-chats/UNTITLED CHAT 2024-12-01 11 06 17.md",
-    "smart-chats",
     "Wereld/Personages/PCs/Koragh.md",
     "Overige/Hoofd Plot.md",
     "Wereld/Hemocraft/Hemocraft Spells.md",
@@ -295,13 +206,9 @@
     "Avonturen/1. Hakken in Houtkamp/4. Terug in Houtkamp.md",
     "Pasted image 20241108143924.png",
     "Pasted image 20241108141934.png",
-    "Pasted image 20241108141850.png",
     "Wereld/Personages/PCs/Myrmex.md",
     "Terranar.md",
-    "Wereld/Personages/Goden/Verdantara.md",
-    "Wereld/Locaties/Velnoya/Velnoya.md",
     "_maps/Scharlaken Citadel.jpg",
-    "Pasted image 20241024131833.png",
     "_images/Steel Defender.jpeg",
     "_maps/Laau-Maa LowRes.jpg",
     "_maps/Laau-Maa.jpg",

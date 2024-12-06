@@ -400,7 +400,7 @@
   },
   "debug": false,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
+  "askedAboutSync": true,
   "syncBehavior": "Ask",
   "inlineEventsTag": null,
   "paths": [],
