@@ -16,14 +16,13 @@
 
 
 # Doelen / Informatie
-- Jorah stuurt ze naar het hoofdkwartier van de scharlaken brigade in [[De Scharlaken Citadel]] met een aanbevelingsbrief, daar zullen de spelers hun aspirant lidstatus krijgen. Van daar worden ze doorgestuurd naar Velnoya.
+- Jorah stuurt ze naar het hoofdkwartier van de scharlaken brigade in [[De Scharlaken Citadel]] met een aanbevelingsbrief, daar zullen de spelers hun aspirant lidstatus krijgen. Van daar worden ze doorgestuurd naar de tempel van st Ikro.
 - Op weg naar [[Laau-maa]] gebeurt er niets bijzonders. De reis is twee dagen.
 - In Laau Maa en bij de Scharlaken Citadel kunnen de volgende dingen gebeuren:
 	- De spelers moeten zich melden in de scharlaken citadel en de brief van Jorah afgeven.
 	- Ze kunnen inkopen doen. Gebruik de [[D&D Shop Catalog, V-2.0.2-Refresh.pdf]] voor de aankoop van verschillende zaken.
 	- De spelers worden lvl 3
-- De spelers moeten op weg naar Velnoya
-	- Encounter die ze tegen komen is de ogres die een [[Siuleo Sierra Clan]] nomade heeft ontvoerd.
+- De spelers moeten als eerste opdracht zich melden bij de tempel van st Ikro
 
 
 # NPCs
@@ -55,7 +54,7 @@
 	- Stem: Diep en donker. Praat langzaam.
 	- Houding: Bureaucraat in hart en nieren. Volgt alle regels exact op. Meer geïnteresseerd in de regels dan de mensen.
 	- Uiterlijk: Wit haar, combover, keurig gekamd, rode tuniek van de brigade zit perfect. Zijn kamer is keurig geordend. Leesbrik op zijn neus als de spelers binnenkomen, die hij op zijn hoofd zet zodra hij opkijkt. Hij is de leesbril daarna steeds kwijt als ie wilt gaan lezen.
-- Tania Maanveer: Half-Elf / Vrouw
+- [[De Scharlaken Brigade#Talia Maanveer|Talia Maanveer]]: Half-Elf / Vrouw
 	- Stem: Vrouwelijk, licht in paniek.
 	- Houding: In blinde paniek. Het is haar eerste week bij de brigade en ze heeft geen idee wat ze met een aanmelding moet doen.
 	- Uiterlijk: Gewoon een lekker wijf! Blond golvend haar, groene ogen, slank, iets te krappe tuniek, heeft geen idee hoe knap ze is.
