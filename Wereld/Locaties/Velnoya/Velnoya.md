@@ -1,4 +1,3 @@
-	
 Velnoya is een kleine stad aan de rand van [[Het Aldfaen Moeras]]. Het ligt op een heuvel die uit het moeras opsteekt. Velnoya betekend gasheuvel in de taal van de [[Siuleo Sierra Clan]].
 
 # Geschiedenis

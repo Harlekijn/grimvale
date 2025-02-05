@@ -1,4 +1,4 @@
-- [[Laau-Maa]]
+
 - [[Scharlaken Citadel]]
 - [[Velnoya]]
 	- De Orde van het Oker Oog.

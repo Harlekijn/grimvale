@@ -1,3 +1,4 @@
+https://www.emptyhexes.com/monster-mondays/category/NPCs
 
 ## Stadswacht
 

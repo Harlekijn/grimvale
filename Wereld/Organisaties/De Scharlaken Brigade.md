@@ -23,9 +23,9 @@ Met een strikt neutraliteitsbeleid in de politieke machtsstrijd om de controle o
 ### [[Gregor Zwartschil]]
 
 **Ras**: Half-Orc. 
-**Stem:** Diep en donker
+**Stem:** Diep en donker, praat rustig en beheersd.
 **Locatie:** [[Laau-maa]] - Scharlaken brigade administratie kantoor 
-**Uiterlijk**: Zwart krullend haar, flinke slagtanden, die versierd zijn met graveringen. Lang en slank, ranke vingers die duidelijk meer gewend zijn aan de veer en inkt dan aan het zwaard. Draagt de rode tuniek van een adjudant van de brigade met op zijn borst de zwarte pin met het logo van de brigade. Ziet er perfect en smetteloos uit, maar zonder enige ijdelheid. 
+**Uiterlijk**: Grijs haar, kalend met een strakke combover. Flinke slagtanden, die versierd zijn met graveringen. Lang en slank, ranke vingers die duidelijk meer gewend zijn aan de veer en inkt dan aan het zwaard. Draagt de rode tuniek van een adjudant van de brigade met op zijn borst de zwarte pin met het logo van de brigade. Ziet er perfect en smetteloos uit, maar zonder enige ijdelheid. 
 
 ### [[Talia Maanveer]]
 

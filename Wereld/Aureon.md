@@ -1,0 +1,2 @@
+Aureon is een gas dat wordt gewonnen in het [[Het Aldfaen Moeras]]. Het gas wordt bestraald met straling van [[Graviton]] kristallen en wordt na bestraling worden gebruikt om luchtschepen te laten zweven. 
+Aureon is vernoemd naar [[Aurielis, de Hemelse Arbiter]]

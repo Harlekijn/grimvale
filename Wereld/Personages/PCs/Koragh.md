@@ -24,3 +24,15 @@ Op zijn 16e werd Henry volwassen volgens de Grimvale Arbeidswet—twee jaar late
 
 Deze gebeurtenis schudde Henry tot in zijn kern en alles in het dorp herinnerde hem aan het onrecht dat Elma was aangedaan. Ondanks de wensen van zijn vader om in zijn voetsporen te treden en carrière te maken binnen de GMC, besloot Henry Woestijnrand te verlaten en een huurling te worden, gedreven door een brandend verlangen om onrecht te bevechten, gerechtigheid te zoeken voor Elma en de wereld te zuiveren van "slechte individuen." Henry vond zijn naam niet passen bij een huurling en nam daarom een andere naam aan, een die bij zijn orc clan past: Koragh. Koragh heeft recent een baan aangenomen als bewaker bij een handels karavaan die onderweg is naar Houtkamp. Van een van de andere bewakers hoorde hij dat die zich wil aansluiten bij De Scharlaken Brigade. Karlagh wil zich nu ook aansluiten bij de brigade en hoopt ooit, met de hulp van de brigade, de moord op Elma op te kunnen lossen.
 
+
+# Oath of Vengeance
+
+> De gebeurtenissen op het kerkhof van de dag zorgen ervoor dat je niet kan slapen. De herinneringen aan Elma die het kerkhof bij je opkwamen laten je niet los. 
+
+
+Tijdens een van de quests gebeurt er iets dat je aan Elma doet denken. 's Nachts denk je terug aan Elma en aan de manier waarop ze tot haar einde is gekomen en dit maakt je niet alleen verdrietig maar vooral ook heel erg boos. Je zint op wraak op degenen die verantwoordelijk zijn voor haar dood. Je overdenkt de periode na haar dood en wat je daarin gedaan hebt en komt tot de conclusie dat het niet genoeg is, dat voornemens niet genoeg zijn en op dat moment leg je een heilige eed af aan Ania, godin van het licht en de wijsheid, die door Elma werd aanbeden. Een heilige eed om wraak te nemen! 
+
+
+
+---
+Koragh zegt tegen Myrmex dat zijn vader wel in hem geinteresseerd zou zijn

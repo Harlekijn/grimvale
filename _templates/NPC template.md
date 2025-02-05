@@ -1,13 +1,6 @@
---- 
-type: NPC 
-faction: [] 
-location: [] 
-world: Exandria 
-campaign: "The Slayers Five" 
-date: [{{date}}] 
-description: "" 
-race: [] 
-gender: [] 
-class: [] 
-
----
+### NPC Name
+**Ras:** Mens
+**Stem:** ...
+**Locatie:** ...
+**Class:** ...
+**Uiterlijk**: Golvend peper en zout haar en met baard en snor. Meest bijzondere uiterlijke kenmerk is een ooglap. Draagt niet de gebruikelijke tuniek van een adjudant, maar de cape van een brigadier. Draagt gewoonlijk een lederen pantser.
