@@ -27,10 +27,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "_maps/Titan Map.png"
+                "file": "Pasted image 20241024131833.png"
               },
               "icon": "lucide-image",
-              "title": "Titan Map"
+              "title": "Pasted image 20241024131833"
             }
           }
         ],
@@ -182,11 +182,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0bcf2d4f1af06443",
+  "active": "87b7ca0afc9edacf",
   "lastOpenFiles": [
+    "_maps/Titan Map.png",
+    "_maps/Titans Fall.jpg",
+    "_maps/Titan Map copy.jpg",
+    "_maps/Titan Map.jpg",
     "Pasted image 20241024131833.png",
     "Avonturen/3. De scheur en de spits/5. De val van de Titaan.md",
-    "_maps/Titan Map.png",
     "Avonturen/3. De scheur en de spits/4. Onder de obelisk.md",
     "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
     "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
@@ -228,8 +231,6 @@
     "_maps/Crypt.jpg",
     "_maps/Crypt.dam",
     "_maps/Graveyard.mp4",
-    "_maps/Graveyard.dd2vtt",
-    "Pasted image 20241108143924.png",
-    "Pasted image 20241108141934.png"
+    "_maps/Graveyard.dd2vtt"
   ]
 }
