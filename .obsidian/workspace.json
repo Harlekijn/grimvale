@@ -180,6 +180,11 @@
   },
   "active": "1c21ed18bea4b765",
   "lastOpenFiles": [
+    "_music/City.mp3",
+    "_music/Graveyard.mp3",
+    "_music/Catacombs.mp3",
+    "_music/Battle.mp3",
+    "_music",
     "Sessies/Volgende Sessie.md",
     "Sessies/5 - De Rode Diplomaten.md",
     "Wereld/Locaties/Laau-Maa/Unktors magische emporium.md",
@@ -206,7 +211,6 @@
     "de Order van de Verlichte Vuist.md",
     "Wereld/Personages/NPCs/Gregor Zwartschil.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/1. Reis naar en aankomst in Laau-Maa.md",
-    "Sessies/4 - Aanloop naar Lau-Maa.md",
     "_images/ScharlakenBrigadeLogo.png",
     "Avonturen/4. De Ziggurat in het Moeras",
     "_maps/Graveyard.jpg",
@@ -223,10 +227,6 @@
     "Aeloria",
     "_vtt backups/Adventures in the Grimvale-2024-12-3.abovevtt",
     "_maps/Crypt.dd2vtt",
-    "_maps/Crypt interior.dd2vtt",
-    "_maps/Crypt interior_autosave.dam",
-    "_maps/Crypt interior.dam",
-    "_maps/Crypt.dam",
-    "_maps/Graveyard.mp4"
+    "_maps/Crypt interior.dd2vtt"
   ]
 }
