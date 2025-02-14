@@ -1,4 +1,4 @@
-Orde van monikken gewijd aan Ania.
+Orde van monikken gewijd aan [[Ania]] gevestigd in [[Laau-maa#Tempel van Sint Ikro|De Tempel van st Ikro]] in het noordelijke deel van de stad. De orde is toegewijd aan het bestrijden van de duisternis en wil verlichting van geest brengen door meditatie en devotie. 
 
 ## NPCs
 

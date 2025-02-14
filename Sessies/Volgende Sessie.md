@@ -1,3 +1,5 @@
+Dag 8
+
 # Spelers
 [[Koragh]]
 [[Myrmex]]
@@ -11,8 +13,8 @@
 # Openstaande Verhaal lijnen
 
 #### Groep verhaallijnen
-- De spelers moeten onderweg naar Laau-Maa om zich daar aan te melden bij [[De Scharlaken Brigade]]
-- Myrmex moet [[Kurak Schildsteen]] de groeten doen van [[Jorah Silverveer]]
+- De Rode Diplomaten zijn bezig aspirant lid geworden van de Scharlaken Brigade. Ze moeten nu 3 opdrachten uitvoeren om volwaardig lid te worden
+- De eerste opdracht is voor De Orde van de verlichte vuist. Ze moeten een duister figuur vinden en tegen houden
 
 #### Persoonlijke verhaallijnen
 - Kuragh wil het metaal waarvan Myrmex van gemaakt is graag aan zijn vader laten zien.
@@ -20,12 +22,9 @@
 
 
 # Doelen / Informatie
-- Jorah stuurt ze naar het hoofdkwartier van de scharlaken brigade in [[De Scharlaken Citadel]] met een aanbevelingsbrief, daar zullen de spelers hun aspirant lidstatus krijgen. Van daar worden ze doorgestuurd naar de tempel van st Ikro.
-- In Laau Maa en bij de Scharlaken Citadel kunnen de volgende dingen gebeuren:
-	- De spelers moeten zich melden in de scharlaken citadel en de brief van Jorah afgeven.
-	- Ze kunnen inkopen doen. Gebruik de [[D&D Shop Catalog, V-2.0.2-Refresh.pdf]] voor de aankoop van verschillende zaken.
-	- De spelers worden lvl 3
-- De spelers moeten als eerste opdracht zich melden bij de tempel van st Ikro
+- Afronden van de st Ikro quest.
+- Lvl 3.
+- Opstarten reis naar Velnoya voor de Ziggurat quest
 
 
 # NPCs

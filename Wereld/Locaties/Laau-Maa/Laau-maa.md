@@ -48,8 +48,8 @@ Herbergen:
 ###### De gouden handelaar
 Nabij de waag is dit een luxe herberg die vooral de rijke kooplieden huist.
 ###### De Viool en de trom
-Een middenklasse herberg. Goed, maar wel erg groot.
-###### [[De Slapende Uil]]
+Een middenklasse herberg. Goed, schoon en middelgroot. De Innkeeper heet Yoris en is een dragonborn.
+###### [[Unktors magische emporium]]
 Een prima herberg tegen een redelijke prijs. Staat bekend om zijn goede BBQ.
 ###### De lekkende Schuit
 Kan bijna geen herberg genoemd worden. Heeft een paar kamers die vooral gebruikt worden om klanten in te leggen die te dronken zijn om naar huis te gaan. Er zijn stallen die beter zijn. Wel levendig en gezellig. Veel havenarbeiders een zeelieden.

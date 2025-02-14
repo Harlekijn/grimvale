@@ -42,14 +42,12 @@ Met een strikt neutraliteitsbeleid in de politieke machtsstrijd om de controle o
 - **Velka Vonkenhand** - Mens
 - **Shiro Zilverspriet** - Tabaxi
 - **Kaela Zonnestraal** - Elf
-- **Gregor Zwartschil** - Half-Orc
 - **Fiona Winddrager** - Firbolg
 - **Elora Schaduwwortel** - Elf
 - **Barrik IJzerwang** - Dwerg
 
 
 # Organisatie
-Verschillende niveau's van teams
 De organisatie wordt geleid door een dagelijks bestuur. Dit zijn geen premiejagers maar pure bestuurders die het beleid van de Brigade uitvoeren.
 Boven het dagelijks bestuur staat De Scharlaken Raed, gevormd door de leden van de 5 oudste / beste / sterkste premiejager teams. De teams van de Raed worden aangesteld voor zolang ze actief zijn en worden gekozen door alle volwaardige leden van de Brigade.
 
