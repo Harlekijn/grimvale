@@ -6,8 +6,8 @@ Echo draagt ook een mysterieus amulet bij zich. Dit amulet is het enige dat hij 
 
 ---
 
-Echo komt vanuit een tijd van voor de Grimvale en zelfs van een ander plane. Echo is een Eladrin. Eladrin komen weinig voor op de material plane. Bijna alle Fey Creatures zijn aanhangers van de natuurlijke Chaos der dingen. De natuur verloopt niet orderlijk, maar ontwikkeld zich chaotisch. De Fey creatures omarmen en aanbidden deze chaos die zich voor hen manifesteert in [[Lysarael, de godin van de Fey]]. 
-Echo zijn ouders daarentegen hielden van orde en waren onderdeel van een geheime cult die [[Aurielis, de Hemelse Arbiter]] aanbad. Aurielis is een god van orde, wetten en balans wat indruist tegen de principes van de Fey. Toen Echo richting de volwassenheid ging, weidde hij zich tot Aurielis. De orde werd ontdekt en de leden ervan werden opgejaagd. Aurielis wilde haar volgelingen helpen, maar heeft geen macht in de Fey plane. Ze stuurde daarom enkele mages van [[De Echilibru]], een orde van magiers en ridders gewijd aan orde en Aurielis. 
+Echo komt vanuit een tijd van voor de Grimvale en zelfs van een ander plane. Echo is een Eladrin. Eladrin komen weinig voor op de material plane. Bijna alle Fey Creatures zijn aanhangers van de natuurlijke Chaos der dingen. De natuur verloopt niet orderlijk, maar ontwikkeld zich chaotisch. De Fey creatures omarmen en aanbidden deze chaos die zich voor hen manifesteert in [[Goden#Lysarael|Lysarael, de godin van de Fey]]. 
+Echo zijn ouders daarentegen hielden van orde en waren onderdeel van een geheime cult die [[Goden#Aurielis|Aurielis, de Hemelse Arbiter]] aanbad. Aurielis is een god van orde, wetten en balans wat indruist tegen de principes van de Fey. Toen Echo richting de volwassenheid ging, weidde hij zich tot Aurielis. De orde werd ontdekt en de leden ervan werden opgejaagd. Aurielis wilde haar volgelingen helpen, maar heeft geen macht in de Fey plane. Ze stuurde daarom enkele mages van [[De Echilibru]], een orde van magiers en ridders gewijd aan orde en Aurielis. 
 
 Deze mages hebben zich over Echo en zijn ouders ontfermd en hebben Echo getraind tot een machtige sorcerer.
 
