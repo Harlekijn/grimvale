@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wereld/Personages/PCs/Koragh.md",
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Koragh"
+              "title": "3. De tombe van Sint Ikro"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wereld/Personages/PCs/Koragh.md",
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Koragh"
+              "title": "Backlinks for 3. De tombe van Sint Ikro"
             }
           },
           {
@@ -157,8 +157,19 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "93061840e4321b1e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -175,11 +186,13 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "calendarium:Open Calendarium": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c04fe2bf9bb17682",
   "lastOpenFiles": [
+    "Wereld/Personages/PCs/Koragh.md",
     "_maps/De Grimvale.jpg",
     "Zilverstroom Rivier.md",
     "Kaart van de Grimvale.md",
@@ -222,7 +235,6 @@
     "_maps/Titans Fall.jpg",
     "_maps/Titan Map copy.jpg",
     "_maps/Titan Map.jpg",
-    "_maps/Velnoya.jpg",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Aeloria/Sessies",
