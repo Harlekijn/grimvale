@@ -32,7 +32,7 @@ Deze gebeurtenis schudde Henry tot in zijn kern en alles in het dorp herinnerde 
 
 Tijdens een van de quests gebeurt er iets dat je aan Elma doet denken. 's Nachts denk je terug aan Elma en aan de manier waarop ze tot haar einde is gekomen en dit maakt je niet alleen verdrietig maar vooral ook heel erg boos. Je zint op wraak op degenen die verantwoordelijk zijn voor haar dood. Je overdenkt de periode na haar dood en wat je daarin gedaan hebt en komt tot de conclusie dat het niet genoeg is, dat voornemens niet genoeg zijn en op dat moment leg je een heilige eed af aan Ania, godin van het licht en de wijsheid, die door Elma werd aanbeden. Een heilige eed om wraak te nemen! 
 
-In werkelijkheid krijgt Koragh zijn krachten van [[Goden#Obsidia|Obsidia]]
+In werkelijkheid krijgt Koragh zijn krachten van [[Goden#Obsidia|Obsidia]], godin van de wraak.
 
 
 
