@@ -38,3 +38,10 @@ In werkelijkheid krijgt Koragh zijn krachten van [[Goden#Obsidia|Obsidia]]
 
 ---
 Koragh zegt tegen Myrmex dat zijn vader wel in hem geinteresseerd zou zijn
+
+
+
+
+Flumpers?
+Spiegel met apocalyptisch landschap?
+Gruumsh als god toevoegen?
