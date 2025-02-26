@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wereld/Personages/PCs/Koragh.md",
+                "file": "Sessies/Volgende Sessie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Koragh"
+              "title": "Volgende Sessie"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessies/Volgende Sessie.md",
+                "file": "Sessies/6 - Volnok.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volgende Sessie"
+              "title": "6 - Volnok"
             }
           }
         ]
@@ -220,9 +220,10 @@
   },
   "active": "c04fe2bf9bb17682",
   "lastOpenFiles": [
-    "Wereld/Personages/Goden/Goden.md",
-    "Wereld/Personages/PCs/Koragh.md",
+    "Sessies/6 - Volnok.md",
     "Sessies/Volgende Sessie.md",
+    "Wereld/Personages/PCs/Koragh.md",
+    "Wereld/Personages/Goden/Goden.md",
     "Wereld/Aureon.md",
     "Avonturen/3. De scheur en de spits/2. Fondue.md",
     "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
@@ -247,7 +248,6 @@
     "Wereld/Personages/NPCs/Jorah Silverveer.md",
     "Wereld/Personages/NPCs/Logar Doornvoet.md",
     "Wereld/Personages/NPCs/Lorita Sancham.md",
-    "Wereld/Personages/NPCs/Prim Fluisterwind.md",
     "_maps/Scholarium Ground Floor.dam",
     "_music/City.mp3",
     "_music/Graveyard.mp3",

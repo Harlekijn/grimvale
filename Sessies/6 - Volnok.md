@@ -1,4 +1,4 @@
-Dag 9
+Dag 8
 
 # Spelers
 [[Koragh]]
@@ -20,7 +20,7 @@ Jullie zijn naar de Scharlaken Citadel gegaan om uit te rusten. Daar zijn jullie
 
 #### Groep verhaallijnen
 - De Rode Diplomaten zijn bezig aspirant lid geworden van de Scharlaken Brigade. Ze moeten nu 3 opdrachten uitvoeren om volwaardig lid te worden
-- De eerste opdracht is voor De Orde van de verlichte vuist. Ze moeten een duister figuur vinden en tegen houden. Ze hebben deze opdracht afgerond
+- De eerste opdracht is voor De Orde van de verlichte vuist. Ze moeten een duister figuur vinden en tegen houden
 
 #### Persoonlijke verhaallijnen
 - Kuragh wil het metaal waarvan Myrmex van gemaakt is graag aan zijn vader laten zien.
