@@ -29,8 +29,8 @@ Jullie zijn naar de Scharlaken Citadel gegaan om uit te rusten. Daar zijn jullie
 
 # Doelen / Informatie
 - Afronden van de st Ikro quest.
-- Lvl 3.
 - Opstarten reis naar Velnoya voor de Ziggurat quest
+- Plains encounter met Ogres voor introductie 
 
 
 # NPCs
