@@ -46,4 +46,4 @@ Gregor is geduldig en weet elke regel van de brigade uit zijn hoofd. Licht autis
 
 ![[De Orde van de Verlichte Vuist#Meester Thalivor]]
 
-
+![[De Orde van het Oker Oog#Lorita Sancham]]
