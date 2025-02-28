@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f6cd64df8d20ebaf",
+        "id": "eb3c905aebfc055b",
         "type": "tabs",
         "children": [
           {
-            "id": "c04fe2bf9bb17682",
+            "id": "bf45d404bac79256",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessies/Volgende Sessie.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Volgende Sessie"
-            }
-          },
-          {
-            "id": "0b766be5d7e5b92b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Personages/Goden/Goden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Goden"
-            }
-          },
-          {
-            "id": "de8f94ca9006b859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessies/6 - Volnok.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6 - Volnok"
+              "title": "New tab"
             }
           }
         ]
@@ -213,20 +181,22 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c04fe2bf9bb17682",
+  "active": "bf45d404bac79256",
   "lastOpenFiles": [
+    "Sessies/6 - Volnok.md",
+    "Sessies/Volgende Sessie.md",
+    "Wereld/Personages/Goden/Goden.md",
     "_maps/dungeondraft/Scholarium.dungeondraft_map",
     "_maps/dungeondraft",
     "_images/Imperius.jpg",
     "Wereld/Personages/NPCs/Lorita Sancham.md",
     "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
-    "Sessies/Volgende Sessie.md",
-    "Sessies/6 - Volnok.md",
     "Wereld/Personages/PCs/Koragh.md",
-    "Wereld/Personages/Goden/Goden.md",
     "Wereld/Aureon.md",
     "Avonturen/3. De scheur en de spits/2. Fondue.md",
     "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
@@ -264,7 +234,6 @@
     "_maps/Titan Map copy.jpg",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Aeloria/Sessies",
-    "Aeloria"
+    "Aeloria/Sessies"
   ]
 }
