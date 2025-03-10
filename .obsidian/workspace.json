@@ -11,12 +11,14 @@
             "id": "bf45d404bac79256",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_images/Opdracht-Velnoya.png"
+                "file": "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Opdracht-Velnoya"
+              "icon": "lucide-file",
+              "title": "1. Laau-Maa naar Velnoya"
             }
           }
         ]
@@ -190,8 +192,9 @@
   },
   "active": "bf45d404bac79256",
   "lastOpenFiles": [
-    "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+    "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
+    "_images/Opdracht-Velnoya.png",
     "Sessies/6 - Volnok.md",
     "Sessies/Volgende Sessie.md",
     "Wereld/Personages/Goden/Goden.md",
@@ -220,7 +223,6 @@
     "Wereld/Locaties/Vuurnevel.md",
     "_maps/Volmarus Wereld kaart.jpg",
     "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "_maps/Scholarium Ground Floor.dam",
     "_music/City.mp3",
     "_music/Graveyard.mp3",
@@ -234,7 +236,6 @@
     "_maps/De Viool en de Trom.jpg",
     "_maps/Titan Map.png",
     "_maps/Titans Fall.jpg",
-    "_maps/Titan Map copy.jpg",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Aeloria/Sessies"
