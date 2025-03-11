@@ -11,6 +11,18 @@
             "id": "bf45d404bac79256",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "_images/Opdracht-Velnoya.png"
+              },
+              "icon": "lucide-image",
+              "title": "Opdracht-Velnoya"
+            }
+          },
+          {
+            "id": "3a1990562e298317",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
@@ -35,7 +47,8 @@
               "title": "3. De tombe van Sint Ikro"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bf45d404bac79256",
+  "active": "3a1990562e298317",
   "lastOpenFiles": [
     "_images/Opdracht-Velnoya.png",
     "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
