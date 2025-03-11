@@ -11,12 +11,14 @@
             "id": "bf45d404bac79256",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_images/Opdracht-Velnoya.png"
+                "file": "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Opdracht-Velnoya"
+              "icon": "lucide-file",
+              "title": "1. Laau-Maa naar Velnoya"
             }
           },
           {
@@ -204,10 +206,10 @@
   },
   "active": "bf45d404bac79256",
   "lastOpenFiles": [
+    "_images/Opdracht-Velnoya.png",
     "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Sessies/6 - Volnok.md",
-    "_images/Opdracht-Velnoya.png",
     "Sessies/Volgende Sessie.md",
     "Wereld/Personages/Goden/Goden.md",
     "_maps/dungeondraft/Scholarium.dungeondraft_map",
