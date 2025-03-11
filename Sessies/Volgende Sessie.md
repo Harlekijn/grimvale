@@ -19,8 +19,8 @@ Jullie zijn naar de Scharlaken Citadel gegaan om uit te rusten. Daar zijn jullie
 # Openstaande Verhaal lijnen
 
 #### Groep verhaallijnen
-- De Rode Diplomaten zijn bezig aspirant lid geworden van de Scharlaken Brigade. Ze moeten nu 3 opdrachten uitvoeren om volwaardig lid te worden
-- De eerste opdracht is voor De Orde van de verlichte vuist. Ze moeten een duister figuur vinden en tegen houden. Ze hebben deze opdracht afgerond
+- De Rode Diplomaten zijn aspirant lid geworden van de Scharlaken Brigade. Ze moeten nu 3 opdrachten uitvoeren om volwaardig lid te worden
+- De Rode Diplomaten hebben de eerste opdracht afgerond en zijn nu klaar voor de tweede opdracht
 
 #### Persoonlijke verhaallijnen
 - Kuragh wil het metaal waarvan Myrmex van gemaakt is graag aan zijn vader laten zien.
@@ -30,7 +30,8 @@ Jullie zijn naar de Scharlaken Citadel gegaan om uit te rusten. Daar zijn jullie
 # Doelen / Informatie
 - Afronden van de st Ikro quest.
 - Opstarten reis naar Velnoya voor de Ziggurat quest
-- Plains encounter met Ogres voor introductie 
+- Plains encounter met Ogres voor introductie
+- Begin Scheur en de Spits
 
 
 # NPCs
