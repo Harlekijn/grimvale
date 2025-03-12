@@ -20,6 +20,34 @@
               "icon": "lucide-file",
               "title": "1. Laau-Maa naar Velnoya"
             }
+          },
+          {
+            "id": "6026f51a0b18d373",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. De tombe van Sint Ikro"
+            }
+          },
+          {
+            "id": "d177f9b3c1c6f3a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessies/Volgende Sessie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volgende Sessie"
+            }
           }
         ]
       }
@@ -192,12 +220,13 @@
   },
   "active": "794d8b6645d6838e",
   "lastOpenFiles": [
-    "Sessies/Volgende Sessie.md",
-    "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
-    "_images/Brief Koragh.png",
+    "_images/Koragh Brief.png",
     "_images/Opdracht Guilde der Alchemisten.png",
-    "_images/Opdracht-Velnoya.png",
+    "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+    "Sessies/Volgende Sessie.md",
+    "_images/Brief Koragh.png",
+    "_images/Opdracht-Velnoya.png",
     "Untitled.md",
     "Sessies/6 - Volnok.md",
     "Wereld/Personages/Goden/Goden.md",
