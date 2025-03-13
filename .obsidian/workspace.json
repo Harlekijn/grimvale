@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
+                "file": "Avonturen/3. De scheur en de spits/2. Fondue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Laau-Maa naar Velnoya"
+              "title": "2. Fondue"
+            }
+          },
+          {
+            "id": "c414c12e70b8ec45",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           },
           {
@@ -219,11 +231,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "6026f51a0b18d373",
+  "active": "c414c12e70b8ec45",
   "lastOpenFiles": [
     "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
-    "Sessies/Volgende Sessie.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+    "Sessies/Volgende Sessie.md",
     "Wereld/Locaties/De Eindeloze Vlakte.md",
     "Wereld/Organisaties/Siuleo Sierra Clan.md",
     "Pasted image 20241024131833.png",
