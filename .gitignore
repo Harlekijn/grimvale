@@ -4,6 +4,7 @@ node_modules
 grimvale-llm
 .obsidian/
 *_autosave.*
+/_maps/dungeondraft/packs
 
 
 # Ignore Smart Environment folder
