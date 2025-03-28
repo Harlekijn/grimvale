@@ -7,13 +7,13 @@ Dag 9 - 14
 
 # Wat is er gebeurt
 
-Jullie hebben het Mausoleum van st Ikro gevonden en de ondode wachter daar verslagen. Jullie zijn he mausoleum binnen gegaan en vonden de kamer waar de tombe van st Ikro lag. Daar voelden jullie de aanwezigheid van Ania.
+Jullie hebben de beloning gehad van de brigade voor jullie eerste missie en hebben een tweede missie gekregen. 
 
-Jullie zijn verder afgedaald in de Tombe en vonden de Cultist daar, die jullie hebben gedood. Helaas kon hij wel zijn ritueel afronden en wist hij de geest van Valnok op te roepen. Jullie voelden al snel dat dit foute boel was en dat jullie de geest van Valnok niet zonder hulp zouden kunnen verslaan. Jullie vluchten naar de kamer waar st Ikro lag en wisten met de hulp van de godin Ania Valnok te verslaan.
+Jullie zijn lvl 3
 
-Jullie zijn vervolgens naar de Tempel van st Ikro gegaan en hebben verslag gedaan aan Meester Thalivor. Verheugd, geschokt en ietwat wantrouwig hoort hij jullie verhaal aan. Hij stuurt een Monnik om te bevestigen wat jullie verteld hebben.
+Echo heeft weer een [[Echo#Level 3|droom]] gehad.
 
-Jullie zijn naar de Scharlaken Citadel gegaan om uit te rusten. Daar zijn jullie geleveld en heeft Koragh zijn eed gezworen aan Ania.
+Koragh heeft zijn eed gezworen aan Ania. Een eed voor wraak 
 
 
 # Openstaande Verhaal lijnen
