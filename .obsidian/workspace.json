@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessies/7 - Op weg naar Velnoya.md",
+                "file": "Sessies/Volgende Sessie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 - Op weg naar Velnoya"
+              "title": "Volgende Sessie"
+            }
+          },
+          {
+            "id": "b99b8bc0273115e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heer Tiresome Belovaar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heer Tiresome Belovaar"
             }
           },
           {
@@ -269,10 +283,11 @@
   },
   "active": "794d8b6645d6838e",
   "lastOpenFiles": [
-    "Sessies/6 - Volnok.md",
-    "Sessies/7 - Op weg naar Velnoya.md",
-    "Sessies/Volgende Sessie.md",
     "Sessies/8 - De Pilaar van Belovaar.md",
+    "Sessies/7 - Op weg naar Velnoya.md",
+    "Heer Tiresome Belovaar.md",
+    "Sessies/6 - Volnok.md",
+    "Sessies/Volgende Sessie.md",
     "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
     "Avonturen/3. De scheur en de spits/5. De val van de Titaan.md",
     "Avonturen/3. De scheur en de spits/4. Onder de obelisk.md",
@@ -314,7 +329,6 @@
     "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
     "Wereld/Personages/PCs/Echo.md",
     "Zilverstroom Rivier.md",
-    "Kaart van de Grimvale.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

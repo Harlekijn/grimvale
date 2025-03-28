@@ -32,10 +32,7 @@ In Velnoya aangekomen zijn jullie direct naar het Scholarium gegaan, maar voor j
 
 
 # Doelen / Informatie
-- Afronden van de st Ikro quest.
-- Opstarten reis naar Velnoya voor de Ziggurat quest
-- Plains encounter met Ogres voor introductie
-- Begin Scheur en de Spits
+- Beginnen aan scheur en de spits
 
 
 # NPCs
