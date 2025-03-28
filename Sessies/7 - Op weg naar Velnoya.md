@@ -13,14 +13,18 @@ Jullie zijn lvl 3
 
 Echo heeft weer een [[Echo#Level 3|droom]] gehad.
 
-Koragh heeft zijn eed gezworen aan Ania. Een eed voor wraak 
+Koragh heeft zijn eed gezworen aan Ania. Een eed voor wraak over de dood van Elma.
+
+Jullie zijn op weg gegaan naar Velnoya. Onderweg hebben jullie gevochten met een stel Ogres en hebben jullie een Tabaxi bevrijd. 
+
+In Velnoya aangekomen zijn jullie direct naar het Scholarium gegaan, maar voor jullie daar kwamen schudde een aardbeving de straten. Er kwamen twee minor elementals uit de grond die jullie hebben verslagen. Aan het einde van het gevecht ging de koepel van het Scholarium open en kwam er een zeppelin uit die jullie heeft opgepikt.
 
 
 # Openstaande Verhaal lijnen
 
 #### Groep verhaallijnen
 - De Rode Diplomaten zijn aspirant lid geworden van de Scharlaken Brigade. Ze moeten nu 3 opdrachten uitvoeren om volwaardig lid te worden
-- De Rode Diplomaten hebben de eerste opdracht afgerond en zijn nu klaar voor de tweede opdracht
+- De Rode Diplomaten hebben de tweede opdracht gehad. Ze moeten een verstoring in het moeras onderzoeken. Hiervoor zijn ze naar Velnoya gereisd.
 
 #### Persoonlijke verhaallijnen
 - Kuragh wil het metaal waarvan Myrmex van gemaakt is graag aan zijn vader laten zien.
