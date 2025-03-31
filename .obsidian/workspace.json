@@ -22,48 +22,49 @@
             }
           },
           {
-            "id": "b99b8bc0273115e2",
+            "id": "7806185942b8ac4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heer Tiresome Belovaar.md",
+                "file": "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heer Tiresome Belovaar"
+              "title": "6. Het Maanmeer"
             }
           },
           {
-            "id": "6026f51a0b18d373",
+            "id": "31013ff34c4fea6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+                "file": "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. De tombe van Sint Ikro"
+              "title": "7. Belovaars Grafkamer"
             }
           },
           {
-            "id": "d177f9b3c1c6f3a4",
+            "id": "add2e5628088e130",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessies/Volgende Sessie.md",
+                "file": "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volgende Sessie"
+              "title": "8. Het Scholarium"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,20 +282,22 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "794d8b6645d6838e",
+  "active": "7806185942b8ac4e",
   "lastOpenFiles": [
+    "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
+    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
+    "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
+    "Heer Tiresome Belovaar.md",
+    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
+    "Sessies/Volgende Sessie.md",
     "Sessies/8 - De Pilaar van Belovaar.md",
     "Sessies/7 - Op weg naar Velnoya.md",
-    "Heer Tiresome Belovaar.md",
     "Sessies/6 - Volnok.md",
-    "Sessies/Volgende Sessie.md",
-    "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
     "Avonturen/3. De scheur en de spits/5. De val van de Titaan.md",
     "Avonturen/3. De scheur en de spits/4. Onder de obelisk.md",
     "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "_maps/dam/Spire_hallway.dd2vtt",
-    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
     "_maps/Scholarium/Luchtship.dd2vtt",
     "_maps/Scholarium/Derde Verdieping.dd2vtt",
     "_maps/Scholarium/Tweede Verdieping.dd2vtt",
@@ -311,7 +314,6 @@
     "_maps/Scholarium/Airship.dd2vtt.png",
     "Avonturen/3. De scheur en de spits/2. Fondue.md",
     "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
-    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Wereld/Locaties/De Eindeloze Vlakte.md",
     "Wereld/Organisaties/Siuleo Sierra Clan.md",
     "Pasted image 20241024131833.png",
@@ -326,7 +328,6 @@
     "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
     "Wereld/Personages/PCs/Koragh.md",
     "Wereld/Aureon.md",
-    "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
     "Wereld/Personages/PCs/Echo.md",
     "Zilverstroom Rivier.md",
     "Untitled 1.canvas",
