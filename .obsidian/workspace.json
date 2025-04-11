@@ -247,7 +247,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_bbebbaf9396b"
+                "id": "ID_bbebbaf9396b",
+                "child": "ID_897bd9497b0b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
