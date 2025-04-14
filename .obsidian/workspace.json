@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+                "file": "Avonturen/4. De Ziggurat in het Moeras/3. Heks in het Moeras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. De Scharlaken Brigade in Velnoya"
+              "title": "3. Heks in het Moeras"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
+                "file": "Wereld/Personages/PCs/Echo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Het Scholarium"
+              "title": "Echo"
             }
           }
         ],
@@ -298,10 +298,11 @@
   },
   "active": "31013ff34c4fea6c",
   "lastOpenFiles": [
-    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
+    "Wereld/Personages/PCs/Echo.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Heks in het Moeras.md",
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
+    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "_templates/NPC Full template.md",
     "_images/Devoured Sould Big Bad.png",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
@@ -343,7 +344,6 @@
     "Untitled.md",
     "Wereld/Personages/Goden/Goden.md",
     "Wereld/Personages/NPCs/Lorita Sancham.md",
-    "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
