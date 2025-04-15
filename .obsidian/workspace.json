@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
+                "file": "Overige/Hoofd Plot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. De Ziggurat"
+              "title": "Hoofd Plot"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vuurp",
+                "query": "Malaxar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -298,6 +299,7 @@
   },
   "active": "31013ff34c4fea6c",
   "lastOpenFiles": [
+    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Pasted image 20250415105438.png",
     "Avonturen/4. De Ziggurat in het Moeras/3. Heks in het Moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
@@ -307,7 +309,6 @@
     "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
     "_templates/NPC Full template.md",
     "_images/Devoured Sould Big Bad.png",
-    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
     "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
     "Avonturen/3. De scheur en de spits/4. Onder de obelisk.md",
@@ -341,7 +342,6 @@
     "Wereld/Locaties/Laau-Maa/Unktors magische emporium.md",
     "_images/Koragh Brief.png",
     "_images/Opdracht Guilde der Alchemisten.png",
-    "_images/Brief Koragh.png",
     "Untitled.md",
     "Wereld/Personages/Goden/Goden.md",
     "Untitled 1.canvas",
