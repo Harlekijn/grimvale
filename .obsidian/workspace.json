@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "b2cbd1a94f1be87e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overige/Nog uitwerken.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nog uitwerken"
+            }
+          },
+          {
             "id": "079ef38af25fe7fa",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "Velnoya"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Malaxar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -253,8 +268,22 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "31013ff34c4fea6c",
+  "active": "b2cbd1a94f1be87e",
   "lastOpenFiles": [
+    "Wereld/Personages/NPCs/Vader Eadric.md",
+    "Wereld/Personages/NPCs/Sylvara Fluisterwind.md",
+    "Wereld/Personages/NPCs/Prim Fluisterwind.md",
+    "Wereld/Personages/NPCs/Lorita Sancham.md",
+    "Wereld/Personages/NPCs/Logar Doornvoet.md",
+    "Wereld/Personages/NPCs/Jorah Silverveer.md",
+    "Wereld/Personages/NPCs/Grunk Grimsmith.md",
+    "Wereld/Personages/NPCs/Gregor Zwartschil.md",
+    "Wereld/Personages/NPCs/Elara Maanschaduw.md",
+    "Wereld/Personages/NPCs/Aric Thorne.md",
+    "Overige/Nog uitwerken.md",
+    "Overige/Random NPCs.md",
+    "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
+    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "_maps/Scholarium/Begane Grond.jpg",
     "_maps/Scholarium/Eerste Verdieping.jpg",
     "_maps/Scholarium/Luchtship.jpg",
@@ -263,7 +292,6 @@
     "_maps/Scholarium/Tweede Verdieping copy.jpg",
     "_maps/Scholarium/Tweede Verdieping.png",
     "Wereld/Locaties/Velnoya/Velnoya.md",
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Het Aldfaen Moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Overige/Hoofd Plot.md",
@@ -276,16 +304,7 @@
     "Avonturen/4. De Ziggurat in het Moeras/3. Heks in het Moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
-    "_templates/NPC Full template.md",
     "_images/Devoured Sould Big Bad.png",
-    "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
-    "Heer Tiresome Belovaar.md",
-    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
-    "Sessies/8 - De Pilaar van Belovaar.md",
-    "Sessies/7 - Op weg naar Velnoya.md",
-    "Sessies/6 - Volnok.md",
-    "Avonturen/3. De scheur en de spits/5. De val van de Titaan.md",
-    "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
     "_maps/dam/Spire_hallway.dd2vtt",
     "_maps/Scholarium/Luchtship.dd2vtt",
     "_maps/Scholarium/Derde Verdieping.dd2vtt",
@@ -296,11 +315,7 @@
     "_maps/Scholarium/Ground Floor.dd2vtt.png",
     "_maps/dungeondraft/Scholarium.temporary",
     "_maps/Scholarium/1st level.dd2vtt",
-    "_maps/Scholarium/1st level.dd2vtt.png",
     "_maps/Scholarium/2nd level.dd2vtt",
-    "Avonturen/3. De scheur en de spits/2. Fondue.md",
-    "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
-    "Wereld/Locaties/De Eindeloze Vlakte.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
