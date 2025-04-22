@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+                "file": "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. De Scharlaken Brigade in Velnoya"
+              "title": "8. Het Scholarium"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
+                "file": "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Aan boord van de Imperius"
+              "title": "8. Het Scholarium"
             }
           },
           {
@@ -269,11 +269,12 @@
   },
   "active": "31013ff34c4fea6c",
   "lastOpenFiles": [
-    "Wereld/Personages/Goden/De Oude Goden.md",
+    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
     "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
+    "Wereld/Personages/Goden/De Oude Goden.md",
     "Avonturen/3. De scheur en de spits/2. Fondue.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Wereld/Personages/Goden/Ania.md",
     "Wereld/Personages/Goden/De Nieuwe Goden.md",
     "Wereld/Locaties/Laau-Maa/Laau-maa.md",
@@ -294,7 +295,6 @@
     "Wereld/Personages/NPCs/Grunk Grimsmith.md",
     "Wereld/Personages/NPCs/Gregor Zwartschil.md",
     "Wereld/Personages/NPCs/Elara Maanschaduw.md",
-    "Wereld/Personages/NPCs/Aric Thorne.md",
     "_maps/Scholarium/Begane Grond.jpg",
     "_maps/Scholarium/Eerste Verdieping.jpg",
     "_maps/Scholarium/Luchtship.jpg",
