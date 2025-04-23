@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
+                "file": "Wereld/Personages/PCs/Koragh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Het Scholarium"
+              "title": "Koragh"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "De Oude Goden"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,12 +268,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "31013ff34c4fea6c",
+  "active": "079ef38af25fe7fa",
   "lastOpenFiles": [
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
-    "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
     "Wereld/Personages/Goden/De Oude Goden.md",
+    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
+    "Wereld/Personages/PCs/Koragh.md",
+    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+    "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
     "Avonturen/3. De scheur en de spits/2. Fondue.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Wereld/Personages/Goden/Ania.md",
@@ -294,7 +296,6 @@
     "Wereld/Personages/NPCs/Jorah Silverveer.md",
     "Wereld/Personages/NPCs/Grunk Grimsmith.md",
     "Wereld/Personages/NPCs/Gregor Zwartschil.md",
-    "Wereld/Personages/NPCs/Elara Maanschaduw.md",
     "_maps/Scholarium/Begane Grond.jpg",
     "_maps/Scholarium/Eerste Verdieping.jpg",
     "_maps/Scholarium/Luchtship.jpg",
