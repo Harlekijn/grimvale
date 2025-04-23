@@ -46,7 +46,7 @@ Herberg in het Havenkwartier
 - Potion of Climbing
 - Potion of Water Breathing
 - Llolth's Sting (applies poisoned)
-- 
+- Malice Poison
 - Potion of Flying
 
 ### Smid
