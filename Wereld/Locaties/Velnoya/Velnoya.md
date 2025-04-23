@@ -54,12 +54,13 @@ https://arcaneeye.com/magic-item-shop-generator/
 - Llolth's Sting (applies poisoned) 200 gp
 - Malice Poison 250 gp
 - Potion of Poison Resistance 250 gp
-- Potion of Flying
-- Acid: 25gp
+- Acid Vial: 25gp
 - Alchemists Fire: 50gp
+- Antitoxin: 25gp
 
 ### Smid: Het gebogen lemet
 
 ### Magic Shop: Het Arcane Atheneum
 
-### Grootgrutter: 
+### Grootgrutter: Ilias
+Allerlei common items
