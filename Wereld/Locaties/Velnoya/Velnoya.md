@@ -41,7 +41,13 @@ Herberg in het Havenkwartier
 ## Winkels
 
 ### Potion Shop: De Versteende Salamander
-Health potions, Alchemy Kit, 
+- Health potions
+- Alchemy Kit
+- Potion of Climbing
+- Potion of Water Breathing
+- Poison (1d4, 1 min)
+- 
+- Potion of Flying
 
 ### Smid
 
