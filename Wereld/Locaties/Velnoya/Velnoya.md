@@ -40,7 +40,8 @@ Herberg in het Havenkwartier
 
 ## Winkels
 
-### Potion Shop
+### Potion Shop: De Versteende Salamander
+Health potions, Alchemy Kit, 
 
 ### Smid
 
