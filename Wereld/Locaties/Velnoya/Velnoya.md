@@ -31,7 +31,10 @@ Meer informatie over [[Het Scholarium]]
 ## Het Stadhuis
 
 
-## Brigade huis van de Scharlaken brigade
+## Het Brigade huis
+
+
 
 ## De Ochtend Mist
 Herberg in het Havenkwartier
+
