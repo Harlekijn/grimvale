@@ -49,6 +49,8 @@ Herberg in het Havenkwartier
 - Malice Poison
 - Potion of Poison Resistance
 - Potion of Flying
+- Acid: 25gp
+- Alchemists Fire: 50gp
 
 ### Smid: Het gebogen lemet
 
