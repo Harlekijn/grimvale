@@ -219,8 +219,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_bbebbaf9396b",
-                "child": "ID_897bd9497b0b"
+                "id": "ID_bbebbaf9396b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -239,7 +238,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
