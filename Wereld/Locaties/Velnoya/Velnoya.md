@@ -38,3 +38,12 @@ Meer informatie over [[Het Scholarium]]
 ## De Ochtend Mist
 Herberg in het Havenkwartier
 
+## Winkels
+
+### Potion Shop
+
+### Smid
+
+### Magic Shop
+
+### Grootgrutter
