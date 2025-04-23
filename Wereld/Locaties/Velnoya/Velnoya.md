@@ -50,8 +50,8 @@ Herberg in het Havenkwartier
 - Potion of Poison Resistance
 - Potion of Flying
 
-### Smid
+### Smid: Het gebogen lemet
 
-### Magic Shop
+### Magic Shop: Het Arcane Atheneum
 
-### Grootgrutter
+### Grootgrutter: 
