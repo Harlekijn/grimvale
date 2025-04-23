@@ -219,7 +219,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_bbebbaf9396b"
+                "id": "ID_bbebbaf9396b",
+                "child": "ID_897bd9497b0b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -238,6 +239,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -268,9 +270,10 @@
   },
   "active": "079ef38af25fe7fa",
   "lastOpenFiles": [
-    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
-    "Wereld/Personages/Goden/De Oude Goden.md",
     "Wereld/Personages/PCs/Koragh.md",
+    "Wereld/Locaties/Velnoya/Velnoya.md",
+    "Wereld/Personages/Goden/De Oude Goden.md",
+    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
     "Avonturen/3. De scheur en de spits/2. Fondue.md",
@@ -278,7 +281,6 @@
     "Wereld/Personages/Goden/Ania.md",
     "Wereld/Personages/Goden/De Nieuwe Goden.md",
     "Wereld/Locaties/Laau-Maa/Laau-maa.md",
-    "Wereld/Locaties/Velnoya/Velnoya.md",
     "Heer Tiresome Belovaar.md",
     "Aurielis, de Hemelse Arbiter.md",
     "De Grimvale Mijnbouw Cooperatie.md",

@@ -59,13 +59,16 @@ https://arcaneeye.com/magic-item-shop-generator/
 - Antitoxin: 25gp
 
 ### Smid: Het gebogen lemet
+Gewone wapens en armor als volgens de DMG
+
+
+### Magic Shop: Het Arcane Atheneum
 - Javelin of Lightning (240 gp)
 - Rope of Climbing (492 gp)
 - Boots of Elvenkind (290 gp)
 - +1 Battle Axe (240 gp)
-- 
-
-### Magic Shop: Het Arcane Atheneum
+- Gem of Brightness (471 gp)
+Neemt ook opdrachten aan
 
 ### Grootgrutter: Ilias
 Allerlei common items
