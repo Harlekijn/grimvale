@@ -59,6 +59,9 @@ https://arcaneeye.com/magic-item-shop-generator/
 - Antitoxin: 25gp
 
 ### Smid: Het gebogen lemet
+- Mithral Chain Mail (434 gp)
+- Javelin of Lightning (240 gp)
+- 
 
 ### Magic Shop: Het Arcane Atheneum
 
