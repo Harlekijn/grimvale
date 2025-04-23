@@ -39,15 +39,21 @@ Meer informatie over [[Het Scholarium]]
 Herberg in het Havenkwartier
 
 ## Winkels
+https://arcaneeye.com/magic-item-shop-generator/
 
 ### Potion Shop: De Versteende Salamander
 - Health potions
-- Alchemy Kit
-- Potion of Climbing
-- Potion of Water Breathing
-- Llolth's Sting (applies poisoned)
-- Malice Poison
-- Potion of Poison Resistance
+	- 2x Potion of Healing: 50 gp
+	- 1x Potion of Greater Healing: 100 gp
+	- 1x Potion of Superior Healing 500 gp
+- Alchemy Kit: 50gp
+- Potion of Climbing: 94 gp
+- Potion of Water Breathing: 133 gp
+- Potion of Hill Giants Strenght: 278 gp
+- Potion of Growth: 168
+- Llolth's Sting (applies poisoned) 200 gp
+- Malice Poison 250 gp
+- Potion of Poison Resistance 250 gp
 - Potion of Flying
 - Acid: 25gp
 - Alchemists Fire: 50gp
