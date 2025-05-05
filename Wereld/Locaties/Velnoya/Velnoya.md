@@ -60,11 +60,14 @@ Wordt gerund door
 - Alchemists Fire: 50gp
 - Antitoxin: 25gp
 
-### Smid: Het gebogen lemet
+### Smid: Hefarion, goliath
+In het Ambachtskwartier. Wapens zijn niet zijn specialiteit, maar maakt prima items.
+
 Gewone wapens en armor als volgens de DMG
 
 
 ### Magic Shop: Het Arcane Atheneum
+In het boekenkwartier
 - Javelin of Lightning (240 gp)
 - Rope of Climbing (492 gp)
 - Boots of Elvenkind (290 gp)
@@ -73,4 +76,5 @@ Gewone wapens en armor als volgens de DMG
 Neemt ook opdrachten aan
 
 ### Grootgrutter: Ilias
+In het Ambachtskwartier
 Allerlei common items
