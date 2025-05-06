@@ -103,3 +103,19 @@ De creme de la creme van de brigade. De elite teams zijn onderdeel van de Scharl
 Elite leden dragen een volledig rode badge van de brigade.
 
 Elite teams geven een vrijwillige bijdrage aan de Brigade, maar traditioneel gezien betalen ze 25% terug.
+
+
+
+# Teams
+
+## De Ijzeren Valken
+Team van brigadiers dat zich heeft gevestigd in Velnoya. Ze doen voornamelijk opdrachten om moeilijk verkrijgbare ingredienten te verzamelen in het moeras. Vriendelijk en niet competitief. 
+4 leden. 
+- Lloris de Valk: Leider. Dragonborn Bard
+- Gurt: Dwerg Barbarian (oliedom)
+- Elis Scherpschot: Ranger
+- Gianna Groenblad: Druid
+
+## De Chronos Trackers
+Brigadiers team. Vind zichzelf het beste team in Velnoya (er is maar 1 ander team). Arrogant en doen alleen de beste opdrachten. Vinden dat ze op het punt staan te promoveren naar Officier rank. Doen normaal de gevaarlijkere opdrachten.
+- Jorrik 
