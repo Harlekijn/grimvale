@@ -48,7 +48,7 @@ Heliana is een serieus uitziende vrouw. Ziet er verzorgd uit, maar is wel erg vr
 **Stem:** oud
 **Locatie:** [[Velnoya#Het Scharlaken Huis|Het Scharlaken Huis in Velnoya]]
 **Class:** -
-**Uiterlijk**: Kalend en het beetje haar wat hij nog heeft is grijs. Runt de bar en de slaapvertrekken in het brigade huis. Geboren en getogen in Velnoya en oud lid van de stadswacht. Je ziet zijn vroegere kracht nog. Getrouwd met Heliana
+**Uiterlijk**: Kalend en het beetje haar wat hij nog heeft is grijs. Runt de bar en de slaapvertrekken in het brigade huis. Geboren en getogen in Velnoya en oud lid van de stadswacht. Je ziet zijn vroegere kracht nog. Getrouwd met Heliana.
 
 
 
