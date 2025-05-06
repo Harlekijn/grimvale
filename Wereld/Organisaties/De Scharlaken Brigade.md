@@ -113,9 +113,12 @@ Team van brigadiers dat zich heeft gevestigd in Velnoya. Ze doen voornamelijk op
 4 leden. 
 - Lloris de Valk: Leider. Dragonborn Bard
 - Gurt: Dwerg Barbarian (oliedom)
-- Elis Scherpschot: Ranger
-- Gianna Groenblad: Druid
+- Elis Scherpschot: Half-Elf Ranger
+- Gianna Groenblad: Half-Elf Druid
 
 ## De Chronos Trackers
 Brigadiers team. Vind zichzelf het beste team in Velnoya (er is maar 1 ander team). Arrogant en doen alleen de beste opdrachten. Vinden dat ze op het punt staan te promoveren naar Officier rank. Doen normaal de gevaarlijkere opdrachten.
-- Jorrik 
+- Seraphina Gearhart: Human Cleric 
+- Kaelen "De Bliksem" Vane: Super Arrogante Human Bard
+- Barnaby Finch: Human Fighter
+- Astrid Holm: Human Mage
