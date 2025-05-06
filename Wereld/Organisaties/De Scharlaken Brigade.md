@@ -41,14 +41,14 @@ Met een strikt neutraliteitsbeleid in de politieke machtsstrijd om de controle o
 **Locatie:** [[Velnoya#Het Scharlaken Huis|Het Scharlaken Huis in Velnoya]]
 **Class:** -
 **Uiterlijk**: Lang bruin haar met wat grijze plukken
-Heliana is een serieus uitziende vrouw. Ziet er verzorgd uit, maar is wel erg vriendelijk. Ze is verantwoordelijk voor de contracten van de Brigade in Velnoya. Ze is een adjudant van de brigade. Oorspronkelijk uit 
+Heliana is een serieus uitziende vrouw. Ziet er verzorgd uit, maar is wel erg vriendelijk. Ze is verantwoordelijk voor de contracten van de Brigade in Velnoya. Ze is een adjudant van de brigade. Oorspronkelijk uit [[Vuurnevel]]. Getrouwd met Bertrand.
 
 ### Bertrand Vacan
 **Ras:** Mens
 **Stem:** oud
 **Locatie:** [[Velnoya#Het Scharlaken Huis|Het Scharlaken Huis in Velnoya]]
 **Class:** -
-**Uiterlijk**: Kalend en het beetje haar wat hij nog heeft is grijs. Runt de bar en de slaapvertrekken in het brigade huis. Geboren en getogen in Velnoya en oud lid van de stadswacht.
+**Uiterlijk**: Kalend en het beetje haar wat hij nog heeft is grijs. Runt de bar en de slaapvertrekken in het brigade huis. Geboren en getogen in Velnoya en oud lid van de stadswacht. Je ziet zijn vroegere kracht nog. Getrouwd met Heliana
 
 
 
