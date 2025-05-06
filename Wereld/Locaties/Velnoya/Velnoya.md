@@ -31,8 +31,9 @@ Meer informatie over [[Het Scholarium]]
 ## Het Stadhuis
 
 
-## Het Brigade huis
-
+## Het Scharlaken Huis
+Het huis van [[De Scharlaken Brigade]] in Velnoya ligt in het boekenkwartier, niet al te ver van het Scholarium.
+Het is flink pand en ziet er van buiten uit als een herberg. Het wordt gerund door een echtpaar van 2 elfen. Heliana en Bertrand. Bertrand is verantwoordelijk voor de bar en de kamers, Heliana is verantwoordelijk voor de
 
 
 ## De Ochtend Mist

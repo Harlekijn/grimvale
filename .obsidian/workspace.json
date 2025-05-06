@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "1. De Scharlaken Brigade in Velnoya"
             }
+          },
+          {
+            "id": "29c794a6d3c10191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Locaties/Velnoya/Velnoya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velnoya"
+            }
+          },
+          {
+            "id": "ea72059b467f81f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "De Scharlaken Brigade"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -254,9 +282,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "079ef38af25fe7fa",
+  "active": "ea72059b467f81f2",
   "lastOpenFiles": [
     "Wereld/Locaties/Velnoya/Velnoya.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Talia Maanveer.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Wereld/Personages/Goden/De Oude Goden.md",
     "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
@@ -280,8 +310,6 @@
     "Wereld/Personages/NPCs/Lorita Sancham.md",
     "Wereld/Personages/NPCs/Logar Doornvoet.md",
     "Wereld/Personages/NPCs/Jorah Silverveer.md",
-    "Wereld/Personages/NPCs/Grunk Grimsmith.md",
-    "Wereld/Personages/NPCs/Gregor Zwartschil.md",
     "_maps/Scholarium/Begane Grond.jpg",
     "_maps/Scholarium/Eerste Verdieping.jpg",
     "_maps/Scholarium/Luchtship.jpg",
