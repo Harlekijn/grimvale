@@ -49,7 +49,8 @@
               "title": "1. De Scharlaken Brigade in Velnoya"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -268,10 +269,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "079ef38af25fe7fa",
+  "active": "770e99e0e684afff",
   "lastOpenFiles": [
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
+    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
     "_templates/NPC template.md",
