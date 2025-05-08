@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "malaxar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,9 +271,9 @@
   },
   "active": "770e99e0e684afff",
   "lastOpenFiles": [
-    "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
     "_templates/NPC template.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",

@@ -88,3 +88,20 @@ Allerlei common items
 
 ![[De Scharlaken Brigade#Heliana Vacan]]
 ![[De Scharlaken Brigade#Bertrand Vacan]]
+
+### Louis de Kikker
+**Ras:** Kikker
+**Stem:** Zwaar Frans accent
+**Locatie:** Havenkartier in Velnoya
+**Class:** -
+**Factie:** -
+**Uiterlijk**:  Louis is een pratende kikker. Hij wordt altijd vergezeld door Stille Albert
+
+### Stille Albert
+**Ras:** Mens
+**Stem:** praat niet
+**Locatie:** Havenkwartier in Velnoya (of waar Louis ook is)
+**Class:** -
+**Factie:** -
+**Uiterlijk**: Verslonsd uiterlijk, middelbare leeftijd, warrig haar. Altuid vuil op zijn gezicht en heeft een sterke lichaamsgeur. Is altijd bij [[Velnoya#Louis de Kikker]]
+
