@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "b860773272e3beaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "De Scharlaken Brigade"
+            }
+          },
+          {
             "id": "770e99e0e684afff",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "1. De Scharlaken Brigade in Velnoya"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -253,12 +268,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "079ef38af25fe7fa",
+  "active": "770e99e0e684afff",
   "lastOpenFiles": [
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-    "Wereld/Locaties/Velnoya/Velnoya.md",
-    "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Wereld/Locaties/Velnoya/Velnoya.md",
+    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+    "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
     "_templates/NPC template.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",

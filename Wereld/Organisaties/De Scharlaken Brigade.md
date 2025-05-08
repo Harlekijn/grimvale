@@ -48,7 +48,7 @@ Heliana is een serieus uitziende vrouw. Ziet er verzorgd uit, maar is wel erg vr
 
 ### Bertrand Vacan
 **Ras:** Mens
-**Stem:** oud
+**Stem:** oud, Frans Accent
 **Locatie:** [[Velnoya#Het Scharlaken Huis|Het Scharlaken Huis in Velnoya]]
 **Factie:** [[De Scharlaken Brigade]]
 **Class:** -
