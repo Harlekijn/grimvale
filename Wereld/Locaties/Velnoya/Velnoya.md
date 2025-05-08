@@ -80,3 +80,11 @@ Neemt ook opdrachten aan
 ### Grootgrutter: Ilias
 In het Ambachtskwartier
 Allerlei common items
+
+
+# Personen
+
+![[De Orde van het Oker Oog#Lorita Sancham]]
+
+![[De Scharlaken Brigade#Heliana Vacan]]
+![[De Scharlaken Brigade#Bertrand Vacan]]

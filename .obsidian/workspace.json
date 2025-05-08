@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. De Scharlaken Brigade in Velnoya"
-            }
-          },
-          {
-            "id": "23fc2b88157e112f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "De Scharlaken Brigade"
-            }
-          },
-          {
-            "id": "29c794a6d3c10191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Wereld/Locaties/Velnoya/Velnoya.md",
                 "mode": "source",
                 "source": false
@@ -50,17 +22,17 @@
             }
           },
           {
-            "id": "ea72059b467f81f2",
+            "id": "770e99e0e684afff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
+                "file": "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De Scharlaken Brigade"
+              "title": "1. De Scharlaken Brigade in Velnoya"
             }
           }
         ]
@@ -283,12 +255,14 @@
   },
   "active": "079ef38af25fe7fa",
   "lastOpenFiles": [
+    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+    "Wereld/Locaties/Velnoya/Velnoya.md",
+    "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "_templates/NPC template.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-    "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Wereld/Personages/PCs/Koragh.md",
-    "Wereld/Locaties/Velnoya/Velnoya.md",
     "Talia Maanveer.md",
     "Wereld/Personages/Goden/De Oude Goden.md",
     "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
@@ -307,8 +281,6 @@
     "Wereld/Personages/NPCs/Vader Eadric.md",
     "Wereld/Personages/NPCs/Sylvara Fluisterwind.md",
     "Wereld/Personages/NPCs/Prim Fluisterwind.md",
-    "Wereld/Personages/NPCs/Lorita Sancham.md",
-    "Wereld/Personages/NPCs/Logar Doornvoet.md",
     "_maps/Scholarium/Begane Grond.jpg",
     "_maps/Scholarium/Eerste Verdieping.jpg",
     "_maps/Scholarium/Luchtship.jpg",

@@ -24,7 +24,8 @@ Met een strikt neutraliteitsbeleid in de politieke machtsstrijd om de controle o
 
 **Ras**: Half-Orc. 
 **Stem:** Diep en donker, praat rustig en beheersd.
-**Locatie:** [[Laau-maa]] - Scharlaken brigade administratie kantoor 
+**Locatie:** [[Laau-maa]] - Scharlaken brigade administratie kantoor
+**Factie:** [[De Scharlaken Brigade]]
 **Uiterlijk**: Grijs haar, kalend met een strakke combover. Flinke slagtanden, die versierd zijn met graveringen. Lang en slank, ranke vingers die duidelijk meer gewend zijn aan de veer en inkt dan aan het zwaard. Draagt de rode tuniek van een adjudant van de brigade met op zijn borst de zwarte pin met het logo van de brigade. Ziet er perfect en smetteloos uit, maar zonder enige ijdelheid. 
 
 ### [[Talia Maanveer]]
@@ -32,6 +33,7 @@ Met een strikt neutraliteitsbeleid in de politieke machtsstrijd om de controle o
 **Ras:** Half-Elf
 **Stem:** Gewone Stem voor vrouw
 **Locatie:** [[Scharlaken Citadel]] - administratie kantoor
+**Factie:** [[De Scharlaken Brigade]]
 **Class:** -
 **Uiterlijk**: Een erg gewoon uitziende jonge vrouw. Bruin haar in een vlecht met bruine ogen. Vriendelijk en behulpzaam. Draagt de kenmerkende tuniek van de brigade adjudanten. Tuniek is iets te groot voor haar.
 
@@ -39,6 +41,7 @@ Met een strikt neutraliteitsbeleid in de politieke machtsstrijd om de controle o
 **Ras:** Elf
 **Stem:** basis vrouw
 **Locatie:** [[Velnoya#Het Scharlaken Huis|Het Scharlaken Huis in Velnoya]]
+**Factie:** [[De Scharlaken Brigade]]
 **Class:** -
 **Uiterlijk**: Lang bruin haar met wat grijze plukken
 Heliana is een serieus uitziende vrouw. Ziet er verzorgd uit, maar is wel erg vriendelijk. Ze is verantwoordelijk voor de contracten van de Brigade in Velnoya. Ze is een adjudant van de brigade. Oorspronkelijk uit [[Vuurnevel]]. Getrouwd met Bertrand.
@@ -47,6 +50,7 @@ Heliana is een serieus uitziende vrouw. Ziet er verzorgd uit, maar is wel erg vr
 **Ras:** Mens
 **Stem:** oud
 **Locatie:** [[Velnoya#Het Scharlaken Huis|Het Scharlaken Huis in Velnoya]]
+**Factie:** [[De Scharlaken Brigade]]
 **Class:** -
 **Uiterlijk**: Kalend en het beetje haar wat hij nog heeft is grijs. Runt de bar en de slaapvertrekken in het brigade huis. Geboren en getogen in Velnoya en oud lid van de stadswacht. Je ziet zijn vroegere kracht nog. Getrouwd met Heliana.
 
