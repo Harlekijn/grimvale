@@ -95,7 +95,7 @@ Allerlei common items
 **Locatie:** Havenkartier in Velnoya
 **Class:** -
 **Factie:** -
-**Uiterlijk**:  Louis is een pratende kikker. Hij wordt altijd vergezeld door Stille Albert
+**Uiterlijk**:  Louis is een pratende kikker. Hij wordt altijd vergezeld door Stille Albert. Louis was een gewone kikker totdat hij opeens zelfbewustzijn had en kon praten. Hij weet zelf nog steeds niet waarom. Hij woonde in het Aldfaen moeras, maar voelde zich al snel niet meer thuis bij de andere kikkers, hij voelde zich onbegrepen. Hij is toen naar Velnoya gegaan waar hij een connectie vond met Albert. Albert praat niet en kan ook niet uitdrukken waarom.
 
 ### Stille Albert
 **Ras:** Mens
