@@ -20,34 +20,6 @@
               "icon": "lucide-file",
               "title": "1. De Scharlaken Brigade in Velnoya"
             }
-          },
-          {
-            "id": "b860773272e3beaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "De Scharlaken Brigade"
-            }
-          },
-          {
-            "id": "770e99e0e684afff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. De Scharlaken Brigade in Velnoya"
-            }
           }
         ]
       }
@@ -102,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,12 +239,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "079ef38af25fe7fa",
+  "active": "0bcf2d4f1af06443",
   "lastOpenFiles": [
+    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "_maps/Hut in het moeras.jpg",
     "Wereld/Locaties/Velnoya/Velnoya.md",
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-    "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
     "_templates/NPC template.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
@@ -281,7 +253,6 @@
     "Wereld/Personages/PCs/Koragh.md",
     "Talia Maanveer.md",
     "Wereld/Personages/Goden/De Oude Goden.md",
-    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
     "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
     "Avonturen/3. De scheur en de spits/2. Fondue.md",
     "Wereld/Personages/Goden/Ania.md",
@@ -312,7 +283,6 @@
     "_maps/Scholarium/Eerste Verdieping.dd2vtt",
     "_maps/Scholarium/Begane Grond.dd2vtt",
     "_maps/Scholarium/Ground Floor.dd2vtt",
-    "_maps/Scholarium/Ground Floor.dd2vtt.png",
     "_maps/dungeondraft/Scholarium.temporary",
     "_maps/Scholarium/1st level.dd2vtt",
     "_maps/Scholarium/2nd level.dd2vtt",
