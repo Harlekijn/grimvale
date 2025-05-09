@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wereld/Locaties/Velnoya/Velnoya.md",
+                "file": "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Velnoya"
+              "title": "1. De Scharlaken Brigade in Velnoya"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "1. De Scharlaken Brigade in Velnoya"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Louis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -269,7 +268,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "770e99e0e684afff",
+  "active": "079ef38af25fe7fa",
   "lastOpenFiles": [
     "Wereld/Locaties/Velnoya/Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
