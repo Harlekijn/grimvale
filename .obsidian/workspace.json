@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Louis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,6 +270,7 @@
   },
   "active": "079ef38af25fe7fa",
   "lastOpenFiles": [
+    "_maps/Hut in het moeras.jpg",
     "Wereld/Locaties/Velnoya/Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
@@ -295,7 +296,6 @@
     "Overige/Nog uitwerken.md",
     "Wereld/Personages/NPCs/Vader Eadric.md",
     "Wereld/Personages/NPCs/Sylvara Fluisterwind.md",
-    "Wereld/Personages/NPCs/Prim Fluisterwind.md",
     "_maps/Scholarium/Begane Grond.jpg",
     "_maps/Scholarium/Eerste Verdieping.jpg",
     "_maps/Scholarium/Luchtship.jpg",
