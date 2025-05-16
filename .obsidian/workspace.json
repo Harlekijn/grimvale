@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "2. Het Moeras in!"
             }
-          },
-          {
-            "id": "a14d81d5c68593de",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +239,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a14d81d5c68593de",
+  "active": "079ef38af25fe7fa",
   "lastOpenFiles": [
     "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
