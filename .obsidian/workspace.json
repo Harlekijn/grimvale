@@ -49,7 +49,8 @@
               "title": "Velnoya"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +219,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_bbebbaf9396b"
+                "id": "ID_bbebbaf9396b",
+                "child": "ID_897bd9497b0b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -237,6 +239,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -265,11 +268,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "079ef38af25fe7fa",
+  "active": "06ac678106cbb3ad",
   "lastOpenFiles": [
+    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "_maps/Aldfean 2.webp",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Heks in het Moeras.md",
@@ -303,7 +306,6 @@
     "Overige/Nog uitwerken.md",
     "_maps/Scholarium/Begane Grond.jpg",
     "_maps/Scholarium/Eerste Verdieping.jpg",
-    "_maps/Scholarium/Luchtship.jpg",
     "_maps/dam/Spire_hallway.dd2vtt",
     "_maps/Scholarium/Luchtship.dd2vtt",
     "_maps/Scholarium/Derde Verdieping.dd2vtt",
