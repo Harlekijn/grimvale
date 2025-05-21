@@ -59,7 +59,8 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 
 > Eén van de mysterieuze figuren buigt zich over je heen, zijn blik ondoorgrondelijk. Je wordt voorzichtig opgetild, de pijn in je kuit doet er opeens niet meer toe. En dan stapt hij, met jou in zijn armen, door het pulserende portaal.
 
-Na de droom realiseert Echo zich dat hij de amuletten die de drie magiers drogen dezelfde zijn als zijn amulet
+Na de droom realiseert Echo zich dat hij de amuletten die de drie magiërs droegen dezelfde zijn als zijn amulet.
+Na de droom doet zijn amulet het niet meer. Echo moet ook rollen op de Wild Magic Surge table van de Wild Magic Sorcerer als hij een 1st lvl spell gebruikt of als hij een sorcery point gebruikt. Hooguit 1x per beurt.
 
 
 ## Ideëen
