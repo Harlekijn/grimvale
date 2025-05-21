@@ -37,15 +37,29 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 > Je wordt weer wakker, de droom is voorbij. Je voelt een warmte op je borst en grijpt onmiddellijk naar het amulet. Het is warm en geeft een lichte gloed af en de radartjes in het amulet draaien rond met een magische kracht. Je focust je een korte tijd op het amulet en voelt dat er een kracht in ontwaakt is. De gloed en warmte verdwijnen en het amulet ziet er weer als normaal uit.
 
 ### Droom 3:
-> Chaos! Overal om je heen is chaos! Je staat op het plein buiten de herberg van je ouders. Bange elfen vluchten weg terwijl leden van de inquisitie van Lysarael mensen proberen te grijpen en te arresteren. Je ziet je vader knock-out en bloedend van een hoofdwond weggesleept worden. Je ziet soldaten met een lijst met namen van deur naar deur gaan. Hier en daar worden dorpsgenoten in de boeien geslagen en afgevoerd naar een wagen. Jij zit verscholen onder een marktkraam, angstig, je durft niet te bewegen omdat je bang bent dat ze je zien, maar je wilt ook naar je vader toe.
-> Dan kruipt een bekende warmte naast je. Het is je moeder. Ze ziet er alert en gefocust uit en heeft een staf en een dolk bij zich.
-> "*We moeten weg uit het dorp, het bos in. Daar kunnen we de inquisitie afschudden. Als ik ja zeg sprint je richting het bos en stop je niet met rennen totdat het stil is om je heen en je niet meer gevolgd wordt. Heb je dat begrepen?*" Je knikt angstig.
-> Seconden later verzet een van je dorpsgenoten zich tegen de arrestatie. De soldaten zijn afgeleid en je moeder geeft het signaal. Jullie springen op en sprinten naar het bos. Je hoort een schreeuw achter je maar je moeder zegt niet om te kijken en door te rennen.
-> Jullie rennen het bos in en hoe verder in het bos jullie komen, hoe verder het geluid verstomt.
-> Net op het moment dat je denkt dat jullie veilig zijn stappen er 4 inquisitie-leden achter een boom vandaan met geladen kruisbogen die ze onmiddellijk afvuren naar jullie. Je moeder wordt geraakt door drie pijlen in haar borst. De vierde pijl raakt jou in je kuit waardoor je valt. De pijn is hevig, maar je hebt alleen aandacht voor je moeder die niet meer beweegt. 
-> Dan opent er een portaal en verschijnen er drie figuren gekleed in witte gewaden met gele accenten. Magie springt uit hun handen en de vier inquisitie leden verdwijnen in een explosie van vuur, ijs en bliksem.
-> Een van de figuren tilt je op en stapt met je door de portaal.
+> De ijzige greep van paniek verstikt je adem. **Chaos** barst los op het dorpsplein, een kakofonie van angstige kreten en het schelle geluid van metaal op steen. Overal om je heen vluchten angstige elfen, hun gezichten getekend door pure terreur, terwijl de dreigende figuren van de **Inquisitie van Lysarael** zich een weg banen door de menigte, genadeloos burgers grijpend en arresterend.
 
+> Je hart krimpt ineen als je je vader ziet. Zijn ogen zijn levenloos, een diepe hoofdwond bloedt rijkelijk, en hij wordt ruw weggesleept door twee beulen. Soldaten, hun gezichten grimmig en hun bewegingen mechanisch, gaan van deur tot deur. Met een lijst in hun handen roepen ze namen, en overal om je heen worden dorpsgenoten in de boeien geslagen en als vee naar een zwarte, dichte wagen gesleept.
+
+> Je zit ineengedoken onder een gammele marktkraam, de geur van rottend fruit en angst vult je neusgaten. Elke vezel in je lijf schreeuwt om te rennen, om te helpen, maar de kille klauwen van angst houden je gevangen. De gedachte dat ze _jou_ zouden kunnen zien, verlamt je volledig.
+
+> Dan voel je een vertrouwde, warme aanwezigheid naast je. Je moeder. Haar ogen zijn helder en scherp, haar gezicht gespannen in grimmige vastberadenheid. In haar hand klemt ze haar staf, de andere rust op het heft van een dolk aan haar riem.
+
+> "We moeten **weg, het bos in**," fluistert ze, haar stem urgent maar beheerst. "Daar kunnen we deze beesten afschudden. Als ik 'ja' zeg, sprint je. Stop niet met rennen tot het stil is om je heen en je zeker weet dat we veilig zijn. Begrepen?" Je knikt haastig, je keel te droog om te spreken.
+
+> Een paar spannende seconden later barst er een kreet uit. Een van je dorpsgenoten verzet zich hevig tegen de arrestatie, en de soldaten worden afgeleid. Dat is het teken. "JA!" snauwt je moeder.
+
+> Jullie springen op, een wazige sprint richting de donkere rand van het bos. Achter je klinkt een doordringende schreeuw, maar je moeders stem is dwingend: "NIET KIJKEN! DOORRENNEN!"
+
+> De takken slaan in je gezicht terwijl jullie dieper het bos in vluchten. Hoe verder jullie rennen, hoe meer het geluid van de stad verstomt. De chaos op het plein wordt een verre, ijle echo, en de stilte van het bos sluit zich om jullie heen.
+
+> Net als een zucht van opluchting over je lippen dreigt te ontsnappen, stappen vier figuren van de Inquisitie achter een brede eik vandaan. Vier geladen kruisbogen zijn direct op jullie gericht. **Drie pijlen doorboren de borst van je moeder**, een vierde snijdt door de lucht en plant zich diep in je **kuit**. Een brandende pijn schiet door je been, en je valt hulpeloos neer. Je kijkt op naar je moeder. Ze beweegt niet meer. De wereld om je heen vervaagt tot een doffe, dreunende stilte.
+
+> Dan, een scheur in de lucht. Een gloeiend **portaal** opent zich, en drie figuren in smetteloze witte gewaden met gouden accenten stappen eruit. Licht flitst van hun handen, en in een oorverdovende explosie van **vuur, ijs en bliksem** worden de vier inquisiteurs weggevaagd, hun lichamen uiteengereten tot niets dan rook.
+
+> Eén van de mysterieuze figuren buigt zich over je heen, zijn blik ondoorgrondelijk. Je wordt voorzichtig opgetild, de pijn in je kuit doet er opeens niet meer toe. En dan stapt hij, met jou in zijn armen, door het pulserende portaal.
+
+Na de droom realiseert Echo zich dat hij de amuletten die de drie magiers drogen dezelfde zijn als zijn amulet
 
 
 ## Ideëen
