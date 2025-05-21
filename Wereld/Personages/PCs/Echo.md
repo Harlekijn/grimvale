@@ -40,7 +40,8 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 > Chaos! Overal om je heen is chaos! Je staat op het plein buiten de herberg van je ouders. Bange elfen vluchten weg terwijl leden van de inquisitie van Lysarael mensen proberen te grijpen en te arresteren. Je ziet je vader knock-out en bloedend van een hoofdwond weggesleept worden. Je ziet soldaten met een lijst met namen van deur naar deur gaan. Hier en daar worden dorpsgenoten in de boeien geslagen en afgevoerd naar een wagen. Jij zit verscholen onder een marktkraam, angstig, je durft niet te bewegen omdat je bang bent dat ze je zien, maar je wilt ook naar je vader toe.
 > Dan kruipt een bekende warmte naast je. Het is je moeder. Ze ziet er alert en gefocust uit en heeft een staf en een dolk bij zich.
 > "*We moeten weg uit het dorp, het bos in. Daar kunnen we de inquisitie afschudden. Als ik ja zeg sprint je richting het bos en stop je niet met rennen totdat het stil is om je heen en je niet meer gevolgd wordt. Heb je dat begrepen?*" Je knikt angstig.
-> Seconden later verzet een van je dorpsgenoten zich tegen de arrestatie. De soldaten zijn afgeleid en 
+> Seconden later verzet een van je dorpsgenoten zich tegen de arrestatie. De soldaten zijn afgeleid en je moeder geeft het signaal. Jullie springen op en sprinten naar het bos. Je hoort een schreeuw achter je maar je moeder zegt niet om te kijken en door te rennen.
+> Jullie rennen het bos in en 
 
 
 
