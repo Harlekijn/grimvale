@@ -37,7 +37,7 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 > Je wordt weer wakker, de droom is voorbij. Je voelt een warmte op je borst en grijpt onmiddellijk naar het amulet. Het is warm en geeft een lichte gloed af en de radartjes in het amulet draaien rond met een magische kracht. Je focust je een korte tijd op het amulet en voelt dat er een kracht in ontwaakt is. De gloed en warmte verdwijnen en het amulet ziet er weer als normaal uit.
 
 ### Droom 3:
-> Chaos! Overal om je heen is chaos! Je staat op het plein buiten de herberg van je ouders. Bange elfen vluchten weg terwijl leden van de inquisitie van  mensen proberen te grijpen en te arresteren. Je ziet je vader knock-out en bloedend van een hoofdwond weggesleept worden
+> Chaos! Overal om je heen is chaos! Je staat op het plein buiten de herberg van je ouders. Bange elfen vluchten weg terwijl leden van de inquisitie van Lysarael mensen proberen te grijpen en te arresteren. Je ziet je vader knock-out en bloedend van een hoofdwond weggesleept worden. 
 
 
 
