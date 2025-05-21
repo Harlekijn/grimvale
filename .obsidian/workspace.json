@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+                "file": "Wereld/Personages/Goden/De Nieuwe Goden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. De Scharlaken Brigade in Velnoya"
+              "title": "De Nieuwe Goden"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,14 +254,15 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "079ef38af25fe7fa",
+  "active": "5d49e592f22e6ca2",
   "lastOpenFiles": [
-    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
+    "Wereld/Personages/PCs/Echo.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
+    "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
+    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
     "_maps/Aldfean 2.webp",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
-    "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "_maps/Hut in het Aldfaen.jpg",
     "_maps/3-3-Hut in het moeras.jpg",
     "_maps/Scholarium/3-3-Hut in het moeras.jpg",

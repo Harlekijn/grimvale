@@ -15,7 +15,7 @@ Deze mages hebben zich over Echo en zijn ouders ontfermd en hebben Echo getraind
 Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij is geworden.
 
 ## Dromen
-### Level 2:
+### Droom 1 - Bij Level 2: 
 >Je bevind je in een geheim ondergronds hol. Je ziet de wortels van een boom hier en daar door de muren steken. Het ruikt muffig en voelt vochtig. In de kamer staan enkele houten banken en langs de wanden staan vele kaarsen.
 >Wat je voor je ziet voelt niet als een droom, daar is alles te duidelijk voor en zijn er te veel details. Het is bijna of je er echt bent. 
 >Je bent niet alleen in de kamer, er lopen een klein dozijn andere elfen, duidelijk Eladrin. Je ziet de verschillende seizoenen vertegenwoordigd in het uiterlijk van de Eladrin, vreemd, want jij kan je altijd alleen naar het huidige seizoen voegen.
@@ -23,7 +23,7 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 >Er volgt een korte ceremonie waarbij jij je moeder assisteert en waarbij jullie dankbaar zijn voor de orde in de chaos van de fey. Jullie geloven dat het juiste deze orde binnen de chaos is die de Eladrin doen gedijen.
 >Na de ceremonie verlaat iedereen de ruimte door de ingang die uitkomt in de kelder van een herberg. De herberg van je ouders. Achter de bar staat een andere Eladrin, deze met de herfst als seizoen is je vader. Hij draagt een schort en is bezig de al glanzende glazen verder op te poetsen. Je vader heeft de klassieke uitstraling van een herbergier. Hij is lang en heeft een flinke buik. 
 
-### Level 3:
+### Droom 2 - Bij Level 3:
 > Je zit naast je moeder in de gelagkamer van de herberg van je ouders. Het is nog vroeg in de ochtend, dus er zijn geen klanten in de herberg. Je hoort her zachte geswoosh van je vader die bezig is de vloer te vegen. De vloer is niet echt vies, maar je vader is nu eenmaal een man die er van houdt om de dingen te doen zoals ze horen, en de ochtend na een drukke dag hoort de vloer nu eenmaal geveegd te worden.
 > Uit de keuken komt de geur van gebakken spek en vers brood, het ontbijt staat klaar om aan de klanten te serveren zodra de herberg open gaat.
 > Je moeder glimlacht naar je met de warmte die je zo goed van haar kent. Ze kijkt op naar je vader en geeft een knikje en haar blik verandert van een vriendelijke lach naar serieus. Ze zegt:
@@ -36,8 +36,11 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 > ---
 > Je wordt weer wakker, de droom is voorbij. Je voelt een warmte op je borst en grijpt onmiddellijk naar het amulet. Het is warm en geeft een lichte gloed af en de radartjes in het amulet draaien rond met een magische kracht. Je focust je een korte tijd op het amulet en voelt dat er een kracht in ontwaakt is. De gloed en warmte verdwijnen en het amulet ziet er weer als normaal uit.
 
-### Level 4:
-> Chaos! Overal om je heen is chaos! Je staat op het plein buiten de herberg van je ouders. Bange elfen vluchten weg terwijl leden van de inquisitie mensen proberen te grijpen en te arresteren. Je ziet je vader knock-out en bloedend van een hoofdwond weggesleept worden
+### Droom 3:
+> Chaos! Overal om je heen is chaos! Je staat op het plein buiten de herberg van je ouders. Bange elfen vluchten weg terwijl leden van de inquisitie van  mensen proberen te grijpen en te arresteren. Je ziet je vader knock-out en bloedend van een hoofdwond weggesleept worden
+
+
+
 ## Ideëen
 - Het Amulet is een soort vestige of divergence. Het komt tot leven op lvl 3 sorcerer en geldt dan als een soort arcane focus waarin ook een spell tot het maximale lvl (max lvl 5) wat je kan casten opgeslagen kan worden. Na een long rest kan je weer een andere spel erin opslaan. Het amulet required attunement en kan alleen door Echo attuned worden.
 
