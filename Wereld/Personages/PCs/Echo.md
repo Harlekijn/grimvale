@@ -42,7 +42,9 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 > "*We moeten weg uit het dorp, het bos in. Daar kunnen we de inquisitie afschudden. Als ik ja zeg sprint je richting het bos en stop je niet met rennen totdat het stil is om je heen en je niet meer gevolgd wordt. Heb je dat begrepen?*" Je knikt angstig.
 > Seconden later verzet een van je dorpsgenoten zich tegen de arrestatie. De soldaten zijn afgeleid en je moeder geeft het signaal. Jullie springen op en sprinten naar het bos. Je hoort een schreeuw achter je maar je moeder zegt niet om te kijken en door te rennen.
 > Jullie rennen het bos in en hoe verder in het bos jullie komen, hoe verder het geluid verstomt.
-> Net op het moment dat je denkt dat jullie veilig zijn stappen er 4 inquisitie-leden achter een boom vandaan met geladen kruisbogen die ze onmiddellijk afvuren naar jullie. Je moeder wordt geraakt door drie pijlen in haar borst. De vierde pijl raakt jou in je kuit.
+> Net op het moment dat je denkt dat jullie veilig zijn stappen er 4 inquisitie-leden achter een boom vandaan met geladen kruisbogen die ze onmiddellijk afvuren naar jullie. Je moeder wordt geraakt door drie pijlen in haar borst. De vierde pijl raakt jou in je kuit waardoor je valt. De pijn is hevig, maar je hebt alleen aandacht voor je moeder die niet meer beweegt. 
+> Dan opent er een portaal en verschijnen er drie figuren gekleed in witte gewaden met gele accenten. Magie springt uit hun handen en de vier inquisitie leden verdwijnen in een explosie van vuur, ijs en bliksem.
+> Een van de figuren tilt je op en stapt met je door de portaal.
 
 
 
