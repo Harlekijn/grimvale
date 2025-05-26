@@ -63,8 +63,7 @@
               "title": "De Nieuwe Goden"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +240,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "42f834cd5449bb80",
@@ -282,12 +281,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a6a8aca8564e1d5b",
+  "active": "079ef38af25fe7fa",
   "lastOpenFiles": [
-    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
-    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Wereld/Personages/Goden/De Nieuwe Goden.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
+    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
+    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "_images/Ziggurat-2.jpg",
     "_images/Ziggurat-1.jpg",
     "_maps/Ziggurat.jpg",
