@@ -376,7 +376,24 @@
         }
       ],
       "id": "ID_eb49794b1ab9",
-      "categories": []
+      "categories": [],
+      "seasonal": {
+        "seasons": [],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": -1505908982,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E"
+        }
+      },
+      "locations": {
+        "locations": []
+      }
     }
   ],
   "configDirectory": null,
@@ -393,8 +410,8 @@
   "eventFrontmatter": false,
   "parseDates": false,
   "version": {
-    "major": 1,
-    "minor": 5,
+    "major": 2,
+    "minor": 0,
     "patch": 0,
     "beta": null
   },
