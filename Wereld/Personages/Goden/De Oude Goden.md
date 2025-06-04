@@ -7,7 +7,7 @@ Er wordt echter gezegd dat in een tijd lang geleden, toen de wereld nog jong was
 
 Lycandra's nalatenschap, hoewel vervaagd door de tijd en verduisterd door het verstrijken der eeuwen, weerklinkt nog steeds bij degenen die haar leringen herinneren. Haar ooit vurige volgelingen streven er nu naar om haar aanpassingsvermogen na te bootsen in een wereld waar verandering niet langer wordt bestuurd door goddelijke wil, maar gevormd door de daden van sterfelijke handen. Ze proberen de wendingen en bochten van het leven te navigeren zonder de leiding van hun godin, kracht puttend uit de herinnering aan haar wijsheid en de kennis dat verandering een eeuwige constante is, zelfs in Lycandra's afwezigheid.
 
-# Zephyros, de Windgeborene
+# Zephyros, de Windvader
 
 Zephyros, de Windgeborene, was ooit een machtige godheid met heerschappij over wind, lucht en stormen. Hij stond bekend om zijn vermogen om orkanen te ontketenen of kalme, zachte briesjes te laten waaien naar zijn goeddunken, waarbij hij zowel de destructieve als voedende aspecten van zijn domein toonde. Volgelingen van Zephyros respecteerden de kracht en balans van de elementen en streefden ernaar harmonie tussen hen te behouden.
 
