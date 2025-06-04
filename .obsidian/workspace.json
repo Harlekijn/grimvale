@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "079ef38af25fe7fa",
+            "id": "76684d2407ccbcd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
+                "file": "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De Orde van het Oker Oog"
+              "title": "5. Terug in Velnoya"
             }
           },
           {
-            "id": "76684d2407ccbcd3",
+            "id": "c71589cf8f28ed90",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "a6a8aca8564e1d5b",
+            "id": "8974f60964d9804a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "3. Hut in het Moeras"
-            }
-          },
-          {
-            "id": "5d49e592f22e6ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Personages/Goden/De Nieuwe Goden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "De Nieuwe Goden"
             }
           }
         ]
@@ -254,6 +240,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -282,49 +269,49 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "079ef38af25fe7fa",
+  "active": "76684d2407ccbcd3",
   "lastOpenFiles": [
+    "Avonturen/Plotlijnen/Diefstal in de havens.md",
+    "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
+    "Overige/Nog uitwerken.md",
+    "Avonturen/Plotlijnen/De waarheid van de Katabasis.md",
+    "Avonturen/Plotlijnen/Koraghs backstory.md",
+    "Avonturen/Plotlijnen/Echo's & Myrmex.md",
+    "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
+    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
+    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
+    "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
+    "_maps/3-3-Hut in het moeras.jpg",
+    "_maps/Aldfean 2.webp",
+    "_maps/Giant Eatle Nest.jpg",
+    "_maps/Giant Eagle Nest-top-view.jpg",
+    "_maps/Ziggurat.jpg",
+    "_maps/Volmarus Wereld kaart.jpg",
+    "_maps/Velnoya.jpg",
+    "_maps/Titans Fall.jpg",
+    "_maps/Laau-Maa LowRes.jpg",
+    "_maps/Graveyard.jpg",
+    "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
     "Wereld/Personages/NPCs/Lorita Sancham.md",
     "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
     "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
-    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Wereld/Personages/Goden/De Nieuwe Goden.md",
-    "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
-    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
-    "_images/Ziggurat-2.jpg",
-    "_images/Ziggurat-1.jpg",
-    "_maps/Ziggurat.jpg",
     "_maps/Ziggurat.dd2vtt",
     "_maps/dam/Ziggurat.dam",
     "_maps/dam/Swamp.dam",
     "Wereld/Personages/PCs/Echo.md",
     "Avonturen/4. De Ziggurat in het Moeras/4. Dieper het Moeras in.md",
-    "Avonturen/Plotlijnen/De waarheid van de Katabasis.md",
-    "Avonturen/Plotlijnen/Echo's & Myrmex.md",
-    "Avonturen/Plotlijnen/Koraghs backstory.md",
     "Avonturen/Plotlijnen/De Hag in het moeras.md",
     "Avonturen/Plotlijnen",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
-    "_maps/Aldfean 2.webp",
-    "_maps/Hut in het Aldfaen.jpg",
-    "_maps/3-3-Hut in het moeras.jpg",
-    "_maps/Scholarium/3-3-Hut in het moeras.jpg",
-    "_maps/Scholarium/Hut in het Aldfaen.jpg",
     "_maps/Hut in het Aldfaen.jpeg.sb-81830a53-k7u0cY",
-    "_maps/Hut in het Aldfaen.jpeg",
-    "_maps/Swamp Encounter.jpeg",
     "_tools/Stat block Snippets.md",
     "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
-    "Wereld/Organisaties/Het Gilde Der Alchemisten/De Orde van het Oker Oog.md",
     "_templates/NPC template.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Wereld/Personages/PCs/Koragh.md",
-    "Talia Maanveer.md",
-    "Wereld/Personages/Goden/De Oude Goden.md",
-    "Avonturen/3. De scheur en de spits/2. Fondue.md",
-    "Wereld/Personages/Goden/Ania.md",
     "_maps/dam/Spire_hallway.dd2vtt",
     "_maps/Scholarium/Luchtship.dd2vtt",
     "_maps/Scholarium/Derde Verdieping.dd2vtt",

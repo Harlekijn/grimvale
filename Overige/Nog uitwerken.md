@@ -1,5 +1,4 @@
 
-- [[Scharlaken Citadel]]
 - [[Velnoya]]
 	- De Orde van het Oker Oog.
 - Het Gilde Der Alchemisten uitwerken.
