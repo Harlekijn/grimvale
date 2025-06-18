@@ -1,3 +1,4 @@
+De spelers kunnen terug naar 
 De spelers worden bij terugkomst gevraagd om een ingredienten te halen
 De Hag is een Gwern Hag (https://www.reddit.com/r/DnDHomebrew/comments/15qvu5s/the_gwern_hag_a_swamp_dwelling_hag_with_an/)
 De potion herstelt initieel een deel van de herinneringen, maar verandert Echo wel in een wezen van Chaos:
@@ -10,3 +11,6 @@ De potion herstelt initieel een deel van de herinneringen, maar verandert Echo w
 	- Het doden van de heks en het lichaam te verbranden op grond die door [[Aurielis, de Hemelse Arbiter]] is gewijd.
 	- Een remove curse spell zal de effecten 4 uur onderdrukken, maar het Amulet zal nog steeds niet werken.
 De spelers moeten dus terug om de Hag te verslaan. Als de spelers niet terug gaan om de hag te redden zou Silas ze een bericht kunnen sturen waarin hij om hulp vraagt.
+
+
+De spelers moeten op een adult oblex jagen voor wat ooze
