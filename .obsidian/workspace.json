@@ -8,35 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76684d2407ccbcd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Terug in Velnoya"
-            }
-          },
-          {
-            "id": "c71589cf8f28ed90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Het Moeras in!"
-            }
-          },
-          {
-            "id": "8974f60964d9804a",
+            "id": "104f3712d904af81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -326,17 +298,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "35545dd681657307",
+  "active": "7ca13d661b3f4651",
   "lastOpenFiles": [
     "Wereld/Locaties/Velnoya/Het Aldfaen Moeras.md",
-    "_images/Pasted image 20250415105438.png",
-    "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
+    "_tools/Stat block Snippets.md",
+    "Avonturen/Plotlijnen/De Hag in het moeras.md",
+    "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
+    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Overige/Hoofd Plot.md",
+    "_images/Pasted image 20250415105438.png",
     "Overige/Random NPCs.md",
     "Overige/Opdrachtbrief.md",
     "Overige/Nog uitwerken.md",
-    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
@@ -344,7 +318,6 @@
     "Avonturen/Plotlijnen/Echo's & Myrmex Background.md",
     "Avonturen/Plotlijnen/Diefstal in de havens.md",
     "Avonturen/Plotlijnen/De waarheid van de Katabasis.md",
-    "Avonturen/Plotlijnen/De Hag in het moeras.md",
     "Wereld/Locaties/Vuurnevel.md",
     "Wereld/Locaties/Leikroon.md",
     "Aurielis, de Hemelse Arbiter.md",

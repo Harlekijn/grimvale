@@ -1,4 +1,4 @@
-De spelers kunnen terug naar 
+De spelers kunnen terug naar Elias gaan
 De spelers worden bij terugkomst gevraagd om een ingredienten te halen
 De Hag is een Gwern Hag (https://www.reddit.com/r/DnDHomebrew/comments/15qvu5s/the_gwern_hag_a_swamp_dwelling_hag_with_an/)
 De potion herstelt initieel een deel van de herinneringen, maar verandert Echo wel in een wezen van Chaos:
