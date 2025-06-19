@@ -19,12 +19,34 @@ Hij heeft de volgende doelen in het gesprek:
 - Hij mist echter 1 ingrediënt, en dat is slijm van een volwassen Oblex.
 - Een Oblex is een ooze achtig wezen dat regelmatig in het Aldfean voorkomt vaak in de buurt van Velnoya zelf.
 - Oblexen voeden zich met de herinneringen van mensen. Een volwassen Oblex kan een deel van zichzelf vormen in een van zijn slachtoffers. De ooze blijft dan zelf nog ergens verborgen, maar blijft verbonden via een slijmdraad. Hij probeert dan nieuwe slachtoffers te lokken en hun herinneringen te verorberen. De replica's zijn te herkennen aan een licht zwavelachtige geur.
-- Een slachtoffer van een Oblex blijft verward en versuft achter. Na een aantal dagen herstelt het slachtoffer wel weer.
+- Een slachtoffer van een Oblex blijft verward en versuft achter. Na een dag herstelt het slachtoffer wel weer, maar weet niks meer van de Oblex.
 - Elias raadt de spelers aan om in de haven van Velnoya op zoek te gaan.
 - Silas is niet bij de lunch of bij het gesprek, hij is in de tuin aan het werk.
 - Als de spelers een check doen om te zien wat hij aan het doen is zien ze dat Silas regelmatig met een schuin oog naar de spelers kijkt.
 
-De spelers kunnen nu terug naar Velnoya,
+De spelers kunnen nu terug naar Velnoya, en daar op zoek gaan. 
+Ze kunnen her en der rondvragen. Als ze vragen naar versufte en verwarde mensen, worden ze gestuurd naar [[Velnoya#De Ochtend Mist|De Ochtend Mist]] een herberg in het havenkwartier. Maar de mensen die ze vragen weten niks van een Oblex, het klinkt vooral als dronkaards.
+
+## Bij de Ochtend Mist
+Als de spelers bij de ochtend mist op zoek gaan weet niemand van iets behalve dat er regelmatig een gast dronken naar huis strompelt. Buiten de herberg zien ze een stalletje staan van iemand die gegrilde vis verkoopt. Als de spelers de man aanspreken zal deze zich vooral op Koragh richten. Echo en Myrmex worden, omdat ze geen herinneringen hebben, genegeerd.
+De man zal Koragh proberen het pakhuis achter hem in te lokken.
+
+Met een DC 12 perception of investigation check zien de spelers de slijmdraad die het pakhuis achter de man binnen loopt of ruiken ze een zavellucht.
+
+Als ze de man confronteren als Oblex, dan smelt hij en trekt hij zich terug het pakhuis in.
+
+Als de spelers het pakhuis ingaan zien ze een ruimte vol kisten en tonnen. Achter een van deze kisten zit de Oblex die zich aan een slachtoffer tegoed doet. Het slachtoffer zit in de Oblex. De Oblex kruipt van het slachtoffer af en valt de spelers aan.
+Roll for initiative 
+### Gevecht in Het Pakhuis
+Het Pakhuis staat vol met kisten en andere spullen. Het is daardoor moeilijk begaanbaar. De Oblex kan overal tussendoor kruipen. Hij zal dit in zijn gevecht ook tot zijn voordeel gebruiken.
+Een stapel kisten kan met een push action omgeduwd worden voor 2d8 bludgeoning damage.
+De Oblex zal proberen een Hold Person op Koragh en Echo te doen en dan een Eat Memories op hem te doen.
+
+
+
+
+
+
 
 De Hag is een Gwern Hag (https://www.reddit.com/r/DnDHomebrew/comments/15qvu5s/the_gwern_hag_a_swamp_dwelling_hag_with_an/)
 De potion herstelt initieel een deel van de herinneringen, maar verandert Echo wel in een wezen van Chaos:
