@@ -1,6 +1,8 @@
 Het Aldfaen is het moeras dat zich strekt van de uitlopers van [[Het Zilverwoud]] tot aan [[Velnoya]]
 Het is een bosrijk moeras aan de grens met het zilverwoud, maar heeft ook delen met mangroven en veenrijke gebieden. Er wordt veel turf gestoken, dit zorgt voor delen met grote plassen in de buurt van Velnoya.
 
+Elke keer als de spelers door het Aldfaen reizen, moeten ze een d20 rollen. Bij 0-14 gebeurt er niets. Bij 15-20 zullen ze een random creature tegenkomen.
+
 # Flora en Fauna
 
 ## Planten
@@ -8,23 +10,23 @@ De planten in het aldfaen zijn divers. Mangrove bomen, tropische vaarnen, versch
 
 ## Monsters
 Het Aldfaen is, net als het zilverwoud, een gebied waar vele soorten monsters wonen. Deze mosters worden ook actief bejaagd voor de alchemische componenten die ze herbergen. Denk hierbij aan:
-Basilisk - Basilisk Poison voor gif en antigif
-Flail Snail - Voor het glas en hun schild
-Giant Spiders - Venom
-Black Dragon Wyrmlings - Dragon hide, acid
-Meenlock - carapace
-Chuul - paralizing poison
-Adult Oblex - Ooze
-Giant Crocodile - huid
+1. Basilisk - Basilisk Poison voor gif en antigif
+2. Flail Snail - Voor het glas en hun schild
+3. Giant Spiders - Venom
+4. Black Dragon Wyrmlings - Dragon hide, acid
+5. Meenlock - carapace
+6. Chuul - paralizing poison
+7. Adult Oblex - Ooze
+8. Giant Crocodile - huid
 
 
 Other monsters
-Lacedon Ghoul and various other undead
-Redcaps
-Bullywugs
-Catoblepas
-Shambling Mound
-Graveyard Revenant CR 7
+9. Lacedon Ghoul and various other undead
+10. Redcaps
+11. Bullywugs
+12. Catoblepas CR 5
+13. Shambling Mound CR 5
+14. Graveyard Revenant CR 7
 Maurezhi CR 8
 
 

@@ -23,6 +23,7 @@ Hij heeft de volgende doelen in het gesprek:
 - Elias raadt de spelers aan om in de haven van Velnoya op zoek te gaan.
 - Silas is niet bij de lunch of bij het gesprek, hij is in de tuin aan het werk.
 - Als de spelers een check doen om te zien wat hij aan het doen is zien ze dat Silas regelmatig met een schuin oog naar de spelers kijkt.
+- Hij geeft ze een glazen pot om wat ooze in mee te nemen.
 
 De spelers kunnen nu terug naar Velnoya, en daar op zoek gaan. 
 Ze kunnen her en der rondvragen. Als ze vragen naar versufte en verwarde mensen, worden ze gestuurd naar [[Velnoya#De Ochtend Mist|De Ochtend Mist]] een herberg in het havenkwartier. Maar de mensen die ze vragen weten niks van een Oblex, het klinkt vooral als dronkaards.
@@ -40,8 +41,12 @@ Roll for initiative
 ### Gevecht in Het Pakhuis
 Het Pakhuis staat vol met kisten en andere spullen. Het is daardoor moeilijk begaanbaar. De Oblex kan overal tussendoor kruipen. Hij zal dit in zijn gevecht ook tot zijn voordeel gebruiken.
 Een stapel kisten kan met een push action omgeduwd worden voor 2d8 bludgeoning damage.
-De Oblex zal proberen een Hold Person op Koragh en Echo te doen en dan een Eat Memories op hem te doen.
+De Oblex zal proberen een Hold Person op Koragh en Echo te doen en dan een Eat Memories op hen te doen.
 
+Na het gevecht kunnen de spelers wat ooze in de Jar doen en het naar Elias brengen.
+
+## Terug bij Elias
+Elias zal onmiddelijk beginnen met het maken van het middel. Het zal een uurtje duren. De spelers kunnen ondertussen wachten op de 
 
 
 
