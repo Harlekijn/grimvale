@@ -43,10 +43,16 @@ Het Pakhuis staat vol met kisten en andere spullen. Het is daardoor moeilijk beg
 Een stapel kisten kan met een push action omgeduwd worden voor 2d8 bludgeoning damage.
 De Oblex zal proberen een Hold Person op Koragh en Echo te doen en dan een Eat Memories op hen te doen.
 
-Na het gevecht kunnen de spelers wat ooze in de Jar doen en het naar Elias brengen.
+Na het gevecht kunnen de spelers wat ooze in de pot doen en het naar Elias brengen.
 
 ## Terug bij Elias
-Elias zal onmiddelijk beginnen met het maken van het middel. Het zal een uurtje duren. De spelers kunnen ondertussen wachten op de 
+Als de spelers terugkomen bij Elias staat hij buiten boven een haardvuur, er hangt een gietijzeren pot boven aan een tripod. Hij heeft alles voor de potion al klaar staan, alleen een paar druppels ooze nog.
+Hij doet het erbij en op het moment dat de ooze erbij komt, verandert het middel van een groenig grijs tot fel paars. Elias begint zachtjes te mompelen en na enkele minute is het middel klaar.
+Hij schenkt het in een mok en zegt Echo het helemaal op te drinken.
+
+Als Echo het opdrinkt is het tot zijn verbazing niet heet, maar voelt het zelfs koel. Zodra hij zijn mok leeg heeft, begint hij slaperig te worden en valt hij in een diepe slaap.
+
+In de slaap droomt hij het volgende hoofdstuk van zijn geschiedenis.
 
 
 

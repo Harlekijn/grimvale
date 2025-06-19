@@ -36,7 +36,7 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 > ---
 > Je wordt weer wakker, de droom is voorbij. Je voelt een warmte op je borst en grijpt onmiddellijk naar het amulet. Het is warm en geeft een lichte gloed af en de radartjes in het amulet draaien rond met een magische kracht. Je focust je een korte tijd op het amulet en voelt dat er een kracht in ontwaakt is. De gloed en warmte verdwijnen en het amulet ziet er weer als normaal uit.
 
-### Droom 3:
+### Droom 3, Level 4:
 > De ijzige greep van paniek verstikt je adem. **Chaos** barst los op het dorpsplein, een kakofonie van angstige kreten en het schelle geluid van metaal op steen. Overal om je heen vluchten angstige elfen, hun gezichten getekend door pure terreur, terwijl de dreigende figuren van de **Inquisitie van Lysarael** zich een weg banen door de menigte, genadeloos burgers grijpend en arresterend.
 
 > Je hart krimpt ineen als je je vader ziet. Zijn ogen zijn levenloos, een diepe hoofdwond bloedt rijkelijk, en hij wordt ruw weggesleept door twee beulen. Soldaten, hun gezichten grimmig en hun bewegingen mechanisch, gaan van deur tot deur. Met een lijst in hun handen roepen ze namen, en overal om je heen worden dorpsgenoten in de boeien geslagen en als vee naar een zwarte, dichte wagen gesleept.
@@ -59,9 +59,15 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 
 > Eén van de mysterieuze figuren buigt zich over je heen, zijn blik ondoorgrondelijk. Je wordt voorzichtig opgetild, de pijn in je kuit doet er opeens niet meer toe. En dan stapt hij, met jou in zijn armen, door het pulserende portaal.
 
-Na de droom realiseert Echo zich dat hij de amuletten die de drie magiërs droegen dezelfde zijn als zijn amulet.
-Na de droom doet zijn amulet het niet meer. Echo moet ook rollen op de Wild Magic Surge table van de Wild Magic Sorcerer als hij een 1st lvl spell gebruikt of als hij een sorcery point gebruikt. Hooguit 1x per beurt.
 
+Na de droom realiseert Echo zich dat hij de amuletten die de drie magiërs droegen dezelfde zijn als zijn amulet.
+
+## Droom 4, Na het middel van Elias
+Je zit in een klaslokaal, naast je zitten andere studenten, sommige ouder, sommige jonger. Je vrienden, 2 loxondons, zijn dichtbij en jullie schieten kleine straaltjes ijs naar elkaar als de leraar niet op let. De leraar, is een modron, een soort kubus met vleugels en een gezicht, houdt een lang betoog over het belang van orde in de wereld en waarom jullie uitverkoren zijn om deze orde tussen de planes te bewaken, waarom chaos de vijand is en disbalans moet worden bevochten.
+
+Jullie kennen het verhaal zo langzamerhand wel en zijn in jullie hoofd meer bezig met hoe jullie je ontluikende krachten kunnen gebruiken voor meer kattenkwaad.
+
+Het leven hier in 
 
 ## Ideëen
 - Het Amulet is een soort vestige of divergence. Het komt tot leven op lvl 3 sorcerer en geldt dan als een soort arcane focus waarin ook een spell tot het maximale lvl (max lvl 5) wat je kan casten opgeslagen kan worden. Na een long rest kan je weer een andere spel erin opslaan. Het amulet required attunement en kan alleen door Echo attuned worden.

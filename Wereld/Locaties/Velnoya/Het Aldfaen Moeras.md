@@ -3,6 +3,8 @@ Het is een bosrijk moeras aan de grens met het zilverwoud, maar heeft ook delen 
 
 Elke keer als de spelers door het Aldfaen reizen, moeten ze een d20 rollen. Bij 0-14 gebeurt er niets. Bij 15-20 zullen ze een random creature tegenkomen.
 
+Het Aldfean ligt bijzonder dicht tegen de Fey realm aan waardoor er veel fey creatures voorkomen
+
 # Flora en Fauna
 
 ## Planten
@@ -10,24 +12,25 @@ De planten in het aldfaen zijn divers. Mangrove bomen, tropische vaarnen, versch
 
 ## Monsters
 Het Aldfaen is, net als het zilverwoud, een gebied waar vele soorten monsters wonen. Deze mosters worden ook actief bejaagd voor de alchemische componenten die ze herbergen. Denk hierbij aan:
-1. Basilisk - Basilisk Poison voor gif en antigif
+1. Basilisk - Basilisk Poison voor gif en antigif - CR 3
 2. Flail Snail - Voor het glas en hun schild
 3. Giant Spiders - Venom
-4. Black Dragon Wyrmlings - Dragon hide, acid
-5. Meenlock - carapace
-6. Chuul - paralizing poison
-7. Adult Oblex - Ooze
-8. Giant Crocodile - huid
+4. Black Dragon Wyrmlings - Dragon hide, acid - CR 2
+5. Meenlock - carapace - CR 2
+6. Chuul - paralizing poison - CR 4
+7. Adult Oblex - Ooze - CR 5
+8. Giant Crocodile - huid - CR 5
+9. Young Black Dragon - CR 7
 
 
 Other monsters
-9. Lacedon Ghoul and various other undead
-10. Redcaps
-11. Bullywugs
+9. Lacedon Ghoul and various other undead (CR 1)
+10. Redcaps CR 3
+11. Bullywugs (CR 1/4 or 4)
 12. Catoblepas CR 5
 13. Shambling Mound CR 5
 14. Graveyard Revenant CR 7
-Maurezhi CR 8
+15. Maurezhi CR 8
 
 
 # Inwoners
