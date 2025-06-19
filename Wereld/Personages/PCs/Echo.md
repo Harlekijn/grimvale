@@ -63,11 +63,19 @@ Erachter komen wie hij is en waar hij vandaan komt en dat verenigen met wie hij 
 Na de droom realiseert Echo zich dat hij de amuletten die de drie magiërs droegen dezelfde zijn als zijn amulet.
 
 ## Droom 4, Na het middel van Elias
-Je zit in een klaslokaal, naast je zitten andere studenten, sommige ouder, sommige jonger. Je vrienden, 2 loxondons, zijn dichtbij en jullie schieten kleine straaltjes ijs naar elkaar als de leraar niet op let. De leraar, is een modron, een soort kubus met vleugels en een gezicht, houdt een lang betoog over het belang van orde in de wereld en waarom jullie uitverkoren zijn om deze orde tussen de planes te bewaken, waarom chaos de vijand is en disbalans moet worden bevochten.
+> De lucht buiten het klaslokaal pulseert met de ijzige, mechanische cadans van **Mechanus** zelf. Je zit op een harde, gepolijste bank, omringd door studenten van diverse pluimage – sommige wiens blik de wijsheid van eeuwen verraadt, andere met de onstuimigheid van de jeugd. Naast je zitten je twee kolossale maar gracieuze **Loxodon-vrienden**, hun grijze huid plooiend bij elke grimas. De les is al lang begonnen, maar dat weerhoudt jullie er niet van om in het geniep kleine, vlijmscherpe straaltjes **magisch ijs** naar elkaar te schieten, de koude prikkel een welkome afleiding van de eentonigheid.
+> 
+> Vooraan zweeft een leraar, een **Modron** in zijn pure, kubistische glorie, zijn geprogrammeerde gezicht statisch terwijl zijn vleugels ritmisch klappen. Zijn stem, een monotone echo van tandwielen en logica, predikt de onfeilbare waarheid van **Orde**. Hij hamert op het heilige doel dat jullie te wachten staat: het bewaken van de perfecte balans tussen de ontelbare **Planes**, het bestrijden van de immer loerende **Chaos**, en het herstellen van elke disbalans die de kosmische harmonie bedreigt. Jullie zijn de **Uitverkorenen**, de architecten van een nieuwe, perfecte realiteit.
+> 
+> Je hebt dit verhaal al duizendmaal gehoord, en de woorden glijden van je af als olie van glas. Je gedachten dwalen af naar de **ontluikende krachten** die in je borst woelen, veel interessanter dan de preek van de Modron. Hoe kun je die het beste inzetten? Voor heroïsche daden? Of toch voor wat meer **kwaadaardige streken**, een kleine verstoring van de orde in dit anders zo perfecte bestaan?
+> 
+> Het leven hier in Mechanus is goed, comfortabel zelfs. De scherpe randjes van het verleden, de herinnering aan je ouders en de gebeurtenissen die je hierheen brachten, zijn vervaagd tot een doffe echo. De dagelijkse routine van lessen, studies en karweitjes heeft een troostend ritme aangenomen, en de vriendschappen die je hier hebt gesmeed, zijn hecht en warm. 
+> 
+> Maar bovenal, een opwindend vooruitzicht doet je hart sneller kloppen: spoedig, heel spoedig, zal je aan je **eerste opdracht voor de Orde** beginnen. De gedachte alleen al is genoeg om de machine in je borst in overdrive te zetten. Je kunt nauwelijks wachten om de gecontroleerde chaos van je eigen magie te ontketenen, om je stempel te drukken op het universum. De tijd tikt, en elk tandwiel in Mechanus lijkt mee te draaien met jouw ongeduld.
+> 
+> Wat voor soort opdracht denk je dat je personage zal krijgen voor de Orde?
 
-Jullie kennen het verhaal zo langzamerhand wel en zijn in jullie hoofd meer bezig met hoe jullie je ontluikende krachten kunnen gebruiken voor meer kattenkwaad.
-
-Het leven hier in 
+Na de droom heeft Echo alle herinneringen in de jaren tot aan dit punt terug. Hoe hij is opgevangen in Mechanus, in een soort kostschool, hoe hij vrienden maakte, vooral van zijn twee beste vrienden, de Loxodon tweeling en de lessen die hij kreeg. 
 
 ## Ideëen
 - Het Amulet is een soort vestige of divergence. Het komt tot leven op lvl 3 sorcerer en geldt dan als een soort arcane focus waarin ook een spell tot het maximale lvl (max lvl 5) wat je kan casten opgeslagen kan worden. Na een long rest kan je weer een andere spel erin opslaan. Het amulet required attunement en kan alleen door Echo attuned worden.
