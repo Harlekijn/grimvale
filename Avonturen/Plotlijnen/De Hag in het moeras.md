@@ -65,7 +65,7 @@ De potion herstelt initieel een deel van de herinneringen, maar verandert Echo w
 
 De curse 
 Informatie over hoe de Curse verwijderd kan worden, kan gevonden worden in de bibliotheek van Velnoya. .
-- De Curse kan verwijderd worden door:
+De Curse kan verwijderd worden door:
 	- Een Greater Restoration door een priest van Aurielis
 	- Het doden van de heks en het lichaam te verbranden op grond die door [[Aurielis, de Hemelse Arbiter]] is gewijd.
 	- Een remove curse spell zal de effecten 4 uur onderdrukken, maar het Amulet zal nog steeds niet werken.
