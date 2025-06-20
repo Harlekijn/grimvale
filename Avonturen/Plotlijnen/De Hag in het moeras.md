@@ -54,6 +54,10 @@ Als Echo het opdrinkt is het tot zijn verbazing niet heet, maar voelt het zelfs 
 
 In de slaap droomt hij het volgende hoofdstuk van zijn geschiedenis.
 
+![[Echo#Droom 4, Na het middel van Elias]]
+
+Na een uur wordt Echo weer wakker met knallende koppijn en 1 lvl Exhaustion.
+
 
 
 
