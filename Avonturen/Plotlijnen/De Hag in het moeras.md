@@ -59,11 +59,12 @@ In de slaap droomt hij het volgende hoofdstuk van zijn geschiedenis.
 Na een uur wordt Echo weer wakker met knallende koppijn en 1 lvl Exhaustion.
 
 
-De potion herstelt initieel een deel van de herinneringen, maar verandert Echo wel in een wezen van Chaos:
-- De Amulet van Echo werkt niet meer. Dit merkt hij pas als hij er een spell uit cast. Die spell zal dan geen effect hebben
-- Bij elke attack roll van Echo moet hij een d20 rollen. Als hij lager dan zijn character level rolt,:
+De potion herstelt initieel een deel van de herinneringen, maar verandert Echo wel in een wezen van Chaos, dit heeft de volgende gevolgen:
+- De Amulet van Echo werkt niet meer. Dit merkt hij pas als hij er een spell uit cast. Die spell zal dan geen effect hebben. De actie is dan verspild.
 - Elke keer dat Echo een 1st level of hoger cast of een sorcery point bij een cantrip gebruikt, rolt hij een D20. Als hij lager dan zijn character level rolt moet ook rollen op de Wild Magic Surge table van de Wild Magic Sorcerer. Hooguit 1x per beurt.
-- Informatie over hoe de Curse verwijderd kan worden, kan gevonden worden in de bibliotheek van Velnoya.
+
+De curse 
+Informatie over hoe de Curse verwijderd kan worden, kan gevonden worden in de bibliotheek van Velnoya. .
 - De Curse kan verwijderd worden door:
 	- Een Greater Restoration door een priest van Aurielis
 	- Het doden van de heks en het lichaam te verbranden op grond die door [[Aurielis, de Hemelse Arbiter]] is gewijd.
