@@ -59,11 +59,6 @@ In de slaap droomt hij het volgende hoofdstuk van zijn geschiedenis.
 Na een uur wordt Echo weer wakker met knallende koppijn en 1 lvl Exhaustion.
 
 
-
-
-
-
-De Hag is een Gwern Hag (https://www.reddit.com/r/DnDHomebrew/comments/15qvu5s/the_gwern_hag_a_swamp_dwelling_hag_with_an/)
 De potion herstelt initieel een deel van de herinneringen, maar verandert Echo wel in een wezen van Chaos:
 - De Amulet van Echo werkt niet meer. Dit merkt hij pas als hij er een spell uit cast. Die spell zal dan geen effect hebben
 - Bij elke attack roll van Echo moet hij een d20 rollen. Als hij lager dan zijn character level rolt,:
