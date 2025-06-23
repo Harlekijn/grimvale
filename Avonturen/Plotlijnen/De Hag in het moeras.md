@@ -58,18 +58,18 @@ In de slaap droomt hij het volgende hoofdstuk van zijn geschiedenis.
 
 Na een uur wordt Echo weer wakker met knallende koppijn en 1 lvl Exhaustion.
 
-
+## De Vloek
 De potion herstelt initieel een deel van de herinneringen, maar verandert Echo wel in een wezen van Chaos, dit heeft de volgende gevolgen:
 - De Amulet van Echo werkt niet meer. Dit merkt hij pas als hij er een spell uit cast. Die spell zal dan geen effect hebben. De actie is dan verspild.
 - Elke keer dat Echo een 1st level of hoger cast of een sorcery point bij een cantrip gebruikt, rolt hij een D20. Als hij lager dan zijn character level rolt moet ook rollen op de Wild Magic Surge table van de Wild Magic Sorcerer. Hooguit 1x per beurt.
 
-De curse 
-Informatie over hoe de Curse verwijderd kan worden, kan gevonden worden in de bibliotheek van Velnoya. .
+
+Informatie over hoe de Curse verwijderd kan worden, kan gevonden worden in de bibliotheek van Velnoya.
+Bij onderzoek in de bibliotheek vinden de spelers informatie over een Gwern Hag die al eeuwen in het moeras leeft. De hag, een wezen van chaos, helpt mensen met hun ogenschijnlijk uit pure goedheid met hun problemen, maar er zijn altijd onvoorziene bijwerkingen van de hulp. Deze bijwerkingen brengen langzaam wat meer chaos in de werel
+	
 De Curse kan verwijderd worden door:
-	- Een Greater Restoration door een priest van Aurielis
+	- Een Rituele versie van Greater Restoration door een priest van Aurielis
 	- Het doden van de heks en het lichaam te verbranden op grond die door [[Aurielis, de Hemelse Arbiter]] is gewijd.
 	- Een remove curse spell zal de effecten 4 uur onderdrukken, maar het Amulet zal nog steeds niet werken.
 De spelers moeten dus terug om de Hag te verslaan. Als de spelers niet terug gaan om de hag te redden zou Silas ze een bericht kunnen sturen waarin hij om hulp vraagt.
 
-
-De spelers moeten op een adult oblex jagen voor wat ooze
