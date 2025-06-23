@@ -1,0 +1,1 @@
+Er is een opdracht in Velnoya voor de spelers. Een excentrieke rijke handelaar heer heeft een opdracht om mysterieuze verdwijningen bij een theater te onderzoeken. Als de spelers de opdracht accepteren, dan moeten ze zich melden bij het landhuis van de heer. 

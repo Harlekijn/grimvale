@@ -65,10 +65,10 @@ De potion herstelt initieel een deel van de herinneringen, maar verandert Echo w
 
 
 Informatie over hoe de Curse verwijderd kan worden, kan gevonden worden in de bibliotheek van Velnoya.
-Bij onderzoek in de bibliotheek vinden de spelers informatie over een Gwern Hag die al eeuwen in het moeras leeft. De hag, een wezen van chaos, helpt mensen met hun ogenschijnlijk uit pure goedheid met hun problemen, maar er zijn altijd onvoorziene bijwerkingen van de hulp. Deze bijwerkingen brengen langzaam wat meer chaos in de werel
-	
+Bij onderzoek in de bibliotheek vinden de spelers informatie over een Gwern Hag die al eeuwen in het moeras leeft. De hag, een wezen van chaos, helpt mensen met hun ogenschijnlijk uit pure goedheid met hun problemen, maar er zijn altijd onvoorziene bijwerkingen van de hulp. Deze bijwerkingen brengen langzaam wat meer chaos in de wereld.
+
 De Curse kan verwijderd worden door:
-	- Een Rituele versie van Greater Restoration door een priest van Aurielis
+	- Een Rituele versie van Greater Restoration door een priester van Aurielis. Hiervoor zijn weer materialen nodig.
 	- Het doden van de heks en het lichaam te verbranden op grond die door [[Aurielis, de Hemelse Arbiter]] is gewijd.
 	- Een remove curse spell zal de effecten 4 uur onderdrukken, maar het Amulet zal nog steeds niet werken.
 De spelers moeten dus terug om de Hag te verslaan. Als de spelers niet terug gaan om de hag te redden zou Silas ze een bericht kunnen sturen waarin hij om hulp vraagt.

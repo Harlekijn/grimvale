@@ -106,3 +106,11 @@ Allerlei common items
 **Uiterlijk**: Verslonsd uiterlijk, middelbare leeftijd, warrig haar. Altuid vuil op zijn gezicht en heeft een sterke lichaamsgeur. Is altijd bij [[Velnoya#Louis Grenouille|Louis Grenouille]]
 Albert is zijn stem verloren door een deal met de Tovenaar in het moeras. Hij ging naar de tovenaar toe om van zijn vrouw af te komen. Hij zei dat hij haar nooit meer wilde spreken. Hij heeft toen  een middeltje gekregen van de tovenaar. Dat heeft er voor gezorgd dat hij zijn stem kwijt is. De vloek zorgt er ook voor dat als hij terugdenkt aan hoe hij zijn stem is kwijtgeraakt hij dat niet weet. 
 
+### NPC Name
+**Ras:** Half-Orc
+**Stem:** Bariton
+**Locatie:** Het Schilderkwartier in Velnoya
+**Class:** Fighter
+**Factie:**
+**Uiterlijk**: Golvend peper en zout haar en met baard en snor. Meest bijzondere uiterlijke kenmerk is een ooglap. Draagt niet de gebruikelijke tuniek van een adjudant, maar de cape van een brigadier. Draagt gewoonlijk een lederen pantser.
+
