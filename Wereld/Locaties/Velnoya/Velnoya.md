@@ -106,11 +106,14 @@ Allerlei common items
 **Uiterlijk**: Verslonsd uiterlijk, middelbare leeftijd, warrig haar. Altuid vuil op zijn gezicht en heeft een sterke lichaamsgeur. Is altijd bij [[Velnoya#Louis Grenouille|Louis Grenouille]]
 Albert is zijn stem verloren door een deal met de Tovenaar in het moeras. Hij ging naar de tovenaar toe om van zijn vrouw af te komen. Hij zei dat hij haar nooit meer wilde spreken. Hij heeft toen  een middeltje gekregen van de tovenaar. Dat heeft er voor gezorgd dat hij zijn stem kwijt is. De vloek zorgt er ook voor dat als hij terugdenkt aan hoe hij zijn stem is kwijtgeraakt hij dat niet weet. 
 
-### NPC Name
-**Ras:** Half-Orc
+### Lord Alex Asteros
+**Ras:** Orc
 **Stem:** Bariton
 **Locatie:** Het Schilderkwartier in Velnoya
-**Class:** Fighter
-**Factie:**
-**Uiterlijk**: Golvend peper en zout haar en met baard en snor. Meest bijzondere uiterlijke kenmerk is een ooglap. Draagt niet de gebruikelijke tuniek van een adjudant, maar de cape van een brigadier. Draagt gewoonlijk een lederen pantser.
+**Class:** Fighter (https://www.dndbeyond.com/monsters/4708934-fighter-tier-3)
+**Factie:** 
+**Uiterlijk**: 
+Een oudere **ork** met een grijzige huid. Hij is geheel kaal en heeft een goed getrimde **Van Dyke** sik en baard op een getekend gezicht, zijn gezichtsbeharing is geheel wit. Hij is ongeveer 1.90 meter lang en heeft brede schouders, een gespierde nek en een listige blik in zijn ogen.
+
+Hij loopt met een stok en draagt een bril, een diep karmozijnrood-bordeauxrood gewaad met een hoge kraag, en een sjaal om zijn schouders.
 
