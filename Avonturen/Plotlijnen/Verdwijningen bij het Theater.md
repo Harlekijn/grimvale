@@ -17,6 +17,8 @@ De heer Esteros, een excentrieke, maar voorname inwoner van Velnoya heeft een be
 ---
 
 De spelers gaan naar het huis van de heer Asteros waar ze binnen worden gelaten door zijn butler. De butler brengt ze naar de studeerkamer van de heer Asteros
-	Beschrijf studeerkamer
+	Beschrijf studeerkamer en Asteros
+Asteros zal de spelers nu aanvallen om te kijken of ze voldoen aan zijn verwachtingen.
+Overal in de kamer van Asteros liggen wapens verborgen, voornamelijk werpmessen. Nadat Asteros het eerste wapen heeft gebruikt, zullen de spelers met een DC 14 perception check de wapens zien liggen. Asteros gebruikt zijn wandelstok als rapier. De wandelstok doet 1d4 schade ipv de 1d8 van de rapier.
 
-asd
+Na enkele ronden in het gevecht zal Asteros het gevecht stoppen.

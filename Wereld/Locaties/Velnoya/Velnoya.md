@@ -108,7 +108,7 @@ Albert is zijn stem verloren door een deal met de Tovenaar in het moeras. Hij gi
 
 ### Lord Alex Asteros
 **Ras:** Orc
-**Stem:** Bariton
+**Stem:** Bariton, posh
 **Locatie:** Het Schilderkwartier in Velnoya
 **Class:** Fighter (https://www.dndbeyond.com/monsters/4708934-fighter-tier-3)
 **Factie:** 
