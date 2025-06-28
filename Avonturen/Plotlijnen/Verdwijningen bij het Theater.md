@@ -32,3 +32,4 @@ Na enkele ronden in het gevecht zal Asteros het gevecht stoppen.
 - De spelers krijgen in diverse stappen steeds meer hints naar de steeg achter het theater
 - Als ze de steeg onderzoeken vinden ze de spitting mimic
 - TODO: Kaart steeg maken
+
