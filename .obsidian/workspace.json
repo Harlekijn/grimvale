@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/Plotlijnen/Verdwijningen bij het Theater.md",
+                "file": "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verdwijningen bij het Theater"
+              "title": "Vervolg Ziggurat"
+            }
+          },
+          {
+            "id": "bfc61db202d8897c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "De Scharlaken Brigade"
+            }
+          },
+          {
+            "id": "cd2791d06886a01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Terug in Velnoya"
             }
           },
           {
@@ -272,8 +300,11 @@
   },
   "active": "0b95425abb5c8347",
   "lastOpenFiles": [
-    "Wereld/Locaties/Velnoya/Velnoya.md",
+    "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
     "Avonturen/Plotlijnen/Verdwijningen bij het Theater.md",
+    "Wereld/Locaties/Velnoya/Velnoya.md",
     "_other/the-tome-of-vicious-mockeries-v0-0i4y1xyyas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-0i4y1xyyas6f1.webp.crdownload",
     "_other/the-tome-of-vicious-mockeries-v0-rjyhxnryas6f1.webp",
@@ -292,11 +323,9 @@
     "_other/the-tome-of-vicious-mockeries-v0-qbr0js8xas6f1.webp.crdownload",
     "_other/the-tome-of-vicious-mockeries-v0-h7s4xo1xas6f1.webp",
     "Avonturen/Plotlijnen/Diefstal in de havens.md",
-    "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
     "Avonturen/Plotlijnen/De Hag in het moeras.md",
     "tmp.md",
     "Wereld/Personages/PCs/Echo.md",
-    "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
     "Wereld/Locaties/Velnoya/Het Aldfaen Moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "Overige/Hoofd Plot.md",
