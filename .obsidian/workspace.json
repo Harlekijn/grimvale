@@ -292,11 +292,14 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "0b95425abb5c8347",
   "lastOpenFiles": [
+    "_images/Scholarium - W.I.P..dam",
     "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
@@ -340,7 +343,6 @@
     "Wereld/Locaties/Vuurnevel.md",
     "Wereld/Locaties/Leikroon.md",
     "Aurielis, de Hemelse Arbiter.md",
-    "De Grimvale Mijnbouw Cooperatie.md",
     "_maps/Ziggurat.dd2vtt",
     "_maps/dam/Ziggurat.dam",
     "Untitled 1.canvas",
