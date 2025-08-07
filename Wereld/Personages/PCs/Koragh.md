@@ -39,7 +39,7 @@ In werkelijkheid krijgt Koragh zijn krachten van [[De Nieuwe Goden#Obsidia|Obsid
 ---
 Koragh zegt tegen Myrmex dat zijn vader wel in hem geinteresseerd zou zijn
 
-
+Koragh hoort van Lorita dat zij Elma heeft gekend, zodra hij dat hoorde is hij weggerend.
 
 
 Flumpers?
