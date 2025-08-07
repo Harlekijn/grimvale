@@ -44,7 +44,7 @@ Herberg in het Havenkwartier
 https://arcaneeye.com/magic-item-shop-generator/
 
 ### Potion Shop: De Versteende Salamander
-In het boekenkwartier vlak bij het Scholarium
+In het ambachtskwartier vlak bij het Scholarium
 Wordt gerund door 
 - Health potions
 	- 2x Potion of Healing: 50 gp
