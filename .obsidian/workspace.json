@@ -249,9 +249,7 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "0bcf2d4f1af06443",
