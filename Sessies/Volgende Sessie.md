@@ -1,4 +1,4 @@
-Dag 14
+Dag 15
 
 # Spelers
 [[Koragh]]
@@ -6,16 +6,12 @@ Dag 14
 [[Echo]]
 
 # Wat is er gebeurt
-
 - 
-
-
 # Openstaande Verhaal lijnen
 
 #### Groep verhaallijnen
-- De Rode Diplomaten zijn aspirant lid geworden van de Scharlaken Brigade. Ze moeten nu 3 opdrachten uitvoeren om volwaardig lid te worden
-- De Rode Diplomaten hebben de tweede opdracht gehad. Ze moeten een verstoring in het moeras onderzoeken. Hiervoor zijn ze naar Velnoya gereisd. Ze hebben ondertussen Belovaar verslagen
-- Ze hebben een tussen opdracht van Lorita Sancham aangenomen om de tombe van Belovaar te onderzoeken
+- De Rode Diplomaten zijn begonnen aan hun derde opdracht. Ze moeten de verdwijningen en meldingen van monsters in het moeras onderzoeken.
+- Ze zijn net vertrokken het moeras in.
 
 #### Persoonlijke verhaallijnen
 - Koragh wil het metaal waarvan Myrmex van gemaakt is graag aan zijn vader laten zien.
@@ -23,9 +19,9 @@ Dag 14
 
 
 # Doelen / Informatie
-- Afronden Scheur en de Spits
-- Toegang tot het Scholarium
-- Begin van de Ziggurat in het Moeras
+- Begin van de Ziggurat in het Moeras. Encounter met krabben evt giant croc.
+- Overgang van platbodem tot te voet
+- Encounter met [[De Hag in het moeras]].
 
 
 # NPCs
