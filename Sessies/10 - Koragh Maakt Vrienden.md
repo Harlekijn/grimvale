@@ -1,5 +1,8 @@
 Dag 14 - 15
 
+28 November
+3 Oktober
+
 # Spelers
 [[Koragh]]
 [[Myrmex]]

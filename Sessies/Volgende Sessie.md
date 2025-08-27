@@ -28,3 +28,9 @@ Dag 15
 
 ![[De Orde van het Oker Oog#Lorita Sancham]]
 
+Lorita is de opdrachtgever
+
+![[Velnoya#Stille Albert]]
+
+![[Velnoya#Louis Grenouille]]
+
