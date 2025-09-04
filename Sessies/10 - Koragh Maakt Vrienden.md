@@ -11,7 +11,7 @@ Dag 14 - 15
 # Wat is er gebeurt
 - De Rode diplomaten hebben de Pilaar van Belovaar verlaten. Ze hebben nog ontdekt dat ze de zombies en skeletten die voor Belovaar vochten gewaden droegen van de Orde van het Oker oog.
 - Ze zijn opgepikt door Lorita, die vroeg hoe het ze was vergaan. Zodra ze werd verteld over de zombies en de gewaden van de Orde, schrok ze zichtbaar en wilde ze pas verder praten op haar kantoor
-- Op het kantoor vraagt ze de spelers niemand te vertellen over de zombies met de gewaden van de orde. De spelers beloven dit. Ze krijgen een extra beloning van 500 goudstukken. 
+- Op het kantoor vraagt ze de spelers niemand te vertellen over de zombies met de gewaden van de orde. De spelers beloven dit. Ze krijgen een extra beloning van 200 goudstukken. 
 - Lorita ziet dat Koragh onder de indruk is van [[Het Scholarium]]. Ze vraagt hem of hij nog nooit eerder een bibliotheek heeft bezocht en hij verteld dat hij in een bibliotheek in woestijnrand is opgegroeid. Lorita licht op en vraagt hem of hij Elma kent en zo ja, hoe het met haar gaat. Koragh vertelt dat Elma dood is en loopt de bibliotheek uit
 - Lorita vertelt nog tegen Myrmex en Echo dat Koragh altijd welkom is om over Elma te praten.
 - De spelers gaan naar het huis van de brigade. Daar worden ze welkom geheten door [[De Scharlaken Brigade#Bertrand Vacan|Bertrand Vacan]]. Hij legt uit dat hij een de hospitality van het huis verzorcht en dat zijn vrouw de zaken van de brigade regelt. Hij draagt ook geen brigade kleding of insignia.

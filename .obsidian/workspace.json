@@ -4,21 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "e902534315e74da6",
+        "id": "b3035e775cf33b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "1f8f2d9979acac7b",
+            "id": "970fd5d22bc541d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDo.md",
+                "file": "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ToDo"
+              "title": "2. Het Moeras in!"
+            }
+          },
+          {
+            "id": "b0c5cae145931826",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessies/Volgende Sessie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Volgende Sessie"
+            }
+          },
+          {
+            "id": "8658c7b500d18549",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessies/10 - Koragh Maakt Vrienden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 - Koragh Maakt Vrienden"
             }
           }
         ]
@@ -236,20 +264,24 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1f8f2d9979acac7b",
+  "active": "970fd5d22bc541d2",
   "lastOpenFiles": [
-    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-    "Sessies/Volgende Sessie.md",
+    "Avonturen/Plotlijnen/De Hag in het moeras.md",
     "Sessies/10 - Koragh Maakt Vrienden.md",
+    "Sessies/Volgende Sessie.md",
+    "_tools/Stat block Snippets.md",
+    "ToDo.md",
+    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Wereld/Locaties/Velnoya/Het Aldfaen Moeras.md",
     "Kaart van de Grimvale.md",
     "Wereld/Personages/PCs/Koragh.md",
     "Sessies/9 - De ondergang van Belovaar..md",
-    "Avonturen/Plotlijnen/De Hag in het moeras.md",
     "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
@@ -269,7 +301,6 @@
     "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
     "_maps/dam/Scholarium Ground Floor_autosave.dam",
     "_images/Scholarium - W.I.P..dam",
-    "Avonturen/Plotlijnen/Verdwijningen bij het Theater.md",
     "_other/the-tome-of-vicious-mockeries-v0-0i4y1xyyas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-0i4y1xyyas6f1.webp.crdownload",
     "_other/the-tome-of-vicious-mockeries-v0-rjyhxnryas6f1.webp",
@@ -285,7 +316,6 @@
     "_other/the-tome-of-vicious-mockeries-v0-p21hyffxas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-qbr0js8xas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-h7s4xo1xas6f1.webp",
-    "Avonturen/Plotlijnen/Diefstal in de havens.md",
     "_images/Pasted image 20250415105438.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
