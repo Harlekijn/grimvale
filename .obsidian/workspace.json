@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "970fd5d22bc541d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Het Moeras in!"
-            }
-          },
-          {
             "id": "b0c5cae145931826",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Volgende Sessie"
+            }
+          },
+          {
+            "id": "91f52f11462b9ced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Hut in het Moeras"
             }
           },
           {
@@ -49,7 +49,8 @@
               "title": "10 - Koragh Maakt Vrienden"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,15 +270,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "970fd5d22bc541d2",
+  "active": "91f52f11462b9ced",
   "lastOpenFiles": [
+    "Sessies/Volgende Sessie.md",
+    "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
+    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Avonturen/Plotlijnen/De Hag in het moeras.md",
     "Sessies/10 - Koragh Maakt Vrienden.md",
-    "Sessies/Volgende Sessie.md",
     "_tools/Stat block Snippets.md",
     "ToDo.md",
-    "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Wereld/Locaties/Velnoya/Het Aldfaen Moeras.md",
     "Kaart van de Grimvale.md",
     "Wereld/Personages/PCs/Koragh.md",
@@ -292,7 +294,6 @@
     "Avonturen/3. De scheur en de spits/5. De val van de Titaan.md",
     "Sessies/8 - De Pilaar van Belovaar.md",
     "Sessies/7 - Op weg naar Velnoya.md",
-    "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
     "Wereld/Aureon.md",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
