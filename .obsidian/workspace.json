@@ -8,21 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b0c5cae145931826",
+            "id": "91f52f11462b9ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessies/Volgende Sessie.md",
+                "file": "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volgende Sessie"
+              "title": "5. Terug in Velnoya"
             }
           },
           {
-            "id": "91f52f11462b9ced",
+            "id": "4bcee8bddb30bb0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Personages/PCs/Koragh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Koragh"
+            }
+          },
+          {
+            "id": "f525ea3acf679203",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +48,8 @@
               "icon": "lucide-file",
               "title": "3. Hut in het Moeras"
             }
-          },
-          {
-            "id": "8658c7b500d18549",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessies/10 - Koragh Maakt Vrienden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 - Koragh Maakt Vrienden"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,17 +271,20 @@
   },
   "active": "91f52f11462b9ced",
   "lastOpenFiles": [
-    "Sessies/Volgende Sessie.md",
+    "Sessies/11 - Vreemdelingen in het moeras.md",
+    "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
+    "ToDo.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
+    "Wereld/Personages/PCs/Koragh.md",
+    "Sessies/Volgende Sessie.md",
+    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
+    "Sessies/10 - Koragh Maakt Vrienden.md",
     "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Avonturen/Plotlijnen/De Hag in het moeras.md",
-    "Sessies/10 - Koragh Maakt Vrienden.md",
     "_tools/Stat block Snippets.md",
-    "ToDo.md",
     "Wereld/Locaties/Velnoya/Het Aldfaen Moeras.md",
     "Kaart van de Grimvale.md",
-    "Wereld/Personages/PCs/Koragh.md",
     "Sessies/9 - De ondergang van Belovaar..md",
     "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
@@ -295,11 +297,8 @@
     "Sessies/8 - De Pilaar van Belovaar.md",
     "Sessies/7 - Op weg naar Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
-    "Wereld/Aureon.md",
-    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "_tools/Actually Scary Zombies for 5e _ GM Binder.pdf",
-    "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
     "_maps/dam/Scholarium Ground Floor_autosave.dam",
     "_images/Scholarium - W.I.P..dam",
     "_other/the-tome-of-vicious-mockeries-v0-0i4y1xyyas6f1.webp",

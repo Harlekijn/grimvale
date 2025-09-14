@@ -1,1 +1,5 @@
-- [ ] Sheets en Iconen voor Stille Albert en Louis aanmaken
+- [ ] Kaart Encounter met Lizardmen voorbereiden, meer een Jungle Kaart
+- [ ] Kaart Encounter met Krokodil resetten
+- [ ] Kaart Ziggurat voorbereiden met creatures
+- [ ] NPC maken voor Priester ziggurat
+- [ ] 
