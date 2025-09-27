@@ -1,5 +1,5 @@
 
-# Lycandra, de Veramdering
+# Lycandra, de Verandering
 
 Lycandra, de Eeuwig Veranderende, heerste ooit over de Feeënwereld en alle wezens van de natuur. Als godin van verandering en transformatie stond zij bekend om haar grillige aard en het vermogen om tussen verschillende vormen en vaardigheden te wisselen. De volgelingen van Lycandra geloofden ooit in het omarmen van verandering, aanpassing en de natuurlijke stroom van leven en dood.
 

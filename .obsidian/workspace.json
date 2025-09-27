@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
+                "file": "Wereld/Personages/Goden/De Nieuwe Goden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. De Ziggurat"
+              "title": "De Nieuwe Goden"
             }
           }
         ]
@@ -212,6 +212,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -243,17 +244,20 @@
   },
   "active": "f525ea3acf679203",
   "lastOpenFiles": [
+    "Wereld/Personages/Goden/De Oude Goden.md",
+    "Wereld/Personages/PCs/Koragh.md",
+    "Wereld/Organisaties/Malaxar Sekte.md",
+    "Avonturen/Plotlijnen/De waarheid van de Katabasis.md",
+    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "_maps/dam/Ziggurat.jpg",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Sessies/Volgende Sessie.md",
     "Sessies/11 - Vreemdelingen in het moeras.md",
-    "Wereld/Personages/PCs/Koragh.md",
     "Sessies/3 - Gesloopte Goblins.md",
     "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
     "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
     "ToDo.md",
-    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Sessies/10 - Koragh Maakt Vrienden.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Avonturen/Plotlijnen/De Hag in het moeras.md",
@@ -267,8 +271,6 @@
     "Wereld/Locaties/Velnoya/Velnoya.md",
     "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
     "Avonturen/3. De scheur en de spits/2. Fondue.md",
-    "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
-    "Avonturen/3. De scheur en de spits/5. De val van de Titaan.md",
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "_tools/Actually Scary Zombies for 5e _ GM Binder.pdf",
     "_maps/dam/Scholarium Ground Floor_autosave.dam",
@@ -288,7 +290,6 @@
     "_other/the-tome-of-vicious-mockeries-v0-p21hyffxas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-qbr0js8xas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-h7s4xo1xas6f1.webp",
-    "_images/Pasted image 20250415105438.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
