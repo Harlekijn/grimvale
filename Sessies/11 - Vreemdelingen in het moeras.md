@@ -19,6 +19,7 @@ Dag 15 & 16
 - Elias hoort het verhaal van Echo en verteld hem dat hij misschien kan helpen, maar daarvoor moet hij eerst wat onderzoek doen in de boeken van zijn opa. 
 - Elias geeft aan weinig te weten van de onrust die de spelers onderzoeken, maar heeft wel sporen gezien en geeft aan in welke richting.
 - De volgende dag stuurt Elias de spelers in de goede richting op en gaan de Rode diplomaten weer op weg.
+- Koragh heeft een poging gedaan om het moeras in kaart te brengen.
 # Openstaande Verhaal lijnen
 
 #### Groep verhaallijnen
