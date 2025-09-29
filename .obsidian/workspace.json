@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -271,10 +271,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "d82671bcd59d2530",
+  "active": "02a70b98b5102bc9",
   "lastOpenFiles": [
-    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Wereld/Organisaties/Malaxar Sekte.md",
+    "_tools/Stat block Snippets.md",
+    "_maps/Cultist Invoker.jpg",
+    "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Wereld/Personages/Goden/De Nieuwe Goden.md",
     "Wereld/Personages/Goden/De Oude Goden.md",
     "Wereld/Personages/PCs/Koragh.md",
@@ -291,7 +293,6 @@
     "Sessies/10 - Koragh Maakt Vrienden.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Avonturen/Plotlijnen/De Hag in het moeras.md",
-    "_tools/Stat block Snippets.md",
     "Wereld/Locaties/Velnoya/Het Aldfaen Moeras.md",
     "Kaart van de Grimvale.md",
     "Sessies/9 - De ondergang van Belovaar..md",
@@ -299,7 +300,6 @@
     "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
-    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "_tools/Actually Scary Zombies for 5e _ GM Binder.pdf",
     "_maps/dam/Scholarium Ground Floor_autosave.dam",
@@ -318,7 +318,6 @@
     "_other/the-tome-of-vicious-mockeries-v0-avymvgwxas6f1.webp.crdownload",
     "_other/the-tome-of-vicious-mockeries-v0-p21hyffxas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-qbr0js8xas6f1.webp",
-    "_other/the-tome-of-vicious-mockeries-v0-h7s4xo1xas6f1.webp",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
