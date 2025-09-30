@@ -269,6 +269,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -293,11 +294,15 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "228aea98d1018604",
   "lastOpenFiles": [
+    "_maps/dam/Ziggurat.jpg",
+    "_maps/Cultist Invoker.jpg",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
@@ -308,11 +313,9 @@
     "_tools/Stat block Snippets.md",
     "Wereld/Organisaties/Malaxar Sekte.md",
     "Untitled.md",
-    "_maps/Cultist Invoker.jpg",
     "Wereld/Personages/Goden/De Oude Goden.md",
     "Wereld/Personages/PCs/Koragh.md",
     "Avonturen/Plotlijnen/De waarheid van de Katabasis.md",
-    "_maps/dam/Ziggurat.jpg",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Sessies/3 - Gesloopte Goblins.md",
@@ -325,7 +328,6 @@
     "Sessies/9 - De ondergang van Belovaar..md",
     "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
-    "Wereld/Locaties/Velnoya/Velnoya.md",
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "_tools/Actually Scary Zombies for 5e _ GM Binder.pdf",
     "_maps/dam/Scholarium Ground Floor_autosave.dam",
