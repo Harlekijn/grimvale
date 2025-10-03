@@ -1,4 +1,4 @@
-Dag 16
+Dag 15 & 16
 
 # Spelers
 [[Koragh]]
@@ -6,7 +6,12 @@ Dag 16
 [[Echo]]
 
 # Wat is er gebeurt
-- 
+- De Rode diplomaten hebben een patrouille van de Devoured Soul Cult verslagen
+- Ze hebben de Ziggurat gevonden en een ritueel gezien. 
+- Ze zijn terug gegaan en hebben de krokodil verslagen. In de maag van de krokodil vonden ze de arm van een lizardman met nog een leren scroll in de hand.
+- Ze zijn terug gegaan naar Velnoya, alwaar ze naar het Scharlaken huis zijn gegaan.
+- Daar hebben ze verslag gedaan
+- In het brigade huis zijn ze ook opgewacht door de Chronos Trackers. Die waren nogal onvriendelijk en zien de Rode diplomaten als bedrijging
 # Openstaande Verhaal lijnen
 
 #### Groep verhaallijnen
