@@ -10,9 +10,12 @@ Dag 16
 # Openstaande Verhaal lijnen
 
 #### Groep verhaallijnen
-- De Rode Diplomaten zijn begonnen aan hun derde opdracht. Ze moeten de verdwijningen en meldingen van monsters in het moeras onderzoeken.
-- De Rode Diplomaten zijn 1 dag het moeras in en hebben bij Elias overnacht.
-- Ze moeten nu verder het moeras in om de onrust te onderzoeken.
+- De Rode Diplomaten hebben hun derde missie volbracht. Ze hebben verslag gedaan bij het brigade huis.
+	- Ze zullen in de loop van de volgende dag bevestigd krijgen dat ze, na het succesvol volbrengen van de derde opdracht, ze beëdigd zullen worden als officiële leden van de Scharlaken brigade. Dit gebeurt in een kleine ceremonie die 2 dagen later zal plaatsvinden.
+	- Ze worden uitbetaald voor de opdracht die ze hebben gedaan.
+	- In de tussentijd heeft Lorita Sancham gevraagd of de Rode Diplomaten langs willen komen om wat vragen te beantwoorden.
+	- Daarna hebben de spelers 2 dagen downtime, waarin ze zelf kunnen doen wat ze willen.
+- Na de beëdiging is er eventueel een nieuwe opdracht voor de spelers beschikbaar.
 
 #### Persoonlijke verhaallijnen
 - Koragh wil het metaal waarvan Myrmex van gemaakt is graag aan zijn vader laten zien.
@@ -21,11 +24,9 @@ Dag 16
 
 
 # Doelen / Informatie
-- Dieper het moeras in gaan.
-- Encounter met Lizardfolk
-- Ontdekking Ziggurat
-- Spionage Ziggurat
-- Terugtocht naar Velnoya met encounter met Kroko
+- Ceremonie van toelating tot de scharlaken brigade
+- Gesprek met Lorita. In dit gesprek worden de volgende dingen duidelijk
+	- Lorita heeft de scroll kunnen vertalen. Het was geschreven in Abyssal, de taal der demonen.
 - 
 
 
