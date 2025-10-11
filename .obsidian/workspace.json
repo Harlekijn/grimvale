@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avonturen/Plotlijnen/De waarheid van de Katabasis.md",
+                "file": "Sessies/Volgende Sessie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De waarheid van de Katabasis"
+              "title": "Volgende Sessie"
             }
           },
           {
@@ -298,11 +298,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0bcf2d4f1af06443",
+  "active": "228aea98d1018604",
   "lastOpenFiles": [
+    "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
+    "Avonturen/Plotlijnen/De waarheid van de Katabasis.md",
     "Sessies/Volgende Sessie.md",
     "Sessies/12 - 3 maal is promotie.md",
-    "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
     "_maps/dam/Ziggurat.jpg",
     "_maps/Cultist Invoker.jpg",
@@ -316,7 +317,6 @@
     "Untitled.md",
     "Wereld/Personages/Goden/De Oude Goden.md",
     "Wereld/Personages/PCs/Koragh.md",
-    "Avonturen/Plotlijnen/De waarheid van de Katabasis.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Sessies/3 - Gesloopte Goblins.md",

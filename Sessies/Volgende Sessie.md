@@ -24,9 +24,13 @@ Dag 16
 
 
 # Doelen / Informatie
-- Ceremonie van toelating tot de scharlaken brigade
-- Gesprek met Lorita. In dit gesprek worden de volgende dingen duidelijk
-	- Lorita heeft de scroll kunnen vertalen. Het was geschreven in Abyssal, de taal der demonen.
+- De volgende ochtend worden de spelers doorgestuurd naar Lorita in het Scholarium. Heliana heeft de informatie van de spelers doorgegeven en Lorita wil de spelers spreken over wat ze hebben gezien. De spelers moeten de scroll die ze hebben gevonden meenemen.
+- De spelers zullen bij de ingang van het Scholarium worden tegen gehouden door de clerk bij de ingang. Zonder speciale toestemming mag je niet zomaar het Scholarium in. Als de spelers aangeven dat ze voor Lorita komen of dat het de Rode Diplomaten zijn zullen ze binnen gelaten worden. In het gesprek met Lorita zal ze de volgende informatie willen verkrijgen
+	- Ze wil meer weten over de cultist die ze hebben gezien. Of die bepaalde herkenbare symbolen droeg of bepaalde kleuren.
+		- De spelers kunnen zich hierover niets specifieks herinneren
+	- Ze wil weten hoe de ziggurat eruit zag, of de spelers zich bepaalde kenmerken kunnen herinneren. 
+		- De spelers kunnen dan of zelf vertellen dat het leek of de Zigurat uit de grond omhoog was gekomen, of met een DC 12 intelligence check herinneren ze zich dat.
+	- Lorita zal de spelers naar de scroll vragen. Lorita ziet dat de text in Abyssal is.
 - 
 
 
