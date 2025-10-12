@@ -121,7 +121,7 @@ Team van brigadiers dat zich heeft gevestigd in Velnoya. Ze doen voornamelijk op
 - Gianna Groenblad: Half-Elf Druid
 
 ## De Chronos Trackers
-Brigadiers team. Vind zichzelf het beste team in Velnoya (er is maar 1 ander team). Arrogant en doen alleen de beste opdrachten. Vinden dat ze op het punt staan te promoveren naar Officier rank. Doen normaal de gevaarlijkere opdrachten.
+Officiers team. Vind zichzelf het beste team in Velnoya (er is maar 1 ander team). Arrogant en doen alleen de beste opdrachten. Vinden dat ze op het punt staan te promoveren naar Officier rank. Doen normaal de gevaarlijkere opdrachten.
 - Seraphina Gearhart: Human Cleric 
 - Kaelen "De Bliksem" Vane: Super Arrogante Human Bard
 - Barnaby Vink: Human Fighter
