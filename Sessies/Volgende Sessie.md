@@ -32,7 +32,7 @@ Dag 16
 		- De spelers kunnen zich hierover niets specifieks herinneren
 	- Ze wil weten hoe de ziggurat eruit zag, of de spelers zich bepaalde kenmerken kunnen herinneren. 
 		- De spelers kunnen dan of zelf vertellen dat het leek of de Zigurat uit de grond omhoog was gekomen, of met een DC 12 intelligence check herinneren ze zich dat.
-	- Na een tijdje wordt er op de deur geklopt en stapt er een jonge Tabaxi vrouw binnen. Lorita stelt haar voor als Valerie, de expert op het gebied van de Abyss. Valerie heeft een vertaling van de brief bij zich die ze aan Lorita overhandigt.
+	- Na een tijdje wordt er op de deur geklopt en stapt er een jonge Half Elf vrouw binnen. Lorita stelt haar voor als Valerie, de expert op het gebied van de Abyss. Valerie heeft een vertaling van de brief bij zich die ze aan Lorita overhandigt.
 	- Valerie weet desgevraagd ook te vertellen dat het een heel oud Demonisch Dialect is.
 	- Lorita ziet dit als een zeer grote dreiging voor Velnoya en voor het Gilde der Alchemisten en zal het hoofd van het gilde aanschrijven met het verzoek om hier een opdracht voor de Scharlaken Brigade voor uit te laten schrijven.
 	- Ze bedankt de spelers nogmaals voor hun werk, maar geeft wel aan dat ze de wapens in bruikleen nu weer in moet nemen, aangezien De Orde deze misschien wel snel nodig zal hebben. Als de spelers er om vragen is ze over te halen de wapens bij de spelers te laten voor zo lang ze in Velnoya blijven, maar de DC voor deze persuasion of deception ligt erg hoog. Laat de DC afhangen van het verhaal van de spelers.
