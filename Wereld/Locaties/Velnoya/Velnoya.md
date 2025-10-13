@@ -110,7 +110,7 @@ Albert is zijn stem verloren door een deal met de Tovenaar in het moeras. Hij gi
 **Ras:** Orc
 **Stem:** Bariton, posh
 **Locatie:** Het Schilderkwartier in Velnoya
-**Class:** Fighter (https://www.dndbeyond.com/monsters/4708934-fighter-tier-3)
+**Class:** Fighter (https://www.dndbeyond.com/monsters/5861830-lord-alex-asteros)
 **Factie:** 
 **Uiterlijk**: 
 Een oudere **ork** met een grijzige huid. Hij is geheel kaal en heeft een goed getrimde **Van Dyke** sik en baard op een getekend gezicht, zijn gezichtsbeharing is geheel wit. Hij is ongeveer 1.90 meter lang en heeft brede schouders, een gespierde nek en een listige blik in zijn ogen.

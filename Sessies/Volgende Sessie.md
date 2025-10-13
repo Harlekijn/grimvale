@@ -46,11 +46,10 @@ Dag 16
 
 # NPCs
 
-![[De Orde van het Oker Oog#Lorita Sancham]]
+![[De Scharlaken Brigade#Gregor Zwartschil]]
 
-Lorita is de opdrachtgever
+![[De Scharlaken Brigade#Heliana Vacan]]
 
-![[Velnoya#Stille Albert]]
+![[De Scharlaken Brigade#Bertrand Vacan]]
 
-![[Velnoya#Louis Grenouille]]
-
+![[Velnoya#Lord Alex Asteros]]

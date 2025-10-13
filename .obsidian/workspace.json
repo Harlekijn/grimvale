@@ -64,77 +64,35 @@
             }
           },
           {
-            "id": "b076197f59e9438f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avonturen/Plotlijnen/Toelatingsceremonie tot de Scharlaken Brigade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Toelatingsceremonie tot de Scharlaken Brigade"
-            }
-          },
-          {
-            "id": "bfa0c94140fd9486",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Avonturen/2. Aanmelden bij de Scharlaken Brigade/2. Aanmelden bij de Scharlaken Brigade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Aanmelden bij de Scharlaken Brigade"
-            }
-          },
-          {
-            "id": "6aae3fb7ba2a7fbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "De Scharlaken Brigade"
-            }
-          },
-          {
-            "id": "6b0fcbfd33584940",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "De Scharlaken Brigade"
-            }
-          },
-          {
             "id": "2631a93e7e4352df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessies/Volgende Sessie.md",
+                "file": "Avonturen/Plotlijnen/Verdwijningen bij het Theater.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volgende Sessie"
+              "title": "Verdwijningen bij het Theater"
+            }
+          },
+          {
+            "id": "c1dd551a56657fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Locaties/Velnoya/Velnoya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velnoya"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -355,15 +313,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b076197f59e9438f",
+  "active": "c1dd551a56657fc3",
   "lastOpenFiles": [
-    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/2. Aanmelden bij de Scharlaken Brigade.md",
+    "Sessies/Volgende Sessie.md",
+    "Avonturen/Plotlijnen/Diefstal in de havens.md",
+    "Avonturen/Plotlijnen/Verdwijningen bij het Theater.md",
+    "Sessies/11 - Vreemdelingen in het moeras.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/2. Aanmelden bij de Scharlaken Brigade.md",
+    "_tools/Stat block Snippets.md",
     "Avonturen/Plotlijnen/Toelatingsceremonie tot de Scharlaken Brigade.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-    "Sessies/Volgende Sessie.md",
     "Wereld/Personages/Goden/De Oude Goden.md",
-    "Sessies/11 - Vreemdelingen in het moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
     "Avonturen/2. Aanmelden bij de Scharlaken Brigade/1. Reis naar en aankomst in Laau-Maa.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
@@ -376,7 +337,6 @@
     "_maps/Cultist Invoker.jpg",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Wereld/Personages/Goden/De Nieuwe Goden.md",
-    "_tools/Stat block Snippets.md",
     "Wereld/Organisaties/Malaxar Sekte.md",
     "Untitled.md",
     "Wereld/Personages/PCs/Koragh.md",
@@ -384,8 +344,6 @@
     "Sessies/3 - Gesloopte Goblins.md",
     "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
     "ToDo.md",
-    "Sessies/10 - Koragh Maakt Vrienden.md",
-    "Avonturen/Plotlijnen/De Hag in het moeras.md",
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "_tools/Actually Scary Zombies for 5e _ GM Binder.pdf",
     "_maps/dam/Scholarium Ground Floor_autosave.dam",
