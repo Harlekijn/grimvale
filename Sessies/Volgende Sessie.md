@@ -7,13 +7,24 @@ Dag 17
 
 # Wat is er gebeurt
 - Als de rode diplomaten de volgende ochtend wakker worden, vertelt Heliana ze dat Lorita de afronding van de opdracht heeft geaccepteerd, maar dat ze nog wel de spelers persoonlijk wil ondervragen over wat ze hebben gezien. Ze worden gevraagd de Scroll die ze hebben gevonden mee te nemen.
+- Eenmaal bij Lorita laat ze de scroll vertalen door Valerie, een half elf vrouw van de Orde van het Oker oog.
+- Ze ondervraagt de spelers en is bezorgd over het verhaal. De spelers weten onder andere te vertellen over de cultist die duidelijk geen lizardfolk was en over de zigurat die wel uit de grond omhoog gekomen leek
+- Valerie komt terug met de vertaling van de scroll, Lorita laat deze aan de spelers lezen.
+- Lorita gaat contact opnemen met de hoofden van het Alchemisten Gilde om wat te doen. De Rode diplomaten bevelen zichzelf aan om evt iets te ondernemen.
+- De spelers vragen Lorita nog over Elias en Silas, het zegt Lorita in eerste instantie niets. De naam van de opa van Elias, Morgan Dubois klinkt vaag bekend en ze vraagt Valerie om in de annalen te kijken.
+- Valerie komt snel weer terug met het bericht dat er idd een Morgan Dubois is geweest. Het was een onderzoeker die onderzoek deed naar de alchemische eigenschappen van planten en dieren in het moeras. Hij heeft enkele boeken geschreven die in het Scholarium te vinden zijn. In de annalen staat ook dat hij op een gegeven moment is vertrokken uit Velnoya, maar er staat niets over waarheen. Er wordt iets genoemd over een ruzie in de prive sfeer
+- Koragh geeft aan de boeken die door Morgan Dubois zijn geschreven te willen lezen.
+- Echo en Myrmex gaan de krokodillenhuid en tanden verkopen. Ze doen dit maar krijgen er veel minder voor dan dat het daadwerkelijk waard is.
+- Koragh leest de boeken en maakt aantekeningen in de kaart van het moeras die hij aan het maken is over waar er waarschijnlijk bepaalde planten en dieren te vinden zijn.
+- Een van de boeken van Morgan Dubois is niet aanwezig in het Scholarium, terwijl dat er wel zou moeten zijn. Er zijn geen gegevens over dat het ooit is uitgeleend. Het boek is een boek met de Alchemische recepten die door Morgan zijn ontdekt.
+- De spelers bedenken zich dat ze wel erg veel geld bij zich dragen en gaan naar de grijpvogel bank om een rekening te openen. Daar krijgen ze te horen dat er al een rekening voor hen is geopend en dat ze eerst naar Heliana moeten om daar de gegevens van op te halen.
 # Openstaande Verhaal lijnen
 
 #### Groep verhaallijnen
-- De Rode Diplomaten hebben hun derde missie volbracht. Ze hebben verslag gedaan bij het brigade huis.
-	- Ze zullen in de loop van de volgende dag bevestigd krijgen dat ze, na het succesvol volbrengen van de derde opdracht, ze beëdigd zullen worden als officiële leden van de Scharlaken brigade. Dit gebeurt in een kleine ceremonie die 2 dagen later zal plaatsvinden.
+- De Rode Diplomaten hebben hun derde missie volbracht. Ze hebben verslag gedaan bij het brigade huis en bij Lorita in het Scholarium. Ze moeten nu terug naar Heliana voor het afronden van de opdracht.
 	- Ze worden uitbetaald voor de opdracht die ze hebben gedaan.
-	- In de tussentijd heeft Lorita Sancham gevraagd of de Rode Diplomaten langs willen komen om wat vragen te beantwoorden.
+	- Ze moeten nog even naar de grijpvogel bank voor het afronden van de opening van de rekening
+	  Heliana zal ze vertellen dat ze de volgende dag middels een kleine ceremonie zullen worden toegelaten tot de Scharlaken Brigade.
 	- Daarna hebben de spelers 2 dagen downtime, waarin ze zelf kunnen doen wat ze willen.
 - Na de beëdiging is er eventueel een nieuwe opdracht voor de spelers beschikbaar.
 
