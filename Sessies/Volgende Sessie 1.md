@@ -1,4 +1,4 @@
-Dag 17
+Dag 16
 
 # Spelers
 [[Koragh]]
@@ -6,7 +6,7 @@ Dag 17
 [[Echo]]
 
 # Wat is er gebeurt
-- Als de rode diplomaten de volgende ochtend wakker worden, vertelt Heliana ze dat Lorita de afronding van de opdracht heeft geaccepteerd, maar dat ze nog wel de spelers persoonlijk wil ondervragen over wat ze hebben gezien. Ze worden gevraagd de Scroll die ze hebben gevonden mee te nemen.
+- 
 # Openstaande Verhaal lijnen
 
 #### Groep verhaallijnen

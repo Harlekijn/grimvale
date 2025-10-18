@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "2ea87d6f4e5b0347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wereld/Locaties/Velnoya/Velnoya.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Velnoya"
-            }
-          },
-          {
             "id": "2631a93e7e4352df",
             "type": "leaf",
             "state": {
@@ -49,8 +35,7 @@
               "title": "De Scharlaken Brigade"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,7 +184,7 @@
                 "calendar": "ID_eb49794b1ab9",
                 "ephemeral": {
                   "viewing": {
-                    "day": 6,
+                    "day": 10,
                     "month": 10,
                     "year": 864
                   },
@@ -212,7 +197,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_bbebbaf9396b"
+                "id": "ID_bbebbaf9396b",
+                "child": "ID_dbeaea19cbbb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -229,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "42f834cd5449bb80",
@@ -241,7 +227,28 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
+                "parent": "ID_bbebbaf9396b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b05009120ae3ff7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "026eeae8cd6343b9",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_eb49794b1ab9",
+                "id": "ID_dbeaea19cbbb",
                 "parent": "ID_bbebbaf9396b"
               },
               "icon": "CALENDARIUM_AGENDA",
@@ -265,18 +272,22 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2ea87d6f4e5b0347",
+  "active": "727007081c74defd",
   "lastOpenFiles": [
+    "Sessies/12 - 3 maal is promotie.md",
+    "Sessies/Volgende Sessie.md",
+    "Sessies/Volgende Sessie 1.md",
+    "Wereld/Locaties/Velnoya/Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
-    "Sessies/Volgende Sessie.md",
     "Avonturen/Plotlijnen/Verdwijningen bij het Theater.md",
     "Avonturen/Plotlijnen/Toelatingsceremonie tot de Scharlaken Brigade.md",
     "Wereld/Personages/Goden/De Oude Goden.md",
-    "Wereld/Locaties/Velnoya/Velnoya.md",
     "Sessies/11 - Vreemdelingen in het moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/5. Terug in Velnoya.md",
     "Avonturen/Plotlijnen/Diefstal in de havens.md",
@@ -287,7 +298,6 @@
     "Overige/Brief van Cultist.md",
     "_images/Cultist Letter.png",
     "Avonturen/Plotlijnen/De waarheid van de Katabasis.md",
-    "Sessies/12 - 3 maal is promotie.md",
     "_maps/dam/Ziggurat.jpg",
     "_maps/Cultist Invoker.jpg",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
@@ -298,7 +308,6 @@
     "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Sessies/3 - Gesloopte Goblins.md",
     "Avonturen/Plotlijnen/Vervolg Ziggurat.md",
-    "ToDo.md",
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
     "_tools/Actually Scary Zombies for 5e _ GM Binder.pdf",
     "_maps/dam/Scholarium Ground Floor_autosave.dam",
