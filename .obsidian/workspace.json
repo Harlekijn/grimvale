@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessies/Volgende Sessie.md",
+                "file": "Sessies/13 - De karige krokodil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volgende Sessie"
+              "title": "13 - De karige krokodil"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wereld/Organisaties/De Scharlaken Brigade.md",
+                "file": "Sessies/13 - De karige krokodil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "De Scharlaken Brigade"
+              "title": "13 - De karige krokodil"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,14 +278,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "727007081c74defd",
+  "active": "2631a93e7e4352df",
   "lastOpenFiles": [
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Sessies/13 - De karige krokodil.md",
     "Sessies/12 - 3 maal is promotie.md",
-    "Sessies/Volgende Sessie.md",
     "Sessies/Volgende Sessie 1.md",
     "Wereld/Locaties/Velnoya/Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
-    "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Avonturen/Plotlijnen/Verdwijningen bij het Theater.md",
     "Avonturen/Plotlijnen/Toelatingsceremonie tot de Scharlaken Brigade.md",
     "Wereld/Personages/Goden/De Oude Goden.md",
