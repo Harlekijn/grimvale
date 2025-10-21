@@ -1,12 +1,17 @@
-![[Velnoya#Lord Alex Asteros]]
 
 ---
 ## Nieuwe Opdracht
 
 ### ![[De Scharlaken Brigade#Heliana Vacan]]
 De spelers krijgen bij Heliana te horen dat er een mogelijk nieuwe opdracht voor ze is.
-Als ze bij Heliana komen, dan vertelt ze dat er bij het theater in Velnoya enkele personen zijn verdwenen. De stadswacht van Velnoya heeft onderzoek gedaan, maar tot op heden geen sporen kunnen vinden. Het lijkt er ook op dat de stadswachters de zaak afdoen als ongerelateerde verdwijningen.
-De heer Esteros, een excentrieke, maar voorname inwoner van Velnoya heeft een beloning uitgeloofd voor hen die het mysterie kunnen oplossen. De spelers moeten zich eerst melden bij de heer Esteros.
+Als ze bij Heliana komen, dan vertelt ze het volgende:
+
+> Geachte heren van de Rode Diplomaten, ik heb een opdracht waarvan ik denk dat het wel wat voor jullie is. [[De Scharlaken Brigade#De Chronos Trackers|De Chronos Trackers]] zijn vanochtend vroeg vertrokken om de rituelen in de Zigurat te stoppen en [[De Scharlaken Brigade#De Ijzeren Valken|De Ijzeren Valken]] houden niet van dit soort opdrachten, dus daarom kom ik bij jullie uit.
+> De heer Alex Asteros, een nogal illustere heer hier in Velnoya, heeft gevraagd of een team hem kan helpen met het onderzoeken van enkele verdwijningen in en rond het theater van de gulle glimlach. De verdwijningen lijken ongerelateerd, maar de heer Asteros vermoed een verband. Hij heeft dit gemeld bij de stadswacht, maar die wuiven het weg. 
+> Het is voor de brigade ook een mooie kans om meer te weten te komen over de heer Asteros. Het is een nogal mysterieus en onbekend figuur. Hij is pas recent aan zijn titel gekomen en de Brigade weet weinig over hem. Hij was de bodyguard van Lady Villeneuve. Lady Villeneuve was een oude weduwe die zich weinig bemoeide met de lokale politiek, ze bezat wel een grote rijkdom en genoot hier in Velnoya van haar pensioen, na het overlijden van haar man. Na haar dood heeft ze alles nagelaten aan de heer Asteros. Lady Villeneuve was de beschermvrouwe van het theater en het lijkt er op dat de heer Asteros die rol heeft overgenomen.
+> Jullie moeten je melden bij de heer Asteros, hij wil jullie zien voordat hij meer informatie geeft over de opdracht.
+
+De Rode Diplomaten moeten zich hierna naar het Schilderskwartier begeven.
 
 ---
 

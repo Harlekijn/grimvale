@@ -25,8 +25,9 @@ Dag 17
 	- Ze worden uitbetaald voor de opdracht die ze hebben gedaan.
 	- Ze moeten nog even naar de grijpvogel bank voor het afronden van de opening van de rekening
 	  Heliana zal ze vertellen dat ze de volgende dag middels een kleine ceremonie zullen worden toegelaten tot de Scharlaken Brigade.
-	- Daarna hebben de spelers 2 dagen downtime, waarin ze zelf kunnen doen wat ze willen.
-- Na de beëdiging is er eventueel een nieuwe opdracht voor de spelers beschikbaar.
+	- Daarna hebben de spelers 1 dag downtime, waarin ze zelf kunnen doen wat ze willen.
+- Na de beëdiging is er eventueel een nieuwe opdracht voor de spelers beschikbaar, maar ze zijn niet langer verplicht die aan te nemen.
+- Op een moment na de ceremonie is er een brief van Elias voor Echo afgeleverd bij de brigade, Bertran Vacan heeft de brief
 
 #### Persoonlijke verhaallijnen
 - Koragh wil het metaal waarvan Myrmex van gemaakt is graag aan zijn vader laten zien.
