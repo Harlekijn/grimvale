@@ -198,8 +198,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_bbebbaf9396b",
-                "child": "ID_dbeaea19cbbb"
+                "id": "ID_bbebbaf9396b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -211,8 +210,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-ghost",
+              "title": "smart-chat-view"
             }
           }
         ],
@@ -228,7 +227,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -248,7 +246,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_dbeaea19cbbb",
                 "parent": "ID_bbebbaf9396b"
               },
