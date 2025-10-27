@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Sessies/13 - De karige krokodil.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 - De karige krokodil"
+            }
+          },
+          {
+            "id": "3e8ee0641b798071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ToDo.md",
                 "mode": "source",
                 "source": false
@@ -34,9 +48,23 @@
               "icon": "lucide-file",
               "title": "ToDo"
             }
+          },
+          {
+            "id": "ea1a7ade86aea5c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wereld/Locaties/Velnoya/Velnoya.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Velnoya"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +226,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_bbebbaf9396b"
+                "id": "ID_bbebbaf9396b",
+                "child": "ID_dbeaea19cbbb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -227,6 +256,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -246,6 +276,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_dbeaea19cbbb",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -275,9 +306,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "2631a93e7e4352df",
+  "active": "ea1a7ade86aea5c6",
   "lastOpenFiles": [
+    "ToDo.md",
+    "Wereld/Locaties/Velnoya/Velnoya.md",
+    "Sessies/Volgende Sessie 1.md",
     "Avonturen/Plotlijnen en Opdrachten/Verdwijningen bij het Theater.md",
+    "Sessies/13 - De karige krokodil.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
     "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
     "Avonturen/1. Hakken in Houtkamp/3.1 Onderweg naar de goblin hideout.md",
@@ -292,11 +327,7 @@
     "Sessies/2 - Stappen in het bos.md",
     "Avonturen/Plotlijnen en Opdrachten/De Hag in het moeras.md",
     "Avonturen/Plotlijnen en Opdrachten/De waarheid van de Katabasis.md",
-    "Sessies/13 - De karige krokodil.md",
-    "ToDo.md",
     "Sessies/12 - 3 maal is promotie.md",
-    "Sessies/Volgende Sessie 1.md",
-    "Wereld/Locaties/Velnoya/Velnoya.md",
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "Avonturen/Plotlijnen en Opdrachten/Toelatingsceremonie tot de Scharlaken Brigade.md",
     "Wereld/Personages/Goden/De Oude Goden.md",

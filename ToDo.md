@@ -1,2 +1,3 @@
 - [ ] Brief Elias aan Echo
-- [ ] 
+- [ ] Alarm eruit SHield erin voor Echo
+- [ ] Grijpvogel bank 1685 + 250 = 1935 totaal
