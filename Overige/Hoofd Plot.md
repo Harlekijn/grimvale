@@ -31,7 +31,17 @@ Onder de Scharlaken Citadel bevind zich een tempel aan [[Zephyros de Windvader]]
 Zephyros heeft zich nooit helemaal teruggetrokken van de wereld tijdens de Katabasis omdat hij een oogje in het zeil wil bewaren en de balans in de wereld wilde veilig stellen. Een van zijn manieren om balans te bewaken is de scharlaken brigade.
 Alleen de Elite teams van de scharlaken brigade weten van het bestaan van Zephyros, die ook echt fysiek aanwezig is in te tempel.
 Zodra de spelers achter het plot om Malaxar tot leven te wekken komen en dit bij de brigade bekent wordt, zullen ze aan Zephyros voorgesteld worden.
+De Katabasis is ook anders gegaan dan dat de geschiedenis boeken hebben vastgelegd. Men denkt dat de goden zichzelf, na jarenlange onderlinge strijd, hebben opgeofferd omdat hun oorlog anders voor de totale destructie van het universum zou leiden. Wat er daadwerkelijk aan de hand was was dat een groep magiers van verschillende rassen zo machtig waren geworden, dat ze de goden wilden doden, zodat ze ongehinderd zelf zouden kunnen regeren over de wereld. Ze deden dit door middel van een apparaat dat de goddelijke kracht aan de goden kon onttrekken en op die manier de goden leeg kon zuigen. Een van de blood mages die dat deed was de schepper van Myrmex.
+De Cult die Malaxar wil doen herrijzen heeft de stad van de magiers ontdekt en is bezig de  machine te repareren. Ze willen Malaxar na zijn herrijzenis aan de machine koppelen en zijn kracht onttrekken waardoor ze zelf tot god kunnen opstijgen en zijn plaats kunnen innemen.
 
+De goden hebben de magiers verslagen met hun legers en de machine vernietigd door het te overladen met hun kracht. Hierdoor zijn wel alle goden (op Zephyros na) vernietigd en is de grimvale ontstaan.
+
+De Cult van Malaxar heeft kort na het ontdekken van de Grimvale de waarheid achter het ontstaan ontdekt toen ze, op zoek naar meer graviton mijnen, stuitten op de stad van de magiers en op het lijk van de maker van Myrmex. Ze hebben toen de maker van Myrmex laten ontwaken en hij heeft gelijk iedereen gemidcontrolled. De maker van Myrmex heeft een cult gevormd die is begonnen met het herbouwen van de machine. Ze hebben er ook voor gezorgd dat alle hints van de waarheid achter de katabasis onvindbaar is geworden. Dit hebben ze gedaan door wereldwijd boeken hierover uit bibliotheken te verwijderen en te vernietigen. Bij een van deze acties is Elma gedood.
+
+
+De raid op de Zigurat door de Chronos Trackers mislukt en de Rode Diplomaten worden er achteraan gestuurd om de Chronos Trackers te redden. De Rode Diplomaten komen zelf in de problemen en worden gered door iemand van de Zilveren Hand. Later komen ze er achter dat de Zilveren Hand een groep Duivels is geleid door [[De Nieuwe Goden#Inferna|Inferna]] De Aarts Duivel. De Duivels hebben zich sinds de Katabasis afgeweerd van de Demonen en Ondoden die eerst hun broeders en zusters waren. Waar de Ondoden en Demonen wezens van Chaos zijn gebleven zijn de Duivels meer een groep van Orde geworden. Nog steeds Evil, maar ze houden van structuur en regels. Afspraak is afspraak en een deal is een deal.
+
+De Persoon van de Zilveren Hand vertelt de spelers dat ze de rangen van de Scharlaken Brigade moeten klimmen om achter de waarheid van de brigade te komen. Het is niet wat het lijkt.
 
 ### Links / Notes
 Blood Dragon: https://www.dndbeyond.com/monsters/3753332-crux-the-blood-dragon

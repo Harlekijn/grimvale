@@ -34,6 +34,7 @@ Na enkele ronden in het gevecht zal Asteros het gevecht stoppen.
 - Hij vertrouwt niemand bij het theater en wil daarom dat de spelers zelf op onderzoek uit gaan, zonder dat de eigenaar van het theater ingelicht is.
 - Hij heeft kaartjes voor de matinee voorstelling in zijn loge box.
 - TODO: Theater en medewerkers uitwerken en uitwerken welke persoon wat weet
+- Als de spelers de kelder van het theater onderzoeken, dan worden ze daar opgesloten. Het is een stalen deur die naar binnen opent, aan de buitenkant is een immovable rod gedaan om de spelers binnen te houden. 
 - De spelers krijgen in diverse stappen steeds meer hints naar de steeg achter het theater
 - Als ze de steeg onderzoeken vinden ze de spitting mimic
 - TODO: Kaart steeg maken

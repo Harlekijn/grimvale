@@ -14,7 +14,7 @@ De spelers komen aan in de Gelaghkamer waar ze opgewacht worden door Bertrand en
 
 ---
 
-### **Stap 1: Ontvangst en Stiltemoment**
+### **Stap 1: Ontvangst en Stilte-moment**
 
 Gregor Zwartschil staat voor de verzamelde jagers, gekleed in een donkerrode mantel met zilveren borstplaat. Ze heft een hand om stilte te gebaren.
 
