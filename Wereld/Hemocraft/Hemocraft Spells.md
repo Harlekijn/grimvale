@@ -12,6 +12,7 @@ You transmute a drop of blood into a crimson dart and launch it at creatures wit
 
 The piercing and necrotic damage increase by 1d6 at 5th level (2d6), 11th level (3d6), and 17th level (4d6). The blood consumed also increases when the damage increases at 5th (2), 11th (3), and 17th (4).
 
+
 # 1st-level spells
 
 #### Blood Slash
