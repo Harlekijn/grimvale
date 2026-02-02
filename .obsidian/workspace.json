@@ -81,14 +81,12 @@
             "id": "44a47335bd86e23e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Wereld/Hemocraft/Hemocraft Spells.md",
-                "mode": "source",
-                "source": false
+                "file": "_maps/Volmarus Wereld kaart.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Hemocraft Spells"
+              "icon": "lucide-image",
+              "title": "Volmarus Wereld kaart"
             }
           }
         ],
@@ -284,6 +282,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -303,6 +302,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_dbeaea19cbbb",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -334,6 +334,14 @@
   },
   "active": "44a47335bd86e23e",
   "lastOpenFiles": [
+    "_images/Check In_ Delta Air Lines.pdf",
+    "_images/Gnome Artificer - Creator of Myrmex.png",
+    "_images/Imperius.jpg",
+    "Untitled.md",
+    "Wereld/Personages/Goden/De Oude Goden.md",
+    "Wereld/Personages/Goden/De Nieuwe Goden.md",
+    "Wereld/Personages/Goden/Ania.md",
+    "Wereld/Hemocraft/Hemocraft Spells.md",
     "Overige/Hoofd Plot.md",
     "_images/Brief Koragh.png",
     "_images/Cultist Letter.png",
@@ -356,11 +364,6 @@
     "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
     "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
     "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
-    "Avonturen/3. De scheur en de spits/4. Onder de obelisk.md",
-    "Avonturen/3. De scheur en de spits/3. Aan boord van de Imperius.md",
-    "Avonturen/3. De scheur en de spits/2. Fondue.md",
-    "Avonturen/3. De scheur en de spits/1. Laau-Maa naar Velnoya.md",
-    "Avonturen/2. Aanmelden bij de Scharlaken Brigade/3. De tombe van Sint Ikro.md",
     "_maps/dam/Ziggurat.jpg",
     "_maps/Cultist Invoker.jpg",
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
@@ -375,9 +378,7 @@
     "_other/the-tome-of-vicious-mockeries-v0-n8uqypkyas6f1.webp.crdownload",
     "_other/the-tome-of-vicious-mockeries-v0-2p2xt3dyas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-2p2xt3dyas6f1.webp.crdownload",
-    "_other/the-tome-of-vicious-mockeries-v0-i6o2kp3yas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-i6o2kp3yas6f1.webp.crdownload",
-    "_other/the-tome-of-vicious-mockeries-v0-avymvgwxas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-avymvgwxas6f1.webp.crdownload",
     "Untitled 1.canvas",
     "Untitled.canvas"
