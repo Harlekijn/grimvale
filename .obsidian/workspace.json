@@ -282,7 +282,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -302,7 +301,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_dbeaea19cbbb",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -327,9 +325,7 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "44a47335bd86e23e",
