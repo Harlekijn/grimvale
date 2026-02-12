@@ -83,10 +83,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "_maps/Volmarus Wereld kaart.jpg"
+                "file": "_maps/De Grimvale.jpg"
               },
               "icon": "lucide-image",
-              "title": "Volmarus Wereld kaart"
+              "title": "De Grimvale"
             }
           }
         ],
@@ -328,8 +328,15 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "44a47335bd86e23e",
+  "active": "0bcf2d4f1af06443",
   "lastOpenFiles": [
+    "De Vuurpieken.md",
+    "Wereld/Personages/Goden/Verdantara.md",
+    "Wereld/Organisaties/De Scharlaken Brigade.md",
+    "Wereld/Organisaties/De Orde van de Verlichte Vuist.md",
+    "Wereld/Organisaties/Het Gilde Der Alchemisten/Het Gilde der Alchemisten.md",
+    "_maps/De Grimvale.jpg",
+    "_maps/Volmarus Wereld kaart.jpg",
     "_images/Check In_ Delta Air Lines.pdf",
     "_images/Gnome Artificer - Creator of Myrmex.png",
     "_images/Imperius.jpg",
@@ -356,10 +363,6 @@
     "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
     "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
-    "Avonturen/3. De scheur en de spits/5. De val van de Titaan.md",
-    "Avonturen/3. De scheur en de spits/7. Belovaars Grafkamer.md",
-    "Avonturen/3. De scheur en de spits/8. Het Scholarium.md",
-    "Avonturen/3. De scheur en de spits/6. Het Maanmeer.md",
     "_maps/dam/Ziggurat.jpg",
     "_maps/Cultist Invoker.jpg",
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
@@ -370,12 +373,9 @@
     "_other/the-tome-of-vicious-mockeries-v0-0i4y1xyyas6f1.webp.crdownload",
     "_other/the-tome-of-vicious-mockeries-v0-rjyhxnryas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-rjyhxnryas6f1.webp.crdownload",
-    "_other/the-tome-of-vicious-mockeries-v0-n8uqypkyas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-n8uqypkyas6f1.webp.crdownload",
-    "_other/the-tome-of-vicious-mockeries-v0-2p2xt3dyas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-2p2xt3dyas6f1.webp.crdownload",
     "_other/the-tome-of-vicious-mockeries-v0-i6o2kp3yas6f1.webp.crdownload",
-    "_other/the-tome-of-vicious-mockeries-v0-avymvgwxas6f1.webp.crdownload",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
