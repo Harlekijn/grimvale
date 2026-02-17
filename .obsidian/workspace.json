@@ -282,6 +282,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_897bd9497b0b",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -301,6 +302,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_eb49794b1ab9",
                 "id": "ID_dbeaea19cbbb",
                 "parent": "ID_bbebbaf9396b"
               },
@@ -325,11 +327,15 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "0bcf2d4f1af06443",
   "lastOpenFiles": [
+    "_maps/dam/Het Theater van de Gulle Glimlach.dam",
+    "_maps/Het Theater van de Gulle Glimlach.jpg",
     "De Vuurpieken.md",
     "Wereld/Personages/Goden/Verdantara.md",
     "Wereld/Organisaties/De Scharlaken Brigade.md",
@@ -362,7 +368,6 @@
     "Avonturen/4. De Ziggurat in het Moeras/3. Hut in het Moeras.md",
     "Avonturen/4. De Ziggurat in het Moeras/2. Het Moeras in!.md",
     "Avonturen/4. De Ziggurat in het Moeras/4. De Ziggurat.md",
-    "Avonturen/4. De Ziggurat in het Moeras/1. De Scharlaken Brigade in Velnoya.md",
     "_maps/dam/Ziggurat.jpg",
     "_maps/Cultist Invoker.jpg",
     "_tools/D&D Shop Catalog, V-2.0.2-Refresh.pdf",
@@ -371,7 +376,6 @@
     "_images/Scholarium - W.I.P..dam",
     "_other/the-tome-of-vicious-mockeries-v0-0i4y1xyyas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-0i4y1xyyas6f1.webp.crdownload",
-    "_other/the-tome-of-vicious-mockeries-v0-rjyhxnryas6f1.webp",
     "_other/the-tome-of-vicious-mockeries-v0-rjyhxnryas6f1.webp.crdownload",
     "_other/the-tome-of-vicious-mockeries-v0-n8uqypkyas6f1.webp.crdownload",
     "_other/the-tome-of-vicious-mockeries-v0-2p2xt3dyas6f1.webp.crdownload",
